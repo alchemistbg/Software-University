@@ -6,7 +6,7 @@
 <ol>
 <li>Programming Basics - 09.2017
 
-This folder contains the code from the first course from Software Engineer program in [SoftUni](http://softuni.bg "Software University").
+This folder contains the code from the first course from **Software Engineer** program in **[SoftUni](http://softuni.bg "Software University")**.
 
 <li>Tech Module
 <ol>
