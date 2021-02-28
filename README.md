@@ -4,7 +4,7 @@
 
 ### Content
 <ol>
-<li>Programming Basics with Java[Programming Basics with Java](./01-Programming-Basics-Java/) - 09.2017
+<li>Programming Basics with Java(https://github.com/alchemistbg/SoftwareUniversity/tree/main/01-Programming-Basics-Java) - 09.2017
 
 This folder contains the code from the first course from **Software Engineer** program in **[SoftUni](http://softuni.bg "Software University")**.
 
