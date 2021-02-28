@@ -1,7 +1,7 @@
-#### My exam
-1. Programming Basics Exam - 05 November 2017
+### My exam
+Programming Basics Exam - 05 November 2017
 
-This exams are now **MISSING** from **judge**.
+This exam is now **MISSING** from **judge**.
 
 **Solutions of this exam using C# could be found here:** 
 
