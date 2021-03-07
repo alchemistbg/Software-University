@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\_Workspace\\SoftwareUniversity\\02-Tech-Module\\01-Programming-Fundamentals\\01-Intro_and_Basic_Syntax\\01-Lab\\01_Greeting\\01_Greeting.csproj": {}
+    "C:\\_Workspace\\SoftwareUniversity\\02-Tech-Module\\01-Programming-Fundamentals\\01-Intro-and-Basic-Syntax\\01-Lab\\01_Greeting\\01_Greeting.csproj": {}
   },
   "projects": {
-    "C:\\_Workspace\\SoftwareUniversity\\02-Tech-Module\\01-Programming-Fundamentals\\01-Intro_and_Basic_Syntax\\01-Lab\\01_Greeting\\01_Greeting.csproj": {
+    "C:\\_Workspace\\SoftwareUniversity\\02-Tech-Module\\01-Programming-Fundamentals\\01-Intro-and-Basic-Syntax\\01-Lab\\01_Greeting\\01_Greeting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\_Workspace\\SoftwareUniversity\\02-Tech-Module\\01-Programming-Fundamentals\\01-Intro_and_Basic_Syntax\\01-Lab\\01_Greeting\\01_Greeting.csproj",
+        "projectUniqueName": "C:\\_Workspace\\SoftwareUniversity\\02-Tech-Module\\01-Programming-Fundamentals\\01-Intro-and-Basic-Syntax\\01-Lab\\01_Greeting\\01_Greeting.csproj",
         "projectName": "01_Greeting",
-        "projectPath": "C:\\_Workspace\\SoftwareUniversity\\02-Tech-Module\\01-Programming-Fundamentals\\01-Intro_and_Basic_Syntax\\01-Lab\\01_Greeting\\01_Greeting.csproj",
+        "projectPath": "C:\\_Workspace\\SoftwareUniversity\\02-Tech-Module\\01-Programming-Fundamentals\\01-Intro-and-Basic-Syntax\\01-Lab\\01_Greeting\\01_Greeting.csproj",
         "packagesPath": "C:\\Users\\Oggy\\.nuget\\packages\\",
-        "outputPath": "C:\\_Workspace\\SoftwareUniversity\\02-Tech-Module\\01-Programming-Fundamentals\\01-Intro_and_Basic_Syntax\\01-Lab\\01_Greeting\\obj\\",
+        "outputPath": "C:\\_Workspace\\SoftwareUniversity\\02-Tech-Module\\01-Programming-Fundamentals\\01-Intro-and-Basic-Syntax\\01-Lab\\01_Greeting\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Oggy\\AppData\\Roaming\\NuGet\\NuGet.Config",

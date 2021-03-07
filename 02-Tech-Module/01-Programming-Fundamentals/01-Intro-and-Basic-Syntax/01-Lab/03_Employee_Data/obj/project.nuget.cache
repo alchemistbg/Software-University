@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vDTy6AraNwdVOtecPbvIz18Jxrv31TM4/Q4IITrc9Um6mIQ8SE/kfMqf3y8OSg+yN8zq6RJaoE10LamhtNEeJA==",
+  "dgSpecHash": "99VHQ2eHOBas/iDfkPIr6zFgv6YCSgOSW40e+Q2WKy1S2VOk0YfJEtYEuUa1iMy9A0No7GdSK7pSkLW41U44Ag==",
   "success": true,
-  "projectFilePath": "C:\\_Workspace\\SoftwareUniversity\\02-Tech-Module\\01-Programming-Fundamentals\\01-Intro_and_Basic_Syntax\\01-Lab\\03_Employee_Data\\03_Employee_Data.csproj",
+  "projectFilePath": "C:\\_Workspace\\SoftwareUniversity\\02-Tech-Module\\01-Programming-Fundamentals\\01-Intro-and-Basic-Syntax\\01-Lab\\03_Employee_Data\\03_Employee_Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Oggy\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
     "C:\\Users\\Oggy\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",

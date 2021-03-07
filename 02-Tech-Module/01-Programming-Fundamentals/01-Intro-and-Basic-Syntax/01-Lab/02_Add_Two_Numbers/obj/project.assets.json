@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\_Workspace\\SoftwareUniversity\\02-Tech-Module\\01-Programming-Fundamentals\\01-Intro_and_Basic_Syntax\\01-Lab\\02_Add_Two_Numbers\\02_Add_Two_Numbers.csproj",
+      "projectUniqueName": "C:\\_Workspace\\SoftwareUniversity\\02-Tech-Module\\01-Programming-Fundamentals\\01-Intro-and-Basic-Syntax\\01-Lab\\02_Add_Two_Numbers\\02_Add_Two_Numbers.csproj",
       "projectName": "02_Add_Two_Numbers",
-      "projectPath": "C:\\_Workspace\\SoftwareUniversity\\02-Tech-Module\\01-Programming-Fundamentals\\01-Intro_and_Basic_Syntax\\01-Lab\\02_Add_Two_Numbers\\02_Add_Two_Numbers.csproj",
+      "projectPath": "C:\\_Workspace\\SoftwareUniversity\\02-Tech-Module\\01-Programming-Fundamentals\\01-Intro-and-Basic-Syntax\\01-Lab\\02_Add_Two_Numbers\\02_Add_Two_Numbers.csproj",
       "packagesPath": "C:\\Users\\Oggy\\.nuget\\packages\\",
-      "outputPath": "C:\\_Workspace\\SoftwareUniversity\\02-Tech-Module\\01-Programming-Fundamentals\\01-Intro_and_Basic_Syntax\\01-Lab\\02_Add_Two_Numbers\\obj\\",
+      "outputPath": "C:\\_Workspace\\SoftwareUniversity\\02-Tech-Module\\01-Programming-Fundamentals\\01-Intro-and-Basic-Syntax\\01-Lab\\02_Add_Two_Numbers\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Oggy\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\_Workspace\\SoftwareUniversity\\02-Tech-Module\\01-Programming-Fundamentals\\01-Intro_and_Basic_Syntax\\01-Lab\\03_Employee_Data\\03_Employee_Data.csproj": {}
+    "C:\\_Workspace\\SoftwareUniversity\\02-Tech-Module\\01-Programming-Fundamentals\\01-Intro-and-Basic-Syntax\\01-Lab\\03_Employee_Data\\03_Employee_Data.csproj": {}
   },
   "projects": {
-    "C:\\_Workspace\\SoftwareUniversity\\02-Tech-Module\\01-Programming-Fundamentals\\01-Intro_and_Basic_Syntax\\01-Lab\\03_Employee_Data\\03_Employee_Data.csproj": {
+    "C:\\_Workspace\\SoftwareUniversity\\02-Tech-Module\\01-Programming-Fundamentals\\01-Intro-and-Basic-Syntax\\01-Lab\\03_Employee_Data\\03_Employee_Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\_Workspace\\SoftwareUniversity\\02-Tech-Module\\01-Programming-Fundamentals\\01-Intro_and_Basic_Syntax\\01-Lab\\03_Employee_Data\\03_Employee_Data.csproj",
+        "projectUniqueName": "C:\\_Workspace\\SoftwareUniversity\\02-Tech-Module\\01-Programming-Fundamentals\\01-Intro-and-Basic-Syntax\\01-Lab\\03_Employee_Data\\03_Employee_Data.csproj",
         "projectName": "03_Employee_Data",
-        "projectPath": "C:\\_Workspace\\SoftwareUniversity\\02-Tech-Module\\01-Programming-Fundamentals\\01-Intro_and_Basic_Syntax\\01-Lab\\03_Employee_Data\\03_Employee_Data.csproj",
+        "projectPath": "C:\\_Workspace\\SoftwareUniversity\\02-Tech-Module\\01-Programming-Fundamentals\\01-Intro-and-Basic-Syntax\\01-Lab\\03_Employee_Data\\03_Employee_Data.csproj",
         "packagesPath": "C:\\Users\\Oggy\\.nuget\\packages\\",
-        "outputPath": "C:\\_Workspace\\SoftwareUniversity\\02-Tech-Module\\01-Programming-Fundamentals\\01-Intro_and_Basic_Syntax\\01-Lab\\03_Employee_Data\\obj\\",
+        "outputPath": "C:\\_Workspace\\SoftwareUniversity\\02-Tech-Module\\01-Programming-Fundamentals\\01-Intro-and-Basic-Syntax\\01-Lab\\03_Employee_Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Oggy\\AppData\\Roaming\\NuGet\\NuGet.Config",
