@@ -1,0 +1,11 @@
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\03-Data_Types_and_Variables\Exercises-More\12_Beer Kegs\obj\Debug\netcoreapp2.1\12_Beer Kegs.csprojAssemblyReference.cache
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\03-Data_Types_and_Variables\Exercises-More\12_Beer Kegs\obj\Debug\netcoreapp2.1\12_Beer Kegs.csproj.CoreCompileInputs.cache
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\03-Data_Types_and_Variables\Exercises-More\12_Beer Kegs\obj\Debug\netcoreapp2.1\12_Beer Kegs.AssemblyInfoInputs.cache
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\03-Data_Types_and_Variables\Exercises-More\12_Beer Kegs\obj\Debug\netcoreapp2.1\12_Beer Kegs.AssemblyInfo.cs
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\03-Data_Types_and_Variables\Exercises-More\12_Beer Kegs\bin\Debug\netcoreapp2.1\12_Beer Kegs.deps.json
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\03-Data_Types_and_Variables\Exercises-More\12_Beer Kegs\bin\Debug\netcoreapp2.1\12_Beer Kegs.runtimeconfig.json
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\03-Data_Types_and_Variables\Exercises-More\12_Beer Kegs\bin\Debug\netcoreapp2.1\12_Beer Kegs.runtimeconfig.dev.json
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\03-Data_Types_and_Variables\Exercises-More\12_Beer Kegs\bin\Debug\netcoreapp2.1\12_Beer Kegs.dll
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\03-Data_Types_and_Variables\Exercises-More\12_Beer Kegs\bin\Debug\netcoreapp2.1\12_Beer Kegs.pdb
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\03-Data_Types_and_Variables\Exercises-More\12_Beer Kegs\obj\Debug\netcoreapp2.1\12_Beer Kegs.dll
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\03-Data_Types_and_Variables\Exercises-More\12_Beer Kegs\obj\Debug\netcoreapp2.1\12_Beer Kegs.pdb

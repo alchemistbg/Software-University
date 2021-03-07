@@ -1,0 +1,10 @@
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\01-Intro_and_Basic_Syntax\Exercise\03_Miles_to_Kilometers\bin\Debug\netcoreapp2.1\03_Miles_to_Kilometers.deps.json
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\01-Intro_and_Basic_Syntax\Exercise\03_Miles_to_Kilometers\bin\Debug\netcoreapp2.1\03_Miles_to_Kilometers.runtimeconfig.json
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\01-Intro_and_Basic_Syntax\Exercise\03_Miles_to_Kilometers\bin\Debug\netcoreapp2.1\03_Miles_to_Kilometers.runtimeconfig.dev.json
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\01-Intro_and_Basic_Syntax\Exercise\03_Miles_to_Kilometers\bin\Debug\netcoreapp2.1\03_Miles_to_Kilometers.dll
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\01-Intro_and_Basic_Syntax\Exercise\03_Miles_to_Kilometers\bin\Debug\netcoreapp2.1\03_Miles_to_Kilometers.pdb
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\01-Intro_and_Basic_Syntax\Exercise\03_Miles_to_Kilometers\obj\Debug\netcoreapp2.1\03_Miles_to_Kilometers.csproj.CoreCompileInputs.cache
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\01-Intro_and_Basic_Syntax\Exercise\03_Miles_to_Kilometers\obj\Debug\netcoreapp2.1\03_Miles_to_Kilometers.AssemblyInfoInputs.cache
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\01-Intro_and_Basic_Syntax\Exercise\03_Miles_to_Kilometers\obj\Debug\netcoreapp2.1\03_Miles_to_Kilometers.AssemblyInfo.cs
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\01-Intro_and_Basic_Syntax\Exercise\03_Miles_to_Kilometers\obj\Debug\netcoreapp2.1\03_Miles_to_Kilometers.dll
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\01-Intro_and_Basic_Syntax\Exercise\03_Miles_to_Kilometers\obj\Debug\netcoreapp2.1\03_Miles_to_Kilometers.pdb

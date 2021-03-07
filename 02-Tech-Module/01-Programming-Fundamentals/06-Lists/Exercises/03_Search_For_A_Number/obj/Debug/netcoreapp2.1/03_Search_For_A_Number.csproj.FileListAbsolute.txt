@@ -1,0 +1,11 @@
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\06-Lists\Exercises\03_Search_For_A_Number\bin\Debug\netcoreapp2.1\03_Search_For_A_Number.deps.json
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\06-Lists\Exercises\03_Search_For_A_Number\bin\Debug\netcoreapp2.1\03_Search_For_A_Number.runtimeconfig.json
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\06-Lists\Exercises\03_Search_For_A_Number\bin\Debug\netcoreapp2.1\03_Search_For_A_Number.runtimeconfig.dev.json
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\06-Lists\Exercises\03_Search_For_A_Number\bin\Debug\netcoreapp2.1\03_Search_For_A_Number.dll
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\06-Lists\Exercises\03_Search_For_A_Number\bin\Debug\netcoreapp2.1\03_Search_For_A_Number.pdb
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\06-Lists\Exercises\03_Search_For_A_Number\obj\Debug\netcoreapp2.1\03_Search_For_A_Number.csprojAssemblyReference.cache
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\06-Lists\Exercises\03_Search_For_A_Number\obj\Debug\netcoreapp2.1\03_Search_For_A_Number.csproj.CoreCompileInputs.cache
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\06-Lists\Exercises\03_Search_For_A_Number\obj\Debug\netcoreapp2.1\03_Search_For_A_Number.AssemblyInfoInputs.cache
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\06-Lists\Exercises\03_Search_For_A_Number\obj\Debug\netcoreapp2.1\03_Search_For_A_Number.AssemblyInfo.cs
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\06-Lists\Exercises\03_Search_For_A_Number\obj\Debug\netcoreapp2.1\03_Search_For_A_Number.dll
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\06-Lists\Exercises\03_Search_For_A_Number\obj\Debug\netcoreapp2.1\03_Search_For_A_Number.pdb

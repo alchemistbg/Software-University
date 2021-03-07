@@ -1,0 +1,10 @@
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\05-Arrays\Exercises\05_Compare_Char_Arrays\bin\Debug\netcoreapp2.1\05_Compare_Char_Arrays.deps.json
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\05-Arrays\Exercises\05_Compare_Char_Arrays\bin\Debug\netcoreapp2.1\05_Compare_Char_Arrays.runtimeconfig.json
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\05-Arrays\Exercises\05_Compare_Char_Arrays\bin\Debug\netcoreapp2.1\05_Compare_Char_Arrays.runtimeconfig.dev.json
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\05-Arrays\Exercises\05_Compare_Char_Arrays\bin\Debug\netcoreapp2.1\05_Compare_Char_Arrays.dll
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\05-Arrays\Exercises\05_Compare_Char_Arrays\bin\Debug\netcoreapp2.1\05_Compare_Char_Arrays.pdb
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\05-Arrays\Exercises\05_Compare_Char_Arrays\obj\Debug\netcoreapp2.1\05_Compare_Char_Arrays.csproj.CoreCompileInputs.cache
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\05-Arrays\Exercises\05_Compare_Char_Arrays\obj\Debug\netcoreapp2.1\05_Compare_Char_Arrays.AssemblyInfoInputs.cache
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\05-Arrays\Exercises\05_Compare_Char_Arrays\obj\Debug\netcoreapp2.1\05_Compare_Char_Arrays.AssemblyInfo.cs
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\05-Arrays\Exercises\05_Compare_Char_Arrays\obj\Debug\netcoreapp2.1\05_Compare_Char_Arrays.dll
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\05-Arrays\Exercises\05_Compare_Char_Arrays\obj\Debug\netcoreapp2.1\05_Compare_Char_Arrays.pdb

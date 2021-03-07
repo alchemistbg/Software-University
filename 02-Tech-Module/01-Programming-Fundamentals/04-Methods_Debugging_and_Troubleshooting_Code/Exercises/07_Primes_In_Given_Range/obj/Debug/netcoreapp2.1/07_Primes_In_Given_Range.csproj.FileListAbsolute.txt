@@ -1,0 +1,11 @@
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\04-Methods_Debugging_and_Troubleshooting_Code\Exercises\07_Primes_In_Given_Range\obj\Debug\netcoreapp2.1\07_Primes_In_Given_Range.csprojAssemblyReference.cache
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\04-Methods_Debugging_and_Troubleshooting_Code\Exercises\07_Primes_In_Given_Range\obj\Debug\netcoreapp2.1\07_Primes_In_Given_Range.csproj.CoreCompileInputs.cache
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\04-Methods_Debugging_and_Troubleshooting_Code\Exercises\07_Primes_In_Given_Range\obj\Debug\netcoreapp2.1\07_Primes_In_Given_Range.AssemblyInfoInputs.cache
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\04-Methods_Debugging_and_Troubleshooting_Code\Exercises\07_Primes_In_Given_Range\obj\Debug\netcoreapp2.1\07_Primes_In_Given_Range.AssemblyInfo.cs
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\04-Methods_Debugging_and_Troubleshooting_Code\Exercises\07_Primes_In_Given_Range\bin\Debug\netcoreapp2.1\07_Primes_In_Given_Range.deps.json
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\04-Methods_Debugging_and_Troubleshooting_Code\Exercises\07_Primes_In_Given_Range\bin\Debug\netcoreapp2.1\07_Primes_In_Given_Range.runtimeconfig.json
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\04-Methods_Debugging_and_Troubleshooting_Code\Exercises\07_Primes_In_Given_Range\bin\Debug\netcoreapp2.1\07_Primes_In_Given_Range.runtimeconfig.dev.json
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\04-Methods_Debugging_and_Troubleshooting_Code\Exercises\07_Primes_In_Given_Range\bin\Debug\netcoreapp2.1\07_Primes_In_Given_Range.dll
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\04-Methods_Debugging_and_Troubleshooting_Code\Exercises\07_Primes_In_Given_Range\bin\Debug\netcoreapp2.1\07_Primes_In_Given_Range.pdb
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\04-Methods_Debugging_and_Troubleshooting_Code\Exercises\07_Primes_In_Given_Range\obj\Debug\netcoreapp2.1\07_Primes_In_Given_Range.dll
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\04-Methods_Debugging_and_Troubleshooting_Code\Exercises\07_Primes_In_Given_Range\obj\Debug\netcoreapp2.1\07_Primes_In_Given_Range.pdb

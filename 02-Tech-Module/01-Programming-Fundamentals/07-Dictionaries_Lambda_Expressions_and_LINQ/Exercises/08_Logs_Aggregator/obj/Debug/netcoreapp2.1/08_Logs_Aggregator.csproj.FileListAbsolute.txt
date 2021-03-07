@@ -1,0 +1,10 @@
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\07-Dictionaries_Lambda_Expressions_and_LINQ\Exercises\08_Logs_Aggregator\bin\Debug\netcoreapp2.1\08_Logs_Aggregator.deps.json
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\07-Dictionaries_Lambda_Expressions_and_LINQ\Exercises\08_Logs_Aggregator\bin\Debug\netcoreapp2.1\08_Logs_Aggregator.runtimeconfig.json
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\07-Dictionaries_Lambda_Expressions_and_LINQ\Exercises\08_Logs_Aggregator\bin\Debug\netcoreapp2.1\08_Logs_Aggregator.runtimeconfig.dev.json
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\07-Dictionaries_Lambda_Expressions_and_LINQ\Exercises\08_Logs_Aggregator\bin\Debug\netcoreapp2.1\08_Logs_Aggregator.dll
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\07-Dictionaries_Lambda_Expressions_and_LINQ\Exercises\08_Logs_Aggregator\bin\Debug\netcoreapp2.1\08_Logs_Aggregator.pdb
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\07-Dictionaries_Lambda_Expressions_and_LINQ\Exercises\08_Logs_Aggregator\obj\Debug\netcoreapp2.1\08_Logs_Aggregator.csproj.CoreCompileInputs.cache
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\07-Dictionaries_Lambda_Expressions_and_LINQ\Exercises\08_Logs_Aggregator\obj\Debug\netcoreapp2.1\08_Logs_Aggregator.AssemblyInfoInputs.cache
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\07-Dictionaries_Lambda_Expressions_and_LINQ\Exercises\08_Logs_Aggregator\obj\Debug\netcoreapp2.1\08_Logs_Aggregator.AssemblyInfo.cs
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\07-Dictionaries_Lambda_Expressions_and_LINQ\Exercises\08_Logs_Aggregator\obj\Debug\netcoreapp2.1\08_Logs_Aggregator.dll
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\07-Dictionaries_Lambda_Expressions_and_LINQ\Exercises\08_Logs_Aggregator\obj\Debug\netcoreapp2.1\08_Logs_Aggregator.pdb

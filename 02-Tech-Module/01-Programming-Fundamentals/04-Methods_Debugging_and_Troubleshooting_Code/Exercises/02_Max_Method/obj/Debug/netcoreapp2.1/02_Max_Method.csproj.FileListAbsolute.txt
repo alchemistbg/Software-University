@@ -1,0 +1,11 @@
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\04-Methods_Debugging_and_Troubleshooting_Code\Exercises\02_Max_Method\bin\Debug\netcoreapp2.1\02_Max_Method.deps.json
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\04-Methods_Debugging_and_Troubleshooting_Code\Exercises\02_Max_Method\bin\Debug\netcoreapp2.1\02_Max_Method.runtimeconfig.json
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\04-Methods_Debugging_and_Troubleshooting_Code\Exercises\02_Max_Method\bin\Debug\netcoreapp2.1\02_Max_Method.runtimeconfig.dev.json
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\04-Methods_Debugging_and_Troubleshooting_Code\Exercises\02_Max_Method\bin\Debug\netcoreapp2.1\02_Max_Method.dll
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\04-Methods_Debugging_and_Troubleshooting_Code\Exercises\02_Max_Method\bin\Debug\netcoreapp2.1\02_Max_Method.pdb
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\04-Methods_Debugging_and_Troubleshooting_Code\Exercises\02_Max_Method\obj\Debug\netcoreapp2.1\02_Max_Method.csprojAssemblyReference.cache
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\04-Methods_Debugging_and_Troubleshooting_Code\Exercises\02_Max_Method\obj\Debug\netcoreapp2.1\02_Max_Method.csproj.CoreCompileInputs.cache
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\04-Methods_Debugging_and_Troubleshooting_Code\Exercises\02_Max_Method\obj\Debug\netcoreapp2.1\02_Max_Method.AssemblyInfoInputs.cache
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\04-Methods_Debugging_and_Troubleshooting_Code\Exercises\02_Max_Method\obj\Debug\netcoreapp2.1\02_Max_Method.AssemblyInfo.cs
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\04-Methods_Debugging_and_Troubleshooting_Code\Exercises\02_Max_Method\obj\Debug\netcoreapp2.1\02_Max_Method.dll
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\04-Methods_Debugging_and_Troubleshooting_Code\Exercises\02_Max_Method\obj\Debug\netcoreapp2.1\02_Max_Method.pdb

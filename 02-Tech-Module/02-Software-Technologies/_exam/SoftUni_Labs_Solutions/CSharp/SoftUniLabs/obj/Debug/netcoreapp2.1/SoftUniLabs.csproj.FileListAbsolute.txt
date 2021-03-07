@@ -1,0 +1,90 @@
+C:\Users\Mariela\Desktop\Tech-3.0-Retake\ST-Retake\SoftUni Labs_Скелети\Skeletons\CSharp\SoftUniLabs\SoftUniLabs\obj\Debug\netcoreapp2.1\SoftUniLabs.csprojAssemblyReference.cache
+C:\Users\Mariela\Desktop\Tech-3.0-Retake\ST-Retake\SoftUni Labs_Скелети\Skeletons\CSharp\SoftUniLabs\SoftUniLabs\obj\Debug\netcoreapp2.1\SoftUniLabs.csproj.CoreCompileInputs.cache
+C:\Users\Mariela\Desktop\Tech-3.0-Retake\ST-Retake\SoftUni Labs_Скелети\Skeletons\CSharp\SoftUniLabs\SoftUniLabs\obj\Debug\netcoreapp2.1\SoftUniLabs.RazorAssemblyInfo.cache
+C:\Users\Mariela\Desktop\Tech-3.0-Retake\ST-Retake\SoftUni Labs_Скелети\Skeletons\CSharp\SoftUniLabs\SoftUniLabs\obj\Debug\netcoreapp2.1\SoftUniLabs.RazorAssemblyInfo.cs
+C:\Users\Mariela\Desktop\Tech-3.0-Retake\ST-Retake\SoftUni Labs_Скелети\Skeletons\CSharp\SoftUniLabs\SoftUniLabs\obj\Debug\netcoreapp2.1\SoftUniLabs.AssemblyInfoInputs.cache
+C:\Users\Mariela\Desktop\Tech-3.0-Retake\ST-Retake\SoftUni Labs_Скелети\Skeletons\CSharp\SoftUniLabs\SoftUniLabs\obj\Debug\netcoreapp2.1\SoftUniLabs.AssemblyInfo.cs
+C:\Users\Mariela\Desktop\Tech-3.0-Retake\ST-Retake\SoftUni Labs_Скелети\Skeletons\CSharp\SoftUniLabs\SoftUniLabs\obj\Debug\netcoreapp2.1\SoftUniLabs.TagHelpers.input.cache
+C:\Users\Mariela\Desktop\Tech-3.0-Retake\ST-Retake\SoftUni Labs_Скелети\Skeletons\CSharp\SoftUniLabs\SoftUniLabs\obj\Debug\netcoreapp2.1\SoftUniLabs.TagHelpers.output.cache
+C:\Users\Mariela\Desktop\Tech-3.0-Retake\ST-Retake\SoftUni Labs_Скелети\Skeletons\CSharp\SoftUniLabs\SoftUniLabs\obj\Debug\netcoreapp2.1\SoftUniLabs.RazorCoreGenerate.cache
+C:\Users\Mariela\Desktop\Tech-3.0-Retake\ST-Retake\SoftUni Labs_Скелети\Skeletons\CSharp\SoftUniLabs\SoftUniLabs\obj\Debug\netcoreapp2.1\Razor\Views\Lab\Create.g.cshtml.cs
+C:\Users\Mariela\Desktop\Tech-3.0-Retake\ST-Retake\SoftUni Labs_Скелети\Skeletons\CSharp\SoftUniLabs\SoftUniLabs\obj\Debug\netcoreapp2.1\Razor\Views\Lab\Delete.g.cshtml.cs
+C:\Users\Mariela\Desktop\Tech-3.0-Retake\ST-Retake\SoftUni Labs_Скелети\Skeletons\CSharp\SoftUniLabs\SoftUniLabs\obj\Debug\netcoreapp2.1\Razor\Views\Lab\Edit.g.cshtml.cs
+C:\Users\Mariela\Desktop\Tech-3.0-Retake\ST-Retake\SoftUni Labs_Скелети\Skeletons\CSharp\SoftUniLabs\SoftUniLabs\obj\Debug\netcoreapp2.1\Razor\Views\Lab\Index.g.cshtml.cs
+C:\Users\Mariela\Desktop\Tech-3.0-Retake\ST-Retake\SoftUni Labs_Скелети\Skeletons\CSharp\SoftUniLabs\SoftUniLabs\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Mariela\Desktop\Tech-3.0-Retake\ST-Retake\SoftUni Labs_Скелети\Skeletons\CSharp\SoftUniLabs\SoftUniLabs\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Mariela\Desktop\Tech-3.0-Retake\ST-Retake\SoftUni Labs_Скелети\Skeletons\CSharp\SoftUniLabs\SoftUniLabs\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Mariela\Desktop\Tech-3.0-Retake\ST-Retake\SoftUni Labs_Скелети\Skeletons\CSharp\SoftUniLabs\SoftUniLabs\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Mariela\Desktop\Tech-3.0-Retake\ST-Retake\SoftUni Labs_Скелети\Skeletons\CSharp\SoftUniLabs\SoftUniLabs\obj\Debug\netcoreapp2.1\SoftUniLabs.RazorTargetAssemblyInfo.cache
+C:\Users\Mariela\Desktop\Tech-3.0-Retake\ST-Retake\SoftUni Labs_Скелети\Skeletons\CSharp\SoftUniLabs\SoftUniLabs\obj\Debug\netcoreapp2.1\SoftUniLabs.RazorTargetAssemblyInfo.cs
+C:\Users\Mariela\Desktop\Tech-3.0-Retake\ST-Retake\SoftUni Labs_Скелети\Skeletons\CSharp\SoftUniLabs\SoftUniLabs\obj\Debug\netcoreapp2.1\SoftUniLabs.dll
+C:\Users\Mariela\Desktop\Tech-3.0-Retake\ST-Retake\SoftUni Labs_Скелети\Skeletons\CSharp\SoftUniLabs\SoftUniLabs\obj\Debug\netcoreapp2.1\SoftUniLabs.pdb
+C:\Users\Mariela\Desktop\Tech-3.0-Retake\ST-Retake\SoftUni Labs_Скелети\Skeletons\CSharp\SoftUniLabs\SoftUniLabs\bin\Debug\netcoreapp2.1\SoftUniLabs.deps.json
+C:\Users\Mariela\Desktop\Tech-3.0-Retake\ST-Retake\SoftUni Labs_Скелети\Skeletons\CSharp\SoftUniLabs\SoftUniLabs\bin\Debug\netcoreapp2.1\SoftUniLabs.runtimeconfig.json
+C:\Users\Mariela\Desktop\Tech-3.0-Retake\ST-Retake\SoftUni Labs_Скелети\Skeletons\CSharp\SoftUniLabs\SoftUniLabs\bin\Debug\netcoreapp2.1\SoftUniLabs.runtimeconfig.dev.json
+C:\Users\Mariela\Desktop\Tech-3.0-Retake\ST-Retake\SoftUni Labs_Скелети\Skeletons\CSharp\SoftUniLabs\SoftUniLabs\bin\Debug\netcoreapp2.1\SoftUniLabs.dll
+C:\Users\Mariela\Desktop\Tech-3.0-Retake\ST-Retake\SoftUni Labs_Скелети\Skeletons\CSharp\SoftUniLabs\SoftUniLabs\bin\Debug\netcoreapp2.1\SoftUniLabs.pdb
+C:\Users\Mariela\Desktop\Tech-3.0-Retake\ST-Retake\SoftUni Labs_Скелети\Skeletons\CSharp\SoftUniLabs\SoftUniLabs\bin\Debug\netcoreapp2.1\SoftUniLabs.Views.dll
+C:\Users\Mariela\Desktop\Tech-3.0-Retake\ST-Retake\SoftUni Labs_Скелети\Skeletons\CSharp\SoftUniLabs\SoftUniLabs\bin\Debug\netcoreapp2.1\SoftUniLabs.Views.pdb
+C:\Users\Mariela\Desktop\Tech-3.0-Retake\ST-Retake\SoftUni Labs_Скелети\Skeletons\CSharp\SoftUniLabs\SoftUniLabs\obj\Debug\netcoreapp2.1\SoftUniLabs.Views.pdb
+C:\Users\Mariela\Desktop\Tech-3.0-Retake\ST-Retake\SoftUni Labs_Скелети\Skeletons\CSharp\SoftUniLabs\SoftUniLabs\obj\Debug\netcoreapp2.1\SoftUniLabs.csproj.CopyComplete
+D:\___exam\SoftUni Labs_Solutions\CSharp\SoftUniLabs\bin\Debug\netcoreapp2.1\SoftUniLabs.deps.json
+D:\___exam\SoftUni Labs_Solutions\CSharp\SoftUniLabs\bin\Debug\netcoreapp2.1\SoftUniLabs.runtimeconfig.json
+D:\___exam\SoftUni Labs_Solutions\CSharp\SoftUniLabs\bin\Debug\netcoreapp2.1\SoftUniLabs.runtimeconfig.dev.json
+D:\___exam\SoftUni Labs_Solutions\CSharp\SoftUniLabs\bin\Debug\netcoreapp2.1\SoftUniLabs.dll
+D:\___exam\SoftUni Labs_Solutions\CSharp\SoftUniLabs\bin\Debug\netcoreapp2.1\SoftUniLabs.pdb
+D:\___exam\SoftUni Labs_Solutions\CSharp\SoftUniLabs\bin\Debug\netcoreapp2.1\SoftUniLabs.Views.dll
+D:\___exam\SoftUni Labs_Solutions\CSharp\SoftUniLabs\bin\Debug\netcoreapp2.1\SoftUniLabs.Views.pdb
+D:\___exam\SoftUni Labs_Solutions\CSharp\SoftUniLabs\obj\Debug\netcoreapp2.1\SoftUniLabs.csprojAssemblyReference.cache
+D:\___exam\SoftUni Labs_Solutions\CSharp\SoftUniLabs\obj\Debug\netcoreapp2.1\SoftUniLabs.csproj.CoreCompileInputs.cache
+D:\___exam\SoftUni Labs_Solutions\CSharp\SoftUniLabs\obj\Debug\netcoreapp2.1\SoftUniLabs.RazorAssemblyInfo.cache
+D:\___exam\SoftUni Labs_Solutions\CSharp\SoftUniLabs\obj\Debug\netcoreapp2.1\SoftUniLabs.RazorAssemblyInfo.cs
+D:\___exam\SoftUni Labs_Solutions\CSharp\SoftUniLabs\obj\Debug\netcoreapp2.1\SoftUniLabs.AssemblyInfoInputs.cache
+D:\___exam\SoftUni Labs_Solutions\CSharp\SoftUniLabs\obj\Debug\netcoreapp2.1\SoftUniLabs.AssemblyInfo.cs
+D:\___exam\SoftUni Labs_Solutions\CSharp\SoftUniLabs\obj\Debug\netcoreapp2.1\SoftUniLabs.TagHelpers.input.cache
+D:\___exam\SoftUni Labs_Solutions\CSharp\SoftUniLabs\obj\Debug\netcoreapp2.1\SoftUniLabs.TagHelpers.output.cache
+D:\___exam\SoftUni Labs_Solutions\CSharp\SoftUniLabs\obj\Debug\netcoreapp2.1\SoftUniLabs.RazorCoreGenerate.cache
+D:\___exam\SoftUni Labs_Solutions\CSharp\SoftUniLabs\obj\Debug\netcoreapp2.1\Razor\Views\Lab\Create.g.cshtml.cs
+D:\___exam\SoftUni Labs_Solutions\CSharp\SoftUniLabs\obj\Debug\netcoreapp2.1\Razor\Views\Lab\Delete.g.cshtml.cs
+D:\___exam\SoftUni Labs_Solutions\CSharp\SoftUniLabs\obj\Debug\netcoreapp2.1\Razor\Views\Lab\Edit.g.cshtml.cs
+D:\___exam\SoftUni Labs_Solutions\CSharp\SoftUniLabs\obj\Debug\netcoreapp2.1\Razor\Views\Lab\Index.g.cshtml.cs
+D:\___exam\SoftUni Labs_Solutions\CSharp\SoftUniLabs\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\___exam\SoftUni Labs_Solutions\CSharp\SoftUniLabs\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\___exam\SoftUni Labs_Solutions\CSharp\SoftUniLabs\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\___exam\SoftUni Labs_Solutions\CSharp\SoftUniLabs\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\___exam\SoftUni Labs_Solutions\CSharp\SoftUniLabs\obj\Debug\netcoreapp2.1\SoftUniLabs.RazorTargetAssemblyInfo.cache
+D:\___exam\SoftUni Labs_Solutions\CSharp\SoftUniLabs\obj\Debug\netcoreapp2.1\SoftUniLabs.RazorTargetAssemblyInfo.cs
+D:\___exam\SoftUni Labs_Solutions\CSharp\SoftUniLabs\obj\Debug\netcoreapp2.1\SoftUniLabs.Views.pdb
+D:\___exam\SoftUni Labs_Solutions\CSharp\SoftUniLabs\obj\Debug\netcoreapp2.1\SoftUniLabs.dll
+D:\___exam\SoftUni Labs_Solutions\CSharp\SoftUniLabs\obj\Debug\netcoreapp2.1\SoftUniLabs.pdb
+D:\___exam\SoftUni Labs_Solutions\CSharp\SoftUniLabs\obj\Debug\netcoreapp2.1\SoftUniLabs.csproj.CopyComplete
+D:\___exam\SoftUni_Labs_Solutions\CSharp\SoftUniLabs\bin\Debug\netcoreapp2.1\SoftUniLabs.deps.json
+D:\___exam\SoftUni_Labs_Solutions\CSharp\SoftUniLabs\bin\Debug\netcoreapp2.1\SoftUniLabs.runtimeconfig.json
+D:\___exam\SoftUni_Labs_Solutions\CSharp\SoftUniLabs\bin\Debug\netcoreapp2.1\SoftUniLabs.runtimeconfig.dev.json
+D:\___exam\SoftUni_Labs_Solutions\CSharp\SoftUniLabs\bin\Debug\netcoreapp2.1\SoftUniLabs.dll
+D:\___exam\SoftUni_Labs_Solutions\CSharp\SoftUniLabs\bin\Debug\netcoreapp2.1\SoftUniLabs.pdb
+D:\___exam\SoftUni_Labs_Solutions\CSharp\SoftUniLabs\bin\Debug\netcoreapp2.1\SoftUniLabs.Views.dll
+D:\___exam\SoftUni_Labs_Solutions\CSharp\SoftUniLabs\bin\Debug\netcoreapp2.1\SoftUniLabs.Views.pdb
+D:\___exam\SoftUni_Labs_Solutions\CSharp\SoftUniLabs\obj\Debug\netcoreapp2.1\SoftUniLabs.csprojAssemblyReference.cache
+D:\___exam\SoftUni_Labs_Solutions\CSharp\SoftUniLabs\obj\Debug\netcoreapp2.1\SoftUniLabs.csproj.CoreCompileInputs.cache
+D:\___exam\SoftUni_Labs_Solutions\CSharp\SoftUniLabs\obj\Debug\netcoreapp2.1\SoftUniLabs.RazorAssemblyInfo.cache
+D:\___exam\SoftUni_Labs_Solutions\CSharp\SoftUniLabs\obj\Debug\netcoreapp2.1\SoftUniLabs.RazorAssemblyInfo.cs
+D:\___exam\SoftUni_Labs_Solutions\CSharp\SoftUniLabs\obj\Debug\netcoreapp2.1\SoftUniLabs.AssemblyInfoInputs.cache
+D:\___exam\SoftUni_Labs_Solutions\CSharp\SoftUniLabs\obj\Debug\netcoreapp2.1\SoftUniLabs.AssemblyInfo.cs
+D:\___exam\SoftUni_Labs_Solutions\CSharp\SoftUniLabs\obj\Debug\netcoreapp2.1\SoftUniLabs.TagHelpers.input.cache
+D:\___exam\SoftUni_Labs_Solutions\CSharp\SoftUniLabs\obj\Debug\netcoreapp2.1\SoftUniLabs.TagHelpers.output.cache
+D:\___exam\SoftUni_Labs_Solutions\CSharp\SoftUniLabs\obj\Debug\netcoreapp2.1\SoftUniLabs.RazorCoreGenerate.cache
+D:\___exam\SoftUni_Labs_Solutions\CSharp\SoftUniLabs\obj\Debug\netcoreapp2.1\Razor\Views\Lab\Create.g.cshtml.cs
+D:\___exam\SoftUni_Labs_Solutions\CSharp\SoftUniLabs\obj\Debug\netcoreapp2.1\Razor\Views\Lab\Delete.g.cshtml.cs
+D:\___exam\SoftUni_Labs_Solutions\CSharp\SoftUniLabs\obj\Debug\netcoreapp2.1\Razor\Views\Lab\Edit.g.cshtml.cs
+D:\___exam\SoftUni_Labs_Solutions\CSharp\SoftUniLabs\obj\Debug\netcoreapp2.1\Razor\Views\Lab\Index.g.cshtml.cs
+D:\___exam\SoftUni_Labs_Solutions\CSharp\SoftUniLabs\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\___exam\SoftUni_Labs_Solutions\CSharp\SoftUniLabs\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\___exam\SoftUni_Labs_Solutions\CSharp\SoftUniLabs\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\___exam\SoftUni_Labs_Solutions\CSharp\SoftUniLabs\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\___exam\SoftUni_Labs_Solutions\CSharp\SoftUniLabs\obj\Debug\netcoreapp2.1\SoftUniLabs.RazorTargetAssemblyInfo.cache
+D:\___exam\SoftUni_Labs_Solutions\CSharp\SoftUniLabs\obj\Debug\netcoreapp2.1\SoftUniLabs.RazorTargetAssemblyInfo.cs
+D:\___exam\SoftUni_Labs_Solutions\CSharp\SoftUniLabs\obj\Debug\netcoreapp2.1\SoftUniLabs.Views.pdb
+D:\___exam\SoftUni_Labs_Solutions\CSharp\SoftUniLabs\obj\Debug\netcoreapp2.1\SoftUniLabs.dll
+D:\___exam\SoftUni_Labs_Solutions\CSharp\SoftUniLabs\obj\Debug\netcoreapp2.1\SoftUniLabs.pdb
+D:\___exam\SoftUni_Labs_Solutions\CSharp\SoftUniLabs\obj\Debug\netcoreapp2.1\SoftUniLabs.csproj.CopyComplete

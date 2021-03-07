@@ -8,6 +8,6 @@
 
     This folder contains the code from the first course from **Software Engineer** program in **[SoftUni](http://softuni.bg "Software University")**.
 
-2. Tech Module
-    1. One
-    2. Two
+1. Tech Module
+    1. Programming Fundamentals
+    2. Software Technologies

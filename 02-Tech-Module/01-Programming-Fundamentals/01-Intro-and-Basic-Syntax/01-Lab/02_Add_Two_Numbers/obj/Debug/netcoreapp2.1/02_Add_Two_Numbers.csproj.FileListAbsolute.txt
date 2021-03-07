@@ -1,0 +1,10 @@
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\01-Intro_and_Basic_Syntax\Lab\02_Add_Two_Numbers\bin\Debug\netcoreapp2.1\02_Add_Two_Numbers.deps.json
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\01-Intro_and_Basic_Syntax\Lab\02_Add_Two_Numbers\bin\Debug\netcoreapp2.1\02_Add_Two_Numbers.runtimeconfig.json
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\01-Intro_and_Basic_Syntax\Lab\02_Add_Two_Numbers\bin\Debug\netcoreapp2.1\02_Add_Two_Numbers.runtimeconfig.dev.json
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\01-Intro_and_Basic_Syntax\Lab\02_Add_Two_Numbers\bin\Debug\netcoreapp2.1\02_Add_Two_Numbers.dll
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\01-Intro_and_Basic_Syntax\Lab\02_Add_Two_Numbers\bin\Debug\netcoreapp2.1\02_Add_Two_Numbers.pdb
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\01-Intro_and_Basic_Syntax\Lab\02_Add_Two_Numbers\obj\Debug\netcoreapp2.1\02_Add_Two_Numbers.csproj.CoreCompileInputs.cache
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\01-Intro_and_Basic_Syntax\Lab\02_Add_Two_Numbers\obj\Debug\netcoreapp2.1\02_Add_Two_Numbers.AssemblyInfoInputs.cache
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\01-Intro_and_Basic_Syntax\Lab\02_Add_Two_Numbers\obj\Debug\netcoreapp2.1\02_Add_Two_Numbers.AssemblyInfo.cs
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\01-Intro_and_Basic_Syntax\Lab\02_Add_Two_Numbers\obj\Debug\netcoreapp2.1\02_Add_Two_Numbers.dll
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\01-Intro_and_Basic_Syntax\Lab\02_Add_Two_Numbers\obj\Debug\netcoreapp2.1\02_Add_Two_Numbers.pdb

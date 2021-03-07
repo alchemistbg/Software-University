@@ -1,0 +1,11 @@
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\02-Conditional_Statements_and_Loops\Lab\08_Sum_of_Odd_Numbers\bin\Debug\netcoreapp2.1\08_Sum_of_Odd_Numbers.deps.json
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\02-Conditional_Statements_and_Loops\Lab\08_Sum_of_Odd_Numbers\bin\Debug\netcoreapp2.1\08_Sum_of_Odd_Numbers.runtimeconfig.json
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\02-Conditional_Statements_and_Loops\Lab\08_Sum_of_Odd_Numbers\bin\Debug\netcoreapp2.1\08_Sum_of_Odd_Numbers.runtimeconfig.dev.json
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\02-Conditional_Statements_and_Loops\Lab\08_Sum_of_Odd_Numbers\bin\Debug\netcoreapp2.1\08_Sum_of_Odd_Numbers.dll
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\02-Conditional_Statements_and_Loops\Lab\08_Sum_of_Odd_Numbers\bin\Debug\netcoreapp2.1\08_Sum_of_Odd_Numbers.pdb
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\02-Conditional_Statements_and_Loops\Lab\08_Sum_of_Odd_Numbers\obj\Debug\netcoreapp2.1\08_Sum_of_Odd_Numbers.csprojAssemblyReference.cache
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\02-Conditional_Statements_and_Loops\Lab\08_Sum_of_Odd_Numbers\obj\Debug\netcoreapp2.1\08_Sum_of_Odd_Numbers.csproj.CoreCompileInputs.cache
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\02-Conditional_Statements_and_Loops\Lab\08_Sum_of_Odd_Numbers\obj\Debug\netcoreapp2.1\08_Sum_of_Odd_Numbers.AssemblyInfoInputs.cache
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\02-Conditional_Statements_and_Loops\Lab\08_Sum_of_Odd_Numbers\obj\Debug\netcoreapp2.1\08_Sum_of_Odd_Numbers.AssemblyInfo.cs
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\02-Conditional_Statements_and_Loops\Lab\08_Sum_of_Odd_Numbers\obj\Debug\netcoreapp2.1\08_Sum_of_Odd_Numbers.dll
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\02-Conditional_Statements_and_Loops\Lab\08_Sum_of_Odd_Numbers\obj\Debug\netcoreapp2.1\08_Sum_of_Odd_Numbers.pdb

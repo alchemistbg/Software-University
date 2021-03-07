@@ -1,0 +1,10 @@
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\01-Intro_and_Basic_Syntax\Exercise\05_Character_Stats\bin\Debug\netcoreapp2.1\05_Character_Stats.deps.json
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\01-Intro_and_Basic_Syntax\Exercise\05_Character_Stats\bin\Debug\netcoreapp2.1\05_Character_Stats.runtimeconfig.json
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\01-Intro_and_Basic_Syntax\Exercise\05_Character_Stats\bin\Debug\netcoreapp2.1\05_Character_Stats.runtimeconfig.dev.json
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\01-Intro_and_Basic_Syntax\Exercise\05_Character_Stats\bin\Debug\netcoreapp2.1\05_Character_Stats.dll
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\01-Intro_and_Basic_Syntax\Exercise\05_Character_Stats\bin\Debug\netcoreapp2.1\05_Character_Stats.pdb
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\01-Intro_and_Basic_Syntax\Exercise\05_Character_Stats\obj\Debug\netcoreapp2.1\05_Character_Stats.csproj.CoreCompileInputs.cache
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\01-Intro_and_Basic_Syntax\Exercise\05_Character_Stats\obj\Debug\netcoreapp2.1\05_Character_Stats.AssemblyInfoInputs.cache
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\01-Intro_and_Basic_Syntax\Exercise\05_Character_Stats\obj\Debug\netcoreapp2.1\05_Character_Stats.AssemblyInfo.cs
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\01-Intro_and_Basic_Syntax\Exercise\05_Character_Stats\obj\Debug\netcoreapp2.1\05_Character_Stats.dll
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\01-Intro_and_Basic_Syntax\Exercise\05_Character_Stats\obj\Debug\netcoreapp2.1\05_Character_Stats.pdb

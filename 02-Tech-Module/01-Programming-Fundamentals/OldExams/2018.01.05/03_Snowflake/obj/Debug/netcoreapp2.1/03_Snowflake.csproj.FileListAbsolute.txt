@@ -1,0 +1,10 @@
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\OldExams\2018.01.05\03_Snowflake\bin\Debug\netcoreapp2.1\03_Snowflake.deps.json
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\OldExams\2018.01.05\03_Snowflake\bin\Debug\netcoreapp2.1\03_Snowflake.runtimeconfig.json
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\OldExams\2018.01.05\03_Snowflake\bin\Debug\netcoreapp2.1\03_Snowflake.runtimeconfig.dev.json
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\OldExams\2018.01.05\03_Snowflake\bin\Debug\netcoreapp2.1\03_Snowflake.dll
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\OldExams\2018.01.05\03_Snowflake\bin\Debug\netcoreapp2.1\03_Snowflake.pdb
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\OldExams\2018.01.05\03_Snowflake\obj\Debug\netcoreapp2.1\03_Snowflake.csproj.CoreCompileInputs.cache
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\OldExams\2018.01.05\03_Snowflake\obj\Debug\netcoreapp2.1\03_Snowflake.AssemblyInfoInputs.cache
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\OldExams\2018.01.05\03_Snowflake\obj\Debug\netcoreapp2.1\03_Snowflake.AssemblyInfo.cs
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\OldExams\2018.01.05\03_Snowflake\obj\Debug\netcoreapp2.1\03_Snowflake.dll
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\OldExams\2018.01.05\03_Snowflake\obj\Debug\netcoreapp2.1\03_Snowflake.pdb

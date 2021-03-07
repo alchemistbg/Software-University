@@ -1,0 +1,11 @@
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\06-Lists\Exercises\02_Change_List\bin\Debug\netcoreapp2.1\02_Change_List.deps.json
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\06-Lists\Exercises\02_Change_List\bin\Debug\netcoreapp2.1\02_Change_List.runtimeconfig.json
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\06-Lists\Exercises\02_Change_List\bin\Debug\netcoreapp2.1\02_Change_List.runtimeconfig.dev.json
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\06-Lists\Exercises\02_Change_List\bin\Debug\netcoreapp2.1\02_Change_List.dll
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\06-Lists\Exercises\02_Change_List\bin\Debug\netcoreapp2.1\02_Change_List.pdb
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\06-Lists\Exercises\02_Change_List\obj\Debug\netcoreapp2.1\02_Change_List.csprojAssemblyReference.cache
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\06-Lists\Exercises\02_Change_List\obj\Debug\netcoreapp2.1\02_Change_List.csproj.CoreCompileInputs.cache
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\06-Lists\Exercises\02_Change_List\obj\Debug\netcoreapp2.1\02_Change_List.AssemblyInfoInputs.cache
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\06-Lists\Exercises\02_Change_List\obj\Debug\netcoreapp2.1\02_Change_List.AssemblyInfo.cs
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\06-Lists\Exercises\02_Change_List\obj\Debug\netcoreapp2.1\02_Change_List.dll
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\06-Lists\Exercises\02_Change_List\obj\Debug\netcoreapp2.1\02_Change_List.pdb

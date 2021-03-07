@@ -1,0 +1,11 @@
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\06-Lists\Exercises\05_Array_Manipulator\bin\Debug\netcoreapp2.1\05_Array_Manipulator.deps.json
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\06-Lists\Exercises\05_Array_Manipulator\bin\Debug\netcoreapp2.1\05_Array_Manipulator.runtimeconfig.json
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\06-Lists\Exercises\05_Array_Manipulator\bin\Debug\netcoreapp2.1\05_Array_Manipulator.runtimeconfig.dev.json
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\06-Lists\Exercises\05_Array_Manipulator\bin\Debug\netcoreapp2.1\05_Array_Manipulator.dll
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\06-Lists\Exercises\05_Array_Manipulator\bin\Debug\netcoreapp2.1\05_Array_Manipulator.pdb
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\06-Lists\Exercises\05_Array_Manipulator\obj\Debug\netcoreapp2.1\05_Array_Manipulator.csprojAssemblyReference.cache
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\06-Lists\Exercises\05_Array_Manipulator\obj\Debug\netcoreapp2.1\05_Array_Manipulator.csproj.CoreCompileInputs.cache
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\06-Lists\Exercises\05_Array_Manipulator\obj\Debug\netcoreapp2.1\05_Array_Manipulator.AssemblyInfoInputs.cache
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\06-Lists\Exercises\05_Array_Manipulator\obj\Debug\netcoreapp2.1\05_Array_Manipulator.AssemblyInfo.cs
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\06-Lists\Exercises\05_Array_Manipulator\obj\Debug\netcoreapp2.1\05_Array_Manipulator.dll
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\06-Lists\Exercises\05_Array_Manipulator\obj\Debug\netcoreapp2.1\05_Array_Manipulator.pdb

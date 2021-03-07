@@ -1,0 +1,11 @@
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\05-Arrays\Exercises\02_Rotate_And_Sum\bin\Debug\netcoreapp2.1\02_Rotate_And_Sum.deps.json
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\05-Arrays\Exercises\02_Rotate_And_Sum\bin\Debug\netcoreapp2.1\02_Rotate_And_Sum.runtimeconfig.json
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\05-Arrays\Exercises\02_Rotate_And_Sum\bin\Debug\netcoreapp2.1\02_Rotate_And_Sum.runtimeconfig.dev.json
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\05-Arrays\Exercises\02_Rotate_And_Sum\bin\Debug\netcoreapp2.1\02_Rotate_And_Sum.dll
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\05-Arrays\Exercises\02_Rotate_And_Sum\bin\Debug\netcoreapp2.1\02_Rotate_And_Sum.pdb
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\05-Arrays\Exercises\02_Rotate_And_Sum\obj\Debug\netcoreapp2.1\02_Rotate_And_Sum.csprojAssemblyReference.cache
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\05-Arrays\Exercises\02_Rotate_And_Sum\obj\Debug\netcoreapp2.1\02_Rotate_And_Sum.csproj.CoreCompileInputs.cache
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\05-Arrays\Exercises\02_Rotate_And_Sum\obj\Debug\netcoreapp2.1\02_Rotate_And_Sum.AssemblyInfoInputs.cache
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\05-Arrays\Exercises\02_Rotate_And_Sum\obj\Debug\netcoreapp2.1\02_Rotate_And_Sum.AssemblyInfo.cs
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\05-Arrays\Exercises\02_Rotate_And_Sum\obj\Debug\netcoreapp2.1\02_Rotate_And_Sum.dll
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\05-Arrays\Exercises\02_Rotate_And_Sum\obj\Debug\netcoreapp2.1\02_Rotate_And_Sum.pdb

@@ -1,0 +1,11 @@
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\07-Dictionaries_Lambda_Expressions_and_LINQ\Exercises\01_Phonebook\bin\Debug\netcoreapp2.1\01_Phonebook.deps.json
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\07-Dictionaries_Lambda_Expressions_and_LINQ\Exercises\01_Phonebook\bin\Debug\netcoreapp2.1\01_Phonebook.runtimeconfig.json
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\07-Dictionaries_Lambda_Expressions_and_LINQ\Exercises\01_Phonebook\bin\Debug\netcoreapp2.1\01_Phonebook.runtimeconfig.dev.json
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\07-Dictionaries_Lambda_Expressions_and_LINQ\Exercises\01_Phonebook\bin\Debug\netcoreapp2.1\01_Phonebook.dll
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\07-Dictionaries_Lambda_Expressions_and_LINQ\Exercises\01_Phonebook\bin\Debug\netcoreapp2.1\01_Phonebook.pdb
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\07-Dictionaries_Lambda_Expressions_and_LINQ\Exercises\01_Phonebook\obj\Debug\netcoreapp2.1\01_Phonebook.csprojAssemblyReference.cache
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\07-Dictionaries_Lambda_Expressions_and_LINQ\Exercises\01_Phonebook\obj\Debug\netcoreapp2.1\01_Phonebook.csproj.CoreCompileInputs.cache
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\07-Dictionaries_Lambda_Expressions_and_LINQ\Exercises\01_Phonebook\obj\Debug\netcoreapp2.1\01_Phonebook.AssemblyInfoInputs.cache
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\07-Dictionaries_Lambda_Expressions_and_LINQ\Exercises\01_Phonebook\obj\Debug\netcoreapp2.1\01_Phonebook.AssemblyInfo.cs
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\07-Dictionaries_Lambda_Expressions_and_LINQ\Exercises\01_Phonebook\obj\Debug\netcoreapp2.1\01_Phonebook.dll
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\07-Dictionaries_Lambda_Expressions_and_LINQ\Exercises\01_Phonebook\obj\Debug\netcoreapp2.1\01_Phonebook.pdb

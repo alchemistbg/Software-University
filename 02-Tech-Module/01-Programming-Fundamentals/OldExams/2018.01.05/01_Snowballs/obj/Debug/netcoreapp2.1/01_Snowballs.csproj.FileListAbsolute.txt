@@ -1,0 +1,11 @@
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\OldExams\2018.01.05\01_Snowballs\bin\Debug\netcoreapp2.1\01_Snowballs.deps.json
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\OldExams\2018.01.05\01_Snowballs\bin\Debug\netcoreapp2.1\01_Snowballs.runtimeconfig.json
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\OldExams\2018.01.05\01_Snowballs\bin\Debug\netcoreapp2.1\01_Snowballs.runtimeconfig.dev.json
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\OldExams\2018.01.05\01_Snowballs\bin\Debug\netcoreapp2.1\01_Snowballs.dll
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\OldExams\2018.01.05\01_Snowballs\bin\Debug\netcoreapp2.1\01_Snowballs.pdb
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\OldExams\2018.01.05\01_Snowballs\obj\Debug\netcoreapp2.1\01_Snowballs.csprojAssemblyReference.cache
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\OldExams\2018.01.05\01_Snowballs\obj\Debug\netcoreapp2.1\01_Snowballs.csproj.CoreCompileInputs.cache
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\OldExams\2018.01.05\01_Snowballs\obj\Debug\netcoreapp2.1\01_Snowballs.AssemblyInfoInputs.cache
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\OldExams\2018.01.05\01_Snowballs\obj\Debug\netcoreapp2.1\01_Snowballs.AssemblyInfo.cs
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\OldExams\2018.01.05\01_Snowballs\obj\Debug\netcoreapp2.1\01_Snowballs.dll
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\OldExams\2018.01.05\01_Snowballs\obj\Debug\netcoreapp2.1\01_Snowballs.pdb

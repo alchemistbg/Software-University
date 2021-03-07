@@ -1,0 +1,11 @@
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\01-Intro_and_Basic_Syntax\Exercise\01_Debit_Card_Number\bin\Debug\netcoreapp2.1\01_Debit_Card_Number.deps.json
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\01-Intro_and_Basic_Syntax\Exercise\01_Debit_Card_Number\bin\Debug\netcoreapp2.1\01_Debit_Card_Number.runtimeconfig.json
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\01-Intro_and_Basic_Syntax\Exercise\01_Debit_Card_Number\bin\Debug\netcoreapp2.1\01_Debit_Card_Number.runtimeconfig.dev.json
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\01-Intro_and_Basic_Syntax\Exercise\01_Debit_Card_Number\bin\Debug\netcoreapp2.1\01_Debit_Card_Number.dll
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\01-Intro_and_Basic_Syntax\Exercise\01_Debit_Card_Number\bin\Debug\netcoreapp2.1\01_Debit_Card_Number.pdb
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\01-Intro_and_Basic_Syntax\Exercise\01_Debit_Card_Number\obj\Debug\netcoreapp2.1\01_Debit_Card_Number.csprojAssemblyReference.cache
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\01-Intro_and_Basic_Syntax\Exercise\01_Debit_Card_Number\obj\Debug\netcoreapp2.1\01_Debit_Card_Number.csproj.CoreCompileInputs.cache
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\01-Intro_and_Basic_Syntax\Exercise\01_Debit_Card_Number\obj\Debug\netcoreapp2.1\01_Debit_Card_Number.AssemblyInfoInputs.cache
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\01-Intro_and_Basic_Syntax\Exercise\01_Debit_Card_Number\obj\Debug\netcoreapp2.1\01_Debit_Card_Number.AssemblyInfo.cs
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\01-Intro_and_Basic_Syntax\Exercise\01_Debit_Card_Number\obj\Debug\netcoreapp2.1\01_Debit_Card_Number.dll
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\01-Intro_and_Basic_Syntax\Exercise\01_Debit_Card_Number\obj\Debug\netcoreapp2.1\01_Debit_Card_Number.pdb

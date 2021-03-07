@@ -1,0 +1,10 @@
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\03-Data_Types_and_Variables\Exercises-More\14_Boat_Simulator\bin\Debug\netcoreapp2.1\14_Boat_Simulator.deps.json
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\03-Data_Types_and_Variables\Exercises-More\14_Boat_Simulator\bin\Debug\netcoreapp2.1\14_Boat_Simulator.runtimeconfig.json
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\03-Data_Types_and_Variables\Exercises-More\14_Boat_Simulator\bin\Debug\netcoreapp2.1\14_Boat_Simulator.runtimeconfig.dev.json
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\03-Data_Types_and_Variables\Exercises-More\14_Boat_Simulator\bin\Debug\netcoreapp2.1\14_Boat_Simulator.dll
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\03-Data_Types_and_Variables\Exercises-More\14_Boat_Simulator\bin\Debug\netcoreapp2.1\14_Boat_Simulator.pdb
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\03-Data_Types_and_Variables\Exercises-More\14_Boat_Simulator\obj\Debug\netcoreapp2.1\14_Boat_Simulator.csproj.CoreCompileInputs.cache
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\03-Data_Types_and_Variables\Exercises-More\14_Boat_Simulator\obj\Debug\netcoreapp2.1\14_Boat_Simulator.AssemblyInfoInputs.cache
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\03-Data_Types_and_Variables\Exercises-More\14_Boat_Simulator\obj\Debug\netcoreapp2.1\14_Boat_Simulator.AssemblyInfo.cs
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\03-Data_Types_and_Variables\Exercises-More\14_Boat_Simulator\obj\Debug\netcoreapp2.1\14_Boat_Simulator.dll
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\03-Data_Types_and_Variables\Exercises-More\14_Boat_Simulator\obj\Debug\netcoreapp2.1\14_Boat_Simulator.pdb

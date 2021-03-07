@@ -1,0 +1,11 @@
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\04-Methods_Debugging_and_Troubleshooting_Code\Exercises\06_Prime_Checker\bin\Debug\netcoreapp2.1\06_Prime_Checker.deps.json
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\04-Methods_Debugging_and_Troubleshooting_Code\Exercises\06_Prime_Checker\bin\Debug\netcoreapp2.1\06_Prime_Checker.runtimeconfig.json
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\04-Methods_Debugging_and_Troubleshooting_Code\Exercises\06_Prime_Checker\bin\Debug\netcoreapp2.1\06_Prime_Checker.runtimeconfig.dev.json
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\04-Methods_Debugging_and_Troubleshooting_Code\Exercises\06_Prime_Checker\bin\Debug\netcoreapp2.1\06_Prime_Checker.dll
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\04-Methods_Debugging_and_Troubleshooting_Code\Exercises\06_Prime_Checker\bin\Debug\netcoreapp2.1\06_Prime_Checker.pdb
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\04-Methods_Debugging_and_Troubleshooting_Code\Exercises\06_Prime_Checker\obj\Debug\netcoreapp2.1\06_Prime_Checker.csprojAssemblyReference.cache
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\04-Methods_Debugging_and_Troubleshooting_Code\Exercises\06_Prime_Checker\obj\Debug\netcoreapp2.1\06_Prime_Checker.csproj.CoreCompileInputs.cache
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\04-Methods_Debugging_and_Troubleshooting_Code\Exercises\06_Prime_Checker\obj\Debug\netcoreapp2.1\06_Prime_Checker.AssemblyInfoInputs.cache
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\04-Methods_Debugging_and_Troubleshooting_Code\Exercises\06_Prime_Checker\obj\Debug\netcoreapp2.1\06_Prime_Checker.AssemblyInfo.cs
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\04-Methods_Debugging_and_Troubleshooting_Code\Exercises\06_Prime_Checker\obj\Debug\netcoreapp2.1\06_Prime_Checker.dll
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\04-Methods_Debugging_and_Troubleshooting_Code\Exercises\06_Prime_Checker\obj\Debug\netcoreapp2.1\06_Prime_Checker.pdb

@@ -1,0 +1,10 @@
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\01-Intro_and_Basic_Syntax\Exercise\04_Beverage_Labels\bin\Debug\netcoreapp2.1\04_Beverage_Labels.deps.json
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\01-Intro_and_Basic_Syntax\Exercise\04_Beverage_Labels\bin\Debug\netcoreapp2.1\04_Beverage_Labels.runtimeconfig.json
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\01-Intro_and_Basic_Syntax\Exercise\04_Beverage_Labels\bin\Debug\netcoreapp2.1\04_Beverage_Labels.runtimeconfig.dev.json
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\01-Intro_and_Basic_Syntax\Exercise\04_Beverage_Labels\bin\Debug\netcoreapp2.1\04_Beverage_Labels.dll
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\01-Intro_and_Basic_Syntax\Exercise\04_Beverage_Labels\bin\Debug\netcoreapp2.1\04_Beverage_Labels.pdb
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\01-Intro_and_Basic_Syntax\Exercise\04_Beverage_Labels\obj\Debug\netcoreapp2.1\04_Beverage_Labels.csproj.CoreCompileInputs.cache
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\01-Intro_and_Basic_Syntax\Exercise\04_Beverage_Labels\obj\Debug\netcoreapp2.1\04_Beverage_Labels.AssemblyInfoInputs.cache
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\01-Intro_and_Basic_Syntax\Exercise\04_Beverage_Labels\obj\Debug\netcoreapp2.1\04_Beverage_Labels.AssemblyInfo.cs
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\01-Intro_and_Basic_Syntax\Exercise\04_Beverage_Labels\obj\Debug\netcoreapp2.1\04_Beverage_Labels.dll
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\01-Intro_and_Basic_Syntax\Exercise\04_Beverage_Labels\obj\Debug\netcoreapp2.1\04_Beverage_Labels.pdb

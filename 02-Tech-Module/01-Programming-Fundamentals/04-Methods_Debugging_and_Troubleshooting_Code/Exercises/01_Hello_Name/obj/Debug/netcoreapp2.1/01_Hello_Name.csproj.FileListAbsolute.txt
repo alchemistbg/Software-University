@@ -1,0 +1,11 @@
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\04-Methods_Debugging_and_Troubleshooting_Code\Exercises\01_Hello_Name\bin\Debug\netcoreapp2.1\01_Hello_Name.deps.json
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\04-Methods_Debugging_and_Troubleshooting_Code\Exercises\01_Hello_Name\bin\Debug\netcoreapp2.1\01_Hello_Name.runtimeconfig.json
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\04-Methods_Debugging_and_Troubleshooting_Code\Exercises\01_Hello_Name\bin\Debug\netcoreapp2.1\01_Hello_Name.runtimeconfig.dev.json
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\04-Methods_Debugging_and_Troubleshooting_Code\Exercises\01_Hello_Name\bin\Debug\netcoreapp2.1\01_Hello_Name.dll
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\04-Methods_Debugging_and_Troubleshooting_Code\Exercises\01_Hello_Name\bin\Debug\netcoreapp2.1\01_Hello_Name.pdb
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\04-Methods_Debugging_and_Troubleshooting_Code\Exercises\01_Hello_Name\obj\Debug\netcoreapp2.1\01_Hello_Name.csprojAssemblyReference.cache
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\04-Methods_Debugging_and_Troubleshooting_Code\Exercises\01_Hello_Name\obj\Debug\netcoreapp2.1\01_Hello_Name.csproj.CoreCompileInputs.cache
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\04-Methods_Debugging_and_Troubleshooting_Code\Exercises\01_Hello_Name\obj\Debug\netcoreapp2.1\01_Hello_Name.AssemblyInfoInputs.cache
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\04-Methods_Debugging_and_Troubleshooting_Code\Exercises\01_Hello_Name\obj\Debug\netcoreapp2.1\01_Hello_Name.AssemblyInfo.cs
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\04-Methods_Debugging_and_Troubleshooting_Code\Exercises\01_Hello_Name\obj\Debug\netcoreapp2.1\01_Hello_Name.dll
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\04-Methods_Debugging_and_Troubleshooting_Code\Exercises\01_Hello_Name\obj\Debug\netcoreapp2.1\01_Hello_Name.pdb

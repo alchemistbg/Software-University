@@ -1,0 +1,10 @@
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\06-Lists\Exercises\06_Sum_Reversed_Numbers\bin\Debug\netcoreapp2.1\06_Sum_Reversed_Numbers.deps.json
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\06-Lists\Exercises\06_Sum_Reversed_Numbers\bin\Debug\netcoreapp2.1\06_Sum_Reversed_Numbers.runtimeconfig.json
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\06-Lists\Exercises\06_Sum_Reversed_Numbers\bin\Debug\netcoreapp2.1\06_Sum_Reversed_Numbers.runtimeconfig.dev.json
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\06-Lists\Exercises\06_Sum_Reversed_Numbers\bin\Debug\netcoreapp2.1\06_Sum_Reversed_Numbers.dll
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\06-Lists\Exercises\06_Sum_Reversed_Numbers\bin\Debug\netcoreapp2.1\06_Sum_Reversed_Numbers.pdb
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\06-Lists\Exercises\06_Sum_Reversed_Numbers\obj\Debug\netcoreapp2.1\06_Sum_Reversed_Numbers.csproj.CoreCompileInputs.cache
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\06-Lists\Exercises\06_Sum_Reversed_Numbers\obj\Debug\netcoreapp2.1\06_Sum_Reversed_Numbers.AssemblyInfoInputs.cache
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\06-Lists\Exercises\06_Sum_Reversed_Numbers\obj\Debug\netcoreapp2.1\06_Sum_Reversed_Numbers.AssemblyInfo.cs
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\06-Lists\Exercises\06_Sum_Reversed_Numbers\obj\Debug\netcoreapp2.1\06_Sum_Reversed_Numbers.dll
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\06-Lists\Exercises\06_Sum_Reversed_Numbers\obj\Debug\netcoreapp2.1\06_Sum_Reversed_Numbers.pdb

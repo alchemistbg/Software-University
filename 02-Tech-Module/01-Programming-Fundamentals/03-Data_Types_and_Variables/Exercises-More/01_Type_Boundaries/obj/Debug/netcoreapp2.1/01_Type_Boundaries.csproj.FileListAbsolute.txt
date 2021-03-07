@@ -1,0 +1,11 @@
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\03-Data_Types_and_Variables\Exercises-More\01_Type_Boundaries\bin\Debug\netcoreapp2.1\01_Type_Boundaries.deps.json
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\03-Data_Types_and_Variables\Exercises-More\01_Type_Boundaries\bin\Debug\netcoreapp2.1\01_Type_Boundaries.runtimeconfig.json
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\03-Data_Types_and_Variables\Exercises-More\01_Type_Boundaries\bin\Debug\netcoreapp2.1\01_Type_Boundaries.runtimeconfig.dev.json
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\03-Data_Types_and_Variables\Exercises-More\01_Type_Boundaries\bin\Debug\netcoreapp2.1\01_Type_Boundaries.dll
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\03-Data_Types_and_Variables\Exercises-More\01_Type_Boundaries\bin\Debug\netcoreapp2.1\01_Type_Boundaries.pdb
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\03-Data_Types_and_Variables\Exercises-More\01_Type_Boundaries\obj\Debug\netcoreapp2.1\01_Type_Boundaries.csprojAssemblyReference.cache
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\03-Data_Types_and_Variables\Exercises-More\01_Type_Boundaries\obj\Debug\netcoreapp2.1\01_Type_Boundaries.csproj.CoreCompileInputs.cache
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\03-Data_Types_and_Variables\Exercises-More\01_Type_Boundaries\obj\Debug\netcoreapp2.1\01_Type_Boundaries.AssemblyInfoInputs.cache
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\03-Data_Types_and_Variables\Exercises-More\01_Type_Boundaries\obj\Debug\netcoreapp2.1\01_Type_Boundaries.AssemblyInfo.cs
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\03-Data_Types_and_Variables\Exercises-More\01_Type_Boundaries\obj\Debug\netcoreapp2.1\01_Type_Boundaries.dll
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\03-Data_Types_and_Variables\Exercises-More\01_Type_Boundaries\obj\Debug\netcoreapp2.1\01_Type_Boundaries.pdb

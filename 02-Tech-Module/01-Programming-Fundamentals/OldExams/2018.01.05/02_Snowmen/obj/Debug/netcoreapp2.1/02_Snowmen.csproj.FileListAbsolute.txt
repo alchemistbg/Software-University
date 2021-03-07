@@ -1,0 +1,11 @@
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\OldExams\2018.01.05\02_Snowmen\bin\Debug\netcoreapp2.1\02_Snowmen.deps.json
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\OldExams\2018.01.05\02_Snowmen\bin\Debug\netcoreapp2.1\02_Snowmen.runtimeconfig.json
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\OldExams\2018.01.05\02_Snowmen\bin\Debug\netcoreapp2.1\02_Snowmen.runtimeconfig.dev.json
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\OldExams\2018.01.05\02_Snowmen\bin\Debug\netcoreapp2.1\02_Snowmen.dll
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\OldExams\2018.01.05\02_Snowmen\bin\Debug\netcoreapp2.1\02_Snowmen.pdb
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\OldExams\2018.01.05\02_Snowmen\obj\Debug\netcoreapp2.1\02_Snowmen.csprojAssemblyReference.cache
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\OldExams\2018.01.05\02_Snowmen\obj\Debug\netcoreapp2.1\02_Snowmen.csproj.CoreCompileInputs.cache
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\OldExams\2018.01.05\02_Snowmen\obj\Debug\netcoreapp2.1\02_Snowmen.AssemblyInfoInputs.cache
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\OldExams\2018.01.05\02_Snowmen\obj\Debug\netcoreapp2.1\02_Snowmen.AssemblyInfo.cs
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\OldExams\2018.01.05\02_Snowmen\obj\Debug\netcoreapp2.1\02_Snowmen.dll
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\OldExams\2018.01.05\02_Snowmen\obj\Debug\netcoreapp2.1\02_Snowmen.pdb

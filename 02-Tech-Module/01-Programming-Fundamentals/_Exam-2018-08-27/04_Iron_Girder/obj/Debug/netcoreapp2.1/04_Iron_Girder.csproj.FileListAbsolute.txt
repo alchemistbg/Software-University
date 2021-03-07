@@ -1,0 +1,10 @@
+D:\workspace-SU\TechModule\Exam-2018-08-27\04_Iron_Girder\bin\Debug\netcoreapp2.1\04_Iron_Girder.deps.json
+D:\workspace-SU\TechModule\Exam-2018-08-27\04_Iron_Girder\bin\Debug\netcoreapp2.1\04_Iron_Girder.runtimeconfig.json
+D:\workspace-SU\TechModule\Exam-2018-08-27\04_Iron_Girder\bin\Debug\netcoreapp2.1\04_Iron_Girder.runtimeconfig.dev.json
+D:\workspace-SU\TechModule\Exam-2018-08-27\04_Iron_Girder\bin\Debug\netcoreapp2.1\04_Iron_Girder.dll
+D:\workspace-SU\TechModule\Exam-2018-08-27\04_Iron_Girder\bin\Debug\netcoreapp2.1\04_Iron_Girder.pdb
+D:\workspace-SU\TechModule\Exam-2018-08-27\04_Iron_Girder\obj\Debug\netcoreapp2.1\04_Iron_Girder.csproj.CoreCompileInputs.cache
+D:\workspace-SU\TechModule\Exam-2018-08-27\04_Iron_Girder\obj\Debug\netcoreapp2.1\04_Iron_Girder.AssemblyInfoInputs.cache
+D:\workspace-SU\TechModule\Exam-2018-08-27\04_Iron_Girder\obj\Debug\netcoreapp2.1\04_Iron_Girder.AssemblyInfo.cs
+D:\workspace-SU\TechModule\Exam-2018-08-27\04_Iron_Girder\obj\Debug\netcoreapp2.1\04_Iron_Girder.dll
+D:\workspace-SU\TechModule\Exam-2018-08-27\04_Iron_Girder\obj\Debug\netcoreapp2.1\04_Iron_Girder.pdb

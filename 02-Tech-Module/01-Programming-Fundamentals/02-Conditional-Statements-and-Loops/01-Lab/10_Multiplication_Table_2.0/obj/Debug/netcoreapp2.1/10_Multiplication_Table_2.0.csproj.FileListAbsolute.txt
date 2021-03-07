@@ -1,0 +1,10 @@
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\02-Conditional_Statements_and_Loops\Lab\10_Multiplication_Table_2.0\bin\Debug\netcoreapp2.1\10_Multiplication_Table_2.0.deps.json
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\02-Conditional_Statements_and_Loops\Lab\10_Multiplication_Table_2.0\bin\Debug\netcoreapp2.1\10_Multiplication_Table_2.0.runtimeconfig.json
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\02-Conditional_Statements_and_Loops\Lab\10_Multiplication_Table_2.0\bin\Debug\netcoreapp2.1\10_Multiplication_Table_2.0.runtimeconfig.dev.json
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\02-Conditional_Statements_and_Loops\Lab\10_Multiplication_Table_2.0\bin\Debug\netcoreapp2.1\10_Multiplication_Table_2.0.dll
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\02-Conditional_Statements_and_Loops\Lab\10_Multiplication_Table_2.0\bin\Debug\netcoreapp2.1\10_Multiplication_Table_2.0.pdb
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\02-Conditional_Statements_and_Loops\Lab\10_Multiplication_Table_2.0\obj\Debug\netcoreapp2.1\10_Multiplication_Table_2.0.csproj.CoreCompileInputs.cache
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\02-Conditional_Statements_and_Loops\Lab\10_Multiplication_Table_2.0\obj\Debug\netcoreapp2.1\10_Multiplication_Table_2.0.AssemblyInfoInputs.cache
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\02-Conditional_Statements_and_Loops\Lab\10_Multiplication_Table_2.0\obj\Debug\netcoreapp2.1\10_Multiplication_Table_2.0.AssemblyInfo.cs
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\02-Conditional_Statements_and_Loops\Lab\10_Multiplication_Table_2.0\obj\Debug\netcoreapp2.1\10_Multiplication_Table_2.0.dll
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\02-Conditional_Statements_and_Loops\Lab\10_Multiplication_Table_2.0\obj\Debug\netcoreapp2.1\10_Multiplication_Table_2.0.pdb

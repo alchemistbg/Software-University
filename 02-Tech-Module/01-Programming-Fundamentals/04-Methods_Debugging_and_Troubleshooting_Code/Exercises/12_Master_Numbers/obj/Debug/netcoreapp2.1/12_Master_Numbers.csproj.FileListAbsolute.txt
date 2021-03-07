@@ -1,0 +1,11 @@
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\04-Methods_Debugging_and_Troubleshooting_Code\Exercises\12_Master_Numbers\bin\Debug\netcoreapp2.1\12_Master_Numbers.deps.json
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\04-Methods_Debugging_and_Troubleshooting_Code\Exercises\12_Master_Numbers\bin\Debug\netcoreapp2.1\12_Master_Numbers.runtimeconfig.json
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\04-Methods_Debugging_and_Troubleshooting_Code\Exercises\12_Master_Numbers\bin\Debug\netcoreapp2.1\12_Master_Numbers.runtimeconfig.dev.json
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\04-Methods_Debugging_and_Troubleshooting_Code\Exercises\12_Master_Numbers\bin\Debug\netcoreapp2.1\12_Master_Numbers.dll
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\04-Methods_Debugging_and_Troubleshooting_Code\Exercises\12_Master_Numbers\bin\Debug\netcoreapp2.1\12_Master_Numbers.pdb
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\04-Methods_Debugging_and_Troubleshooting_Code\Exercises\12_Master_Numbers\obj\Debug\netcoreapp2.1\12_Master_Numbers.csprojAssemblyReference.cache
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\04-Methods_Debugging_and_Troubleshooting_Code\Exercises\12_Master_Numbers\obj\Debug\netcoreapp2.1\12_Master_Numbers.csproj.CoreCompileInputs.cache
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\04-Methods_Debugging_and_Troubleshooting_Code\Exercises\12_Master_Numbers\obj\Debug\netcoreapp2.1\12_Master_Numbers.AssemblyInfoInputs.cache
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\04-Methods_Debugging_and_Troubleshooting_Code\Exercises\12_Master_Numbers\obj\Debug\netcoreapp2.1\12_Master_Numbers.AssemblyInfo.cs
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\04-Methods_Debugging_and_Troubleshooting_Code\Exercises\12_Master_Numbers\obj\Debug\netcoreapp2.1\12_Master_Numbers.dll
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\04-Methods_Debugging_and_Troubleshooting_Code\Exercises\12_Master_Numbers\obj\Debug\netcoreapp2.1\12_Master_Numbers.pdb

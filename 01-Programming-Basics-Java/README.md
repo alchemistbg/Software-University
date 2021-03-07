@@ -1,8 +1,6 @@
-# Software University
-
 ## Programming Basics - September 2017
 
-### This repo contains code from Programming Basics with Java course.
+### This repo contains the code from Programming Basics with Java course.
 
 The course started September 2017. This is commit of the code developed during the course. Website of the course: [Programming Basics - September 2017](https://softuni.bg/trainings/1723/programming-basics-with-java-september-2017 "Programming Basics - September 2017").
 

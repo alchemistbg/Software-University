@@ -1,0 +1,11 @@
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\06-Lists\Exercises\01_Max_Sequence_Of_Equal_Elements\bin\Debug\netcoreapp2.1\01_Max_Sequence_Of_Equal_Elements.deps.json
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\06-Lists\Exercises\01_Max_Sequence_Of_Equal_Elements\bin\Debug\netcoreapp2.1\01_Max_Sequence_Of_Equal_Elements.runtimeconfig.json
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\06-Lists\Exercises\01_Max_Sequence_Of_Equal_Elements\bin\Debug\netcoreapp2.1\01_Max_Sequence_Of_Equal_Elements.runtimeconfig.dev.json
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\06-Lists\Exercises\01_Max_Sequence_Of_Equal_Elements\bin\Debug\netcoreapp2.1\01_Max_Sequence_Of_Equal_Elements.dll
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\06-Lists\Exercises\01_Max_Sequence_Of_Equal_Elements\bin\Debug\netcoreapp2.1\01_Max_Sequence_Of_Equal_Elements.pdb
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\06-Lists\Exercises\01_Max_Sequence_Of_Equal_Elements\obj\Debug\netcoreapp2.1\01_Max_Sequence_Of_Equal_Elements.csprojAssemblyReference.cache
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\06-Lists\Exercises\01_Max_Sequence_Of_Equal_Elements\obj\Debug\netcoreapp2.1\01_Max_Sequence_Of_Equal_Elements.csproj.CoreCompileInputs.cache
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\06-Lists\Exercises\01_Max_Sequence_Of_Equal_Elements\obj\Debug\netcoreapp2.1\01_Max_Sequence_Of_Equal_Elements.AssemblyInfoInputs.cache
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\06-Lists\Exercises\01_Max_Sequence_Of_Equal_Elements\obj\Debug\netcoreapp2.1\01_Max_Sequence_Of_Equal_Elements.AssemblyInfo.cs
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\06-Lists\Exercises\01_Max_Sequence_Of_Equal_Elements\obj\Debug\netcoreapp2.1\01_Max_Sequence_Of_Equal_Elements.dll
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\06-Lists\Exercises\01_Max_Sequence_Of_Equal_Elements\obj\Debug\netcoreapp2.1\01_Max_Sequence_Of_Equal_Elements.pdb

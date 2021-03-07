@@ -1,0 +1,11 @@
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\04-Methods_Debugging_and_Troubleshooting_Code\Exercises\05_Fibonacci_Numbers\bin\Debug\netcoreapp2.1\05_Fibonacci_Numbers.deps.json
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\04-Methods_Debugging_and_Troubleshooting_Code\Exercises\05_Fibonacci_Numbers\bin\Debug\netcoreapp2.1\05_Fibonacci_Numbers.runtimeconfig.json
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\04-Methods_Debugging_and_Troubleshooting_Code\Exercises\05_Fibonacci_Numbers\bin\Debug\netcoreapp2.1\05_Fibonacci_Numbers.runtimeconfig.dev.json
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\04-Methods_Debugging_and_Troubleshooting_Code\Exercises\05_Fibonacci_Numbers\bin\Debug\netcoreapp2.1\05_Fibonacci_Numbers.dll
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\04-Methods_Debugging_and_Troubleshooting_Code\Exercises\05_Fibonacci_Numbers\bin\Debug\netcoreapp2.1\05_Fibonacci_Numbers.pdb
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\04-Methods_Debugging_and_Troubleshooting_Code\Exercises\05_Fibonacci_Numbers\obj\Debug\netcoreapp2.1\05_Fibonacci_Numbers.csprojAssemblyReference.cache
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\04-Methods_Debugging_and_Troubleshooting_Code\Exercises\05_Fibonacci_Numbers\obj\Debug\netcoreapp2.1\05_Fibonacci_Numbers.csproj.CoreCompileInputs.cache
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\04-Methods_Debugging_and_Troubleshooting_Code\Exercises\05_Fibonacci_Numbers\obj\Debug\netcoreapp2.1\05_Fibonacci_Numbers.AssemblyInfoInputs.cache
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\04-Methods_Debugging_and_Troubleshooting_Code\Exercises\05_Fibonacci_Numbers\obj\Debug\netcoreapp2.1\05_Fibonacci_Numbers.AssemblyInfo.cs
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\04-Methods_Debugging_and_Troubleshooting_Code\Exercises\05_Fibonacci_Numbers\obj\Debug\netcoreapp2.1\05_Fibonacci_Numbers.dll
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\04-Methods_Debugging_and_Troubleshooting_Code\Exercises\05_Fibonacci_Numbers\obj\Debug\netcoreapp2.1\05_Fibonacci_Numbers.pdb

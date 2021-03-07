@@ -1,0 +1,11 @@
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\SampleExams\SampleExam-II_October2016\01_Sweet_Dessert\bin\Debug\netcoreapp2.1\01_Sweet_Dessert.deps.json
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\SampleExams\SampleExam-II_October2016\01_Sweet_Dessert\bin\Debug\netcoreapp2.1\01_Sweet_Dessert.runtimeconfig.json
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\SampleExams\SampleExam-II_October2016\01_Sweet_Dessert\bin\Debug\netcoreapp2.1\01_Sweet_Dessert.runtimeconfig.dev.json
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\SampleExams\SampleExam-II_October2016\01_Sweet_Dessert\bin\Debug\netcoreapp2.1\01_Sweet_Dessert.dll
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\SampleExams\SampleExam-II_October2016\01_Sweet_Dessert\bin\Debug\netcoreapp2.1\01_Sweet_Dessert.pdb
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\SampleExams\SampleExam-II_October2016\01_Sweet_Dessert\obj\Debug\netcoreapp2.1\01_Sweet_Dessert.csprojAssemblyReference.cache
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\SampleExams\SampleExam-II_October2016\01_Sweet_Dessert\obj\Debug\netcoreapp2.1\01_Sweet_Dessert.csproj.CoreCompileInputs.cache
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\SampleExams\SampleExam-II_October2016\01_Sweet_Dessert\obj\Debug\netcoreapp2.1\01_Sweet_Dessert.AssemblyInfoInputs.cache
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\SampleExams\SampleExam-II_October2016\01_Sweet_Dessert\obj\Debug\netcoreapp2.1\01_Sweet_Dessert.AssemblyInfo.cs
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\SampleExams\SampleExam-II_October2016\01_Sweet_Dessert\obj\Debug\netcoreapp2.1\01_Sweet_Dessert.dll
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\SampleExams\SampleExam-II_October2016\01_Sweet_Dessert\obj\Debug\netcoreapp2.1\01_Sweet_Dessert.pdb

@@ -1,0 +1,11 @@
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\SampleExams\SampleExam-II_October2016\03_Football_League\bin\Debug\netcoreapp2.1\03_Football_League.deps.json
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\SampleExams\SampleExam-II_October2016\03_Football_League\bin\Debug\netcoreapp2.1\03_Football_League.runtimeconfig.json
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\SampleExams\SampleExam-II_October2016\03_Football_League\bin\Debug\netcoreapp2.1\03_Football_League.runtimeconfig.dev.json
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\SampleExams\SampleExam-II_October2016\03_Football_League\bin\Debug\netcoreapp2.1\03_Football_League.dll
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\SampleExams\SampleExam-II_October2016\03_Football_League\bin\Debug\netcoreapp2.1\03_Football_League.pdb
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\SampleExams\SampleExam-II_October2016\03_Football_League\obj\Debug\netcoreapp2.1\03_Football_League.csprojAssemblyReference.cache
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\SampleExams\SampleExam-II_October2016\03_Football_League\obj\Debug\netcoreapp2.1\03_Football_League.csproj.CoreCompileInputs.cache
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\SampleExams\SampleExam-II_October2016\03_Football_League\obj\Debug\netcoreapp2.1\03_Football_League.AssemblyInfoInputs.cache
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\SampleExams\SampleExam-II_October2016\03_Football_League\obj\Debug\netcoreapp2.1\03_Football_League.AssemblyInfo.cs
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\SampleExams\SampleExam-II_October2016\03_Football_League\obj\Debug\netcoreapp2.1\03_Football_League.dll
+D:\workspace-SU\TechModule\ProgrammingFundamentals\C#\SampleExams\SampleExam-II_October2016\03_Football_League\obj\Debug\netcoreapp2.1\03_Football_League.pdb
