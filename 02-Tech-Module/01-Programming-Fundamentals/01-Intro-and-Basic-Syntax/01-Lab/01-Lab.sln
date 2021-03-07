@@ -1,13 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28010.0
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01_Greeting", "01_Greeting\01_Greeting.csproj", "{FF06308A-96BA-4978-9CC6-34C28DEBBB02}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_Add_Two_Numbers", "02_Add_Two_Numbers\02_Add_Two_Numbers.csproj", "{2C19D7E6-88E5-4691-9DA3-4314D83E86AD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02_Add_Two_Numbers", "02_Add_Two_Numbers\02_Add_Two_Numbers.csproj", "{2C19D7E6-88E5-4691-9DA3-4314D83E86AD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_Employee_Data", "03_Employee_Data\03_Employee_Data.csproj", "{CC1214DF-3516-48D4-A492-456CA67DDFA5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03_Employee_Data", "03_Employee_Data\03_Employee_Data.csproj", "{CC1214DF-3516-48D4-A492-456CA67DDFA5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
