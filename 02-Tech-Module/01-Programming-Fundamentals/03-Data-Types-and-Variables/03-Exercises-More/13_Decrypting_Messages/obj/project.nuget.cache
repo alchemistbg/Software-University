@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "uJKckxpiMv90ZtsSxp9ef6FbHtoyXsLvE7BoPVFu5KoOqUexC1SB4vBy3IFd/Hpbgdayh4dkFedw2ute6vO15Q==",
+  "success": true,
+  "projectFilePath": "C:\\_Workspace\\SoftwareUniversity\\02-Tech-Module\\01-Programming-Fundamentals\\03-Data-Types-and-Variables\\03-Exercises-More\\13_Decrypting_Messages\\13_Decrypting_Messages.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Oggy\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\Oggy\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\Oggy\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\Oggy\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\Oggy\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\Oggy\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\Oggy\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

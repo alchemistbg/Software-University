@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "vG2rzg1/Te3Dq+l4rxjyUcytTpE5SzID8fRRy/ED8Bt+XT6qIjc+t6fe/7SknVfbJLI2FF8dzXIJan4dPzTgnQ==",
+  "success": true,
+  "projectFilePath": "C:\\_Workspace\\SoftwareUniversity\\02-Tech-Module\\01-Programming-Fundamentals\\03-Data-Types-and-Variables\\03-Exercises-More\\07_Sentence_The_Thief\\07_Sentence_The_Thief.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Oggy\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\Oggy\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\Oggy\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\Oggy\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\Oggy\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\Oggy\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\Oggy\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,65 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\_Workspace\\SoftwareUniversity\\02-Tech-Module\\01-Programming-Fundamentals\\05-Arrays\\03-Exercises-More\\08_Upgraded_Matcher\\08_Upgraded_Matcher.csproj": {}
+  },
+  "projects": {
+    "C:\\_Workspace\\SoftwareUniversity\\02-Tech-Module\\01-Programming-Fundamentals\\05-Arrays\\03-Exercises-More\\08_Upgraded_Matcher\\08_Upgraded_Matcher.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\_Workspace\\SoftwareUniversity\\02-Tech-Module\\01-Programming-Fundamentals\\05-Arrays\\03-Exercises-More\\08_Upgraded_Matcher\\08_Upgraded_Matcher.csproj",
+        "projectName": "08_Upgraded_Matcher",
+        "projectPath": "C:\\_Workspace\\SoftwareUniversity\\02-Tech-Module\\01-Programming-Fundamentals\\05-Arrays\\03-Exercises-More\\08_Upgraded_Matcher\\08_Upgraded_Matcher.csproj",
+        "packagesPath": "C:\\Users\\Oggy\\.nuget\\packages\\",
+        "outputPath": "C:\\_Workspace\\SoftwareUniversity\\02-Tech-Module\\01-Programming-Fundamentals\\05-Arrays\\03-Exercises-More\\08_Upgraded_Matcher\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Oggy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "targetAlias": "netcoreapp2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "targetAlias": "netcoreapp2.1",
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

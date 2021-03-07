@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "01_Centuries_To_Minutes/1.0.0": {
+        "runtime": {
+          "01_Centuries_To_Minutes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "01_Centuries_To_Minutes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

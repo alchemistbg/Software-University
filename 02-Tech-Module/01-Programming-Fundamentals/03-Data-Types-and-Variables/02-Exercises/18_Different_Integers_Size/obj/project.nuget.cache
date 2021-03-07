@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "K5lsNke/bTqoqs9zw0nllBj5pf2NjlFM5Gcsk6Sa36NddS8xW4dXjnK0gXnf+fzqaPnJ0Y5Fag8ySYfN5uTYFQ==",
+  "success": true,
+  "projectFilePath": "C:\\_Workspace\\SoftwareUniversity\\02-Tech-Module\\01-Programming-Fundamentals\\03-Data-Types-and-Variables\\02-Exercises\\18_Different_Integers_Size\\18_Different_Integers_Size.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Oggy\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\Oggy\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\Oggy\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\Oggy\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\Oggy\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\Oggy\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\Oggy\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

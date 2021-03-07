@@ -1,0 +1,12 @@
+C:\_Workspace\SoftwareUniversity\02-Tech-Module\01-Programming-Fundamentals\03-Data-Types-and-Variables\01-Lab\01_Centuries_To_Minutes\bin\Debug\netcoreapp2.1\01_Centuries_To_Minutes.deps.json
+C:\_Workspace\SoftwareUniversity\02-Tech-Module\01-Programming-Fundamentals\03-Data-Types-and-Variables\01-Lab\01_Centuries_To_Minutes\bin\Debug\netcoreapp2.1\01_Centuries_To_Minutes.runtimeconfig.json
+C:\_Workspace\SoftwareUniversity\02-Tech-Module\01-Programming-Fundamentals\03-Data-Types-and-Variables\01-Lab\01_Centuries_To_Minutes\bin\Debug\netcoreapp2.1\01_Centuries_To_Minutes.runtimeconfig.dev.json
+C:\_Workspace\SoftwareUniversity\02-Tech-Module\01-Programming-Fundamentals\03-Data-Types-and-Variables\01-Lab\01_Centuries_To_Minutes\bin\Debug\netcoreapp2.1\01_Centuries_To_Minutes.dll
+C:\_Workspace\SoftwareUniversity\02-Tech-Module\01-Programming-Fundamentals\03-Data-Types-and-Variables\01-Lab\01_Centuries_To_Minutes\bin\Debug\netcoreapp2.1\01_Centuries_To_Minutes.pdb
+C:\_Workspace\SoftwareUniversity\02-Tech-Module\01-Programming-Fundamentals\03-Data-Types-and-Variables\01-Lab\01_Centuries_To_Minutes\obj\Debug\netcoreapp2.1\01_Centuries_To_Minutes.csprojAssemblyReference.cache
+C:\_Workspace\SoftwareUniversity\02-Tech-Module\01-Programming-Fundamentals\03-Data-Types-and-Variables\01-Lab\01_Centuries_To_Minutes\obj\Debug\netcoreapp2.1\01_Centuries_To_Minutes.AssemblyInfoInputs.cache
+C:\_Workspace\SoftwareUniversity\02-Tech-Module\01-Programming-Fundamentals\03-Data-Types-and-Variables\01-Lab\01_Centuries_To_Minutes\obj\Debug\netcoreapp2.1\01_Centuries_To_Minutes.AssemblyInfo.cs
+C:\_Workspace\SoftwareUniversity\02-Tech-Module\01-Programming-Fundamentals\03-Data-Types-and-Variables\01-Lab\01_Centuries_To_Minutes\obj\Debug\netcoreapp2.1\01_Centuries_To_Minutes.csproj.CoreCompileInputs.cache
+C:\_Workspace\SoftwareUniversity\02-Tech-Module\01-Programming-Fundamentals\03-Data-Types-and-Variables\01-Lab\01_Centuries_To_Minutes\obj\Debug\netcoreapp2.1\01_Centuries_To_Minutes.dll
+C:\_Workspace\SoftwareUniversity\02-Tech-Module\01-Programming-Fundamentals\03-Data-Types-and-Variables\01-Lab\01_Centuries_To_Minutes\obj\Debug\netcoreapp2.1\01_Centuries_To_Minutes.pdb
+C:\_Workspace\SoftwareUniversity\02-Tech-Module\01-Programming-Fundamentals\03-Data-Types-and-Variables\01-Lab\01_Centuries_To_Minutes\obj\Debug\netcoreapp2.1\01_Centuries_To_Minutes.genruntimeconfig.cache
