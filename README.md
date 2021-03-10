@@ -8,6 +8,6 @@
 
     This folder contains the code from the first course from **Software Engineer** program in **[SoftUni](http://softuni.bg "Software University")**.
 
-1. Tech Module
-    1. Programming Fundamentals
-    2. Software Technologies
+1. Tech Module - January 2018
+    1. [Programming Fundamentals - January 2018](https://github.com/alchemistbg/Software-University/tree/main/02-Tech-Module/01-Programming-Fundamentals "Programming Fundamentals")
+    2. [Software Technologies - March 2018](https://github.com/alchemistbg/Software-University/tree/main/02-Tech-Module/02-Software-Technologies "oftware Technologies")
