@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "s1Ug0fLW6DdkIYF5pH8kOJXRTUeqxTCBKPySKN0J/ftFAM/RPhvM6CE984yy1v7Vz4sKu6w0p+GmS5qln+hWlA==",
+  "success": true,
+  "projectFilePath": "C:\\_Workspace\\Software-University\\02-Tech-Module\\01-Programming-Fundamentals\\OldExams\\Sample-Exam-2-October2016\\03_Football_League\\03_Football_League.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Oggy\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\Oggy\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\Oggy\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\Oggy\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\Oggy\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\Oggy\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\Oggy\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

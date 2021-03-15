@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "nU7KSN+1CSfvBIU9oaetDDVa6QGxu/tHDk77dZLcY1i6JN4xukOPVxtYm4NiCgYcbsOb4SRaufknC9uQiDNwhg==",
+  "success": true,
+  "projectFilePath": "C:\\_Workspace\\Software-University\\02-Tech-Module\\01-Programming-Fundamentals\\12-ExamPreparation-I\\Group-2-2016.10.23\\02_Ladybugs\\02_Ladybugs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Oggy\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\Oggy\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\Oggy\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\Oggy\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\Oggy\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\Oggy\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\Oggy\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
