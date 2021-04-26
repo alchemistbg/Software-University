@@ -13,6 +13,6 @@
     2. [Software Technologies - March 2018](https://github.com/alchemistbg/Software-University/tree/main/02-Tech-Module/02-Software-Technologies "oftware Technologies")
  
  1. JavaScript Core - September 2018
-    1. JS Fundamentals
-    2. JS Advanced
-    3. JS Apps
+    1. [JavaScript Fundamentals](./03-JavaScript-Core-Fundamentals "JavaScript Fundamentals")
+    2. JavaScript Advanced
+    3. JavaScript Apps
