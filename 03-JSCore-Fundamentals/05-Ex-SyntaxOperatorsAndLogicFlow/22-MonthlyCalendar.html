@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Monthly Calendar</title>
+    <style>
+        .prev-month, .next-month { color: #CCC }
+        .today { font-weight: bold; background: #DDD; }
+        .title { background: #AAAAFF; margin: 10px 0; padding:5px }
+        /*table { border: 1px solid #CCC;}*/
+        table, th, td { border: 1px solid #000; border-spacing: 0;}
+        td { text-align: center; }
+        #calendarCode { width: 100%; }
+    </style>
+    <script>
+        function calendar([d, m, y]){
+            let date = new Date(y, m-1, d);
+            let daysInCurrMonth = new Date(y, m, 0).getDate();
+            let firstDayInMonth = new Date(y, m-1, 1).getDay();
+            let lastDayInMonth = new Date(y, m-1, daysInCurrMonth).getDay();
+            let daysFromPrevMonth = firstDayInMonth;
+            let daysFromNextMonth = 6 - lastDayInMonth;
+            let calendar = '<table>\n  <tr><th>Sun</th><th>Mon</th><th>Tue</th><th>Wed</th><th>Thu</th><th>Fri</th><th>Sat</th></tr>\n  <tr>';
+
+            let counter = 1;
+            for (let j = daysFromPrevMonth-1; j >=0; j--) {
+                let d = new Date(y, m-1, 0);
+                calendar += `<td class="prev-month">${d.getDate() - j}</td>`;
+                counter++;
+            }
+            for (let i = 1; i <= daysInCurrMonth; i++) {
+                if (i == date.getDate()) {
+                    calendar += `<td class="today">${i}</td>`;
+                }else {
+                    calendar += `<td>${i}</td>`;
+                }
+                if (counter % 7 === 0) {
+                    if (daysFromNextMonth == 0 && i == daysInCurrMonth) {
+                        calendar += "</tr>\n";
+                    }else {
+                        calendar += "</tr>\n  <tr>";
+                    }
+                }
+                counter++;
+            }
+            for (let i = 0; i < daysFromNextMonth; i++) {
+                calendar += `<td class="next-month">${i+1}</td>`;
+            }
+            if (daysFromNextMonth == 0) {
+                calendar += '</table>';
+            }else {
+                calendar += '</tr>\n</table>';
+            }
+            return calendar;
+        }
+    </script>
+</head>
+
+<body>
+Day: <input id="day" type="number" value="4" />
+Month: <input id="month" type="number" value="9" />
+Year: <input id="year" type="number" value="2016" />
+<input type="button" value="Show"
+       onclick="let calendarHTML =
+            calendar([document.getElementById('day').value,
+                document.getElementById('month').value,
+                document.getElementById('year').value]);
+            document.getElementById('calendar').innerHTML = calendarHTML;
+            document.getElementById('calendarCode').innerText = calendarHTML" />
+<div class="title">Calendar:</div>
+<div id="calendar">Calendar will be shown here</div>
+<div class="title">HTML:</div>
+<textarea rows="12" id="calendarCode"></textarea>
+</body>
+
+</html>
