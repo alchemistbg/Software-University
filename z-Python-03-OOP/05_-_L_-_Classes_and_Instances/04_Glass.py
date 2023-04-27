@@ -1,4 +1,4 @@
-
+# 100/100
 
 class Glass:
     capacity = 250
