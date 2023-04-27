@@ -1,4 +1,9 @@
+# 100/100
+from typing import ClassVar
+
+
 class Circle:
+    # pi: ClassVar[float] = 3.14
     pi = 3.14
 
     def __init__(self, radius: float):
@@ -11,7 +16,7 @@ class Circle:
         area = Circle.pi * self.radius ** 2
         return area
 
-    def get_circumference(self):
+    def get_circumference(self) -> float:
         circumference = 2 * Circle.pi * self.radius
         return circumference
 
