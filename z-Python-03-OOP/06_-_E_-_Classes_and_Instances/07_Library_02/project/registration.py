@@ -5,9 +5,6 @@ from .library import Library
 
 class Registration:
 
-    def __init__(self):
-        pass
-
     def __get_users_ids(self, library: Library) -> List[int]:
         return [user.user_id for user in library.user_records]
 
