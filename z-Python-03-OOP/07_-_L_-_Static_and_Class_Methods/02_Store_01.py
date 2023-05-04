@@ -1,7 +1,9 @@
+# 100/100
+
 from typing import Dict
 
 
-class Shop:
+class Store:
     def __init__(self, name: str, type: str, capacity: float):
         self.name = name
         self.type = type
@@ -10,7 +12,7 @@ class Shop:
 
     @staticmethod
     def from_size(name: str, type: str, size: int):
-        return Shop(name, type, size)
+        return Store(name, type, size)
 
     def add_item(self, item_name: str):
         if item_name not in self.items.keys():
@@ -36,8 +38,8 @@ class Shop:
         return f"{self.name} of type {self.type} with capacity {self.capacity}"
 
 
-first_store = Shop("First store", "Fruit and Veg", 1)
-second_store = Shop.from_size("Second store", "Clothes", 500)
+first_store = Store("First store", "Fruit and Veg", 1)
+second_store = Store.from_size("Second store", "Clothes", 500)
 
 print(first_store)
 print(second_store)
