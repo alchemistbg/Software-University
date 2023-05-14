@@ -2,6 +2,7 @@ from itertools import count
 
 
 class Customer:
+    # The lecturer uses different approach for class id for this and for other classes
     id = count(start = 1)
 
     def __init__(self, name: str, address: str, email: str):
