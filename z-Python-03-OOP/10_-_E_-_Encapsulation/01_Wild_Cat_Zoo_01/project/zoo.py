@@ -23,7 +23,7 @@ class Zoo:
         if len(self.animals) < self.__animal_capacity and self.budget >= price:
             self.animals.append(animal)
             self.budget -= price
-            animal_type = self.__get_type_as_str(type(animal))
+            animal_type = self.__get_class_name(type(animal))
             return f"{animal.name} the {animal_type} added to the zoo"
         elif len(self.animals) < self.__animal_capacity and self.budget < price:
             return "Not enough budget"
@@ -33,7 +33,7 @@ class Zoo:
     def hire_worker(self, worker: Union[Keeper, Caretaker, Vet]) -> str:
         if len(self.workers) < self.__workers_capacity:
             self.workers.append(worker)
-            worker_type = self.__get_type_as_str(type(worker))
+            worker_type = self.__get_class_name(type(worker))
             return f"{worker.name} the {worker_type} hired successfully"
         return "Not enough space for worker"
 
@@ -66,15 +66,15 @@ class Zoo:
         title = f"You have {len(self.animals)} animals\n"
         output += title
 
-        lions = [a for a in self.animals if self.__get_type_as_str(type(a)) == "Lion"]
+        lions = [a for a in self.animals if self.__get_class_name(type(a)) == "Lion"]
         output += f"----- {len(lions)} Lions:\n"
         output += "\n".join(map(str, lions))
 
-        tigers = [a for a in self.animals if self.__get_type_as_str(type(a)) == "Tiger"]
+        tigers = [a for a in self.animals if self.__get_class_name(type(a)) == "Tiger"]
         output += f"\n----- {len(tigers)} Tigers:\n"
         output += "\n".join(map(str, tigers))
 
-        cheetah = [a for a in self.animals if self.__get_type_as_str(type(a)) == "Cheetah"]
+        cheetah = [a for a in self.animals if self.__get_class_name(type(a)) == "Cheetah"]
         output += f"\n----- {len(cheetah)} Cheetahs:\n"
         output += "\n".join(map(str, cheetah))
 
@@ -85,15 +85,15 @@ class Zoo:
         title = f"You have {len(self.workers)} workers\n"
         output += title
 
-        keepers = [w for w in self.workers if self.__get_type_as_str(type(w)) == "Keeper"]
+        keepers = [w for w in self.workers if self.__get_class_name(type(w)) == "Keeper"]
         output += f"----- {len(keepers)} Keeper:\n"
         output += "\n".join(map(str, keepers))
 
-        caretakers = [w for w in self.workers if self.__get_type_as_str(type(w)) == "Caretaker"]
+        caretakers = [w for w in self.workers if self.__get_class_name(type(w)) == "Caretaker"]
         output += f"\n----- {len(caretakers)} Caretakers:\n"
         output += "\n".join(map(str, caretakers))
 
-        vets = [w for w in self.workers if self.__get_type_as_str(type(w)) == "Vet"]
+        vets = [w for w in self.workers if self.__get_class_name(type(w)) == "Vet"]
         output += f"\n----- {len(vets)} Vets:\n"
         output += "\n".join(map(str, vets))
 
