@@ -16,12 +16,8 @@ class Zoo:
         self.workers = []
 
     @staticmethod
-    def __get_type_as_str(t: type) -> str:
-        t_as_str = str(t)
-        start_idx = t_as_str.rindex('.') + 1
-        end_idx = t_as_str.rindex('\'')
-        type_as_str = t_as_str[start_idx:end_idx]
-        return type_as_str
+    def __get_class_name(t: type) -> str:
+        return t.__name__
 
     def add_animal(self, animal: Union[Lion, Tiger, Cheetah], price: float) -> str:
         if len(self.animals) < self.__animal_capacity and self.budget >= price:
