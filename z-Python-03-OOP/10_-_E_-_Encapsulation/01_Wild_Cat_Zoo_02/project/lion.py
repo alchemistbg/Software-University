@@ -2,4 +2,7 @@ from .animal import Animal
 
 
 class Lion(Animal):
-    pass
+
+    @property
+    def money_for_care(self):
+        return 50
