@@ -1,4 +1,4 @@
-from typing import List
+from typing import List, Union
 from .player import Player
 
 
@@ -9,13 +9,13 @@ class Team:
         self.__rating = rating
         self.__players: List[Player] = []
 
-    def add_player(self, player: Player):
+    def add_player(self, player: Player) -> str:
         if player in self.__players:
             return f"Player {player.name} has already joined"
         self.__players.append(player)
         return f"Player {player.name} joined team {self.__name}"
 
-    def remove_player(self, player_name: str):
+    def remove_player(self, player_name: str) -> Union[str, Player]:
         player_to_remove = [player for player in self.__players if player.name == player_name]
         if not player_to_remove:
             return f"Player {player_name} not found"

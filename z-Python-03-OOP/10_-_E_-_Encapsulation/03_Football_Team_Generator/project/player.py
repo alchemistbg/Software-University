@@ -15,7 +15,7 @@ class Player:
     def name(self, value):
         self.__name = value
 
-    def __str__(self):
+    def __str__(self) -> str:
         player_info = ""
         player_info += f"Player: {self.name}\n"
         player_info += f"Sprint: {self.__sprint}\n"
