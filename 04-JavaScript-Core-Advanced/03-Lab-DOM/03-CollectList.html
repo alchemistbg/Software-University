@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Collect List</title>
+</head>
+<body>
+<ul id="items">
+    <li>first item</li>
+    <li>second item</li>
+    <li>third item</li>
+</ul>
+<textarea id="result"></textarea>
+<br>
+<button onclick="extractText()">Extract Text</button>
+<script>
+    function extractText() {
+        let liArray = [];
+        let htmlColl = document.getElementsByTagName('li');
+        for (let i = 0; i < htmlColl.length; i++) {
+            liArray.push(htmlColl[i].textContent);
+        }
+        document.getElementById('result').textContent = liArray.join('\n');
+    }
+    /*function extractText() {
+        let liArray = [];
+        let liCollection = document.querySelectorAll('ul > li');
+        for (let i = 0; i < liCollection.length; i++) {
+            liArray.push(liCollection[i].textContent);
+        }
+        document.getElementById('result').textContent = liArray.join('\n');
+    }*/
+</script>
+
+</body>
+</html>

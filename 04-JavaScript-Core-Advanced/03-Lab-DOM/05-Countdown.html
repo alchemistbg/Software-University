@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Countdown</title>
+</head>
+<body>
+<div><input type="text" id="setTime" style="border:3px solid blue; text-align:center; font-size:2em; margin: 10px"/></div>
+<div><button style="margin: 10px" onclick="startTimer()">Start timer</button></div>
+<div><input type="text" id="time" style="border:3px solid blue; text-align:center; font-size:2em; margin: 10px" disabled="true"/></div>
+
+<script>
+    document.getElementById('time').value = '00:00';
+
+    function startTimer() {
+        let timer;
+        let inputSeconds = document.getElementById('setTime').value;
+        let seconds = inputSeconds;
+        countdown();
+
+        function countdown() {
+            let totSeconds = seconds - 1;
+            console.log(totSeconds)
+            let timeString = '';
+            timer = window.setInterval(function () {
+                //clearInterval(timer);
+                let min = Math.trunc(totSeconds / 60);
+                let sec = totSeconds - (min * 60);
+
+                if (sec >= 0 && sec < 10){
+                    timeString = `${min}:0${sec}`;
+                } else {
+                    timeString = `${min}:${sec}`;
+                }
+
+                document.getElementById('time').value = timeString;
+                totSeconds --;
+                if (totSeconds < 0){
+                    window.clearInterval(timer);
+                }
+            }, 1000);
+        }
+    }
+</script>
+
+</body>
+</html>

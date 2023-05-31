@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Search in List</title>
+    <script src="../../../_libs/jquery-3.3.1.js"></script>
+    <script src="02-SearchInList.js"></script>
+</head>
+<body>
+    <ul id="towns">
+        <li>Sofia</li>
+        <li>Pleven</li>
+        <li>Varna</li>
+        <li>Plovdiv</li>
+    </ul>
+    <input type="text" id="searchText"/>
+    <button>Search</button>
+    <div id="result"></div>
+    <script>
+        $('#searchText').on('keyup', search);
+    </script>
+</body>
+</html>

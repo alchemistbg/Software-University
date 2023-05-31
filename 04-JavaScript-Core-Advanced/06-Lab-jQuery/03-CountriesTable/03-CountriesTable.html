@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Countries Table</title>
+    <link rel="stylesheet" href="03-CountriesTable.css"/>
+    <script src="../../../_libs/jquery-3.3.1.js"></script>
+    <script src="03-CountriesTable.js"></script>
+</head>
+<body>
+<script>$(() => initializeTable())</script>
+<table id="countriesTable">
+    <tr>
+        <th>Country</th>
+        <th>Capital</th>
+        <th>Action</th>
+    </tr>
+    <tr>
+        <td><input type="text" id="newCountryText" /></td>
+        <td><input type="text" id="newCapitalText" /></td>
+        <td><a href="#" id="createLink">[Create]</a></td>
+    </tr>
+</table>
+</body>
+</html>

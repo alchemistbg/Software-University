@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Dynamic Validation</title>
+    <style>
+        .error
+        {
+            border: 2px solid red;
+        }
+    </style>
+
+</head>
+<body onload="validate()">
+<label for="email">Enter email:</label>
+<input id="email" type="text"/>
+<script>
+    function validate() {
+        let emailInput = document.getElementById('email');
+        //emailInput.classList.add('error');
+        emailInput.addEventListener('change', () => {
+            let email = emailInput.value;
+            let emailRegex = /[a-z]+@[a-z]+\.[a-z]+/g;
+            if (!emailRegex.test(email)){
+                //console.log(email)
+                emailInput.classList.add('error');
+            }else{
+                emailInput.classList.remove('error');
+            }
+        });
+    }
+</script>
+</body>
+
+</html>

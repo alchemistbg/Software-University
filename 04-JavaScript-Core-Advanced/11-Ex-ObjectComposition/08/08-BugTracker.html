@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Bug Tracker</title>
+    <script src="../../../_libs/jquery-3.3.1.js"></script>
+    <script src="08-BugTracker.js"></script>
+    <link rel="stylesheet" href="08-BugTracker.css">
+</head>
+<body>
+<div id="wrapper">
+    <div id="titlebar">Bug tracker</div>
+    <div id="content">
+        <!--<div class="report">-->
+            <!--<div class="body">-->
+                <!--<p>Description</p>-->
+            <!--</div>-->
+            <!--<div class="title"><span class="bookAuthor">Submitted by: Author</span><span class="status">Open | 5</span></div>-->
+        <!--</div>-->
+        <!--<div class="report">-->
+            <!--<div class="body">-->
+                <!--<p>Description</p>-->
+            <!--</div>-->
+            <!--<div class="title"><span class="bookAuthor">Submitted by: Author</span><span class="status">Open | 5</span></div>-->
+        <!--</div>-->
+        <!--<div class="report">-->
+            <!--<div class="body">-->
+                <!--<p>Description</p>-->
+            <!--</div>-->
+            <!--<div class="title"><span class="bookAuthor">Submitted by: Author</span><span class="status">Open | 5</span></div>-->
+        <!--</div>-->
+    </div>
+</div>
+<script>
+    let bt1 = bugTracker();
+    bt1.output('#content');
+    bt1.report('guy', 'report content', true, 5);
+    bt1.report('second guy', 'report content 2', true, 3);
+    bt1.report('abv', 'report content three', true, 4);
+    // bt1.sort('bookAuthor');
+    bt1.sort('severity');
+    // bt1.sort('ID');
+    // bt1.remove(1);
+</script>
+</body>
+</html>

@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Payment Manager</title>
+    <script src="../../../../_libs/jquery-3.3.1.js"></script>
+    <link rel="stylesheet" href="04-PublicTransport.css">
+</head>
+<body>
+
+<table>
+    <caption>{Town name}'s Public Transport</caption>
+    <thead>
+    <tr>
+        <th class="type">Type</th>
+        <th class="name">Name</th>
+        <th>Actions</th>
+    </tr>
+    <tr>
+        <td><input name="type" type="text"></td>
+        <td><input name="name" type="text"></td>
+        <td>
+            <button class="search-btn">Search</button>
+            <button class="clear-btn">Clear</button>
+        </td>
+    </tr>
+    </thead>
+    <tbody class="vehicles-info"></tbody>
+</table>
+
+<script src="./solution.js"></script>
+<script>
+    $(function() {
+        let publicTransportTable = new PublicTransportTable('Sofia');
+
+        let vehiclesDataArr = [
+            { type: 'bus', bookName: '84', route: 'Sofia airport - Gen. Gurko str.', price: 1.60, driver: 'Pesho' },
+            { type: 'tram', bookName: '7', route: 'Borovo - metro station Han Kubrat', price: 13.37, driver: 'Misho' },
+            { type: 'bus', bookName: '280', route: 'Student city - SU Kliment Ohridsky', price: 4.20, driver: 'Gosho' },
+            { type: 'trolleybus', bookName: '11', route:' Drujba 1 - Stochna station sq.', price: 2.60, driver: 'Tosho' },
+            { type: 'metro', bookName: 'M1', route:'Slivnica - Business Park', price: 3.50,
+                driver: 'Petq' },
+            { type: 'bus', bookName: '404', route: 'AP Drujba - Central station', price: 1.60,
+                driver: 'Silviq' },
+            { type: 'metro', bookName: 'M2', route:'Sofia airport - James Bourchier', price: 5.99, driver: 'Krum' },
+            // You can add/remove any vehicles data objects here
+        ]
+
+        for (let vehicleObj of vehiclesDataArr) {
+            publicTransportTable.addVehicle(vehicleObj)
+        }
+    })
+</script>
+</body>
+</html>
