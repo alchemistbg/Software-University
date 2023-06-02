@@ -1,7 +1,7 @@
 # 100/100
 
-from project.vehicle import Vehicle
-from project.family_car import FamilyCar
+from project import Vehicle
+from project import FamilyCar
 
 
 vehicle = Vehicle(50, 150)
