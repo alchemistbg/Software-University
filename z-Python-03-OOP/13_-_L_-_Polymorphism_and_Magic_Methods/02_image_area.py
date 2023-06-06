@@ -12,6 +12,9 @@ class ImageArea:
 	def __eq__(self, other: 'ImageArea') -> bool:
 		return self.get_area() == other.get_area()
 
+	def __ne__(self, other):
+		return self.get_area() != other.get_area()
+
 	def __gt__(self, other) -> bool:
 		return self.get_area() > other.get_area()
 
@@ -23,9 +26,6 @@ class ImageArea:
 
 	def __le__(self, other) -> bool:
 		return self.get_area() <= other.get_area()
-
-	def __ne__(self, other):
-		return self.get_area() != other.get_area()
 
 
 a1 = ImageArea(7, 10)
