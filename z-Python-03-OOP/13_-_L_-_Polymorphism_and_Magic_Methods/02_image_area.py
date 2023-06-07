@@ -12,19 +12,19 @@ class ImageArea:
 	def __eq__(self, other: 'ImageArea') -> bool:
 		return self.get_area() == other.get_area()
 
-	def __ne__(self, other):
+	def __ne__(self, other: 'ImageArea') -> bool:
 		return self.get_area() != other.get_area()
 
-	def __gt__(self, other) -> bool:
+	def __gt__(self, other: 'ImageArea') -> bool:
 		return self.get_area() > other.get_area()
 
-	def __ge__(self, other) -> bool:
+	def __ge__(self, other: 'ImageArea') -> bool:
 		return self.get_area() >= other.get_area()
 
-	def __lt__(self, other) -> bool:
+	def __lt__(self, other: 'ImageArea') -> bool:
 		return self.get_area() < other.get_area()
 
-	def __le__(self, other) -> bool:
+	def __le__(self, other: 'ImageArea') -> bool:
 		return self.get_area() <= other.get_area()
 
 
