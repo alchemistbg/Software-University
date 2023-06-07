@@ -13,7 +13,15 @@ class Vehicle(ABC):
 
 
 class Car(Vehicle):
-	pass
+	def __init__(self, fuel_quantity, fuel_consumption ):
+		self.fuel_quantity = fuel_quantity
+		self.fuel_consumption = fuel_consumption
+
+	def drive(self):
+		pass
+
+	def refuel(self):
+		pass
 
 
 class Truck(Vehicle):
