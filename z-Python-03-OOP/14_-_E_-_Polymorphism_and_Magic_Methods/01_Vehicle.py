@@ -8,12 +8,12 @@ class Vehicle(ABC):
 		self.fuel_consumption = fuel_consumption
 
 	@abstractmethod
-	def drive(self):
+	def drive(self, distance):
 		pass
 
 	@abstractmethod
-	def refuel(self):
-		self
+	def refuel(self, fuel):
+		pass
 
 
 class Car(Vehicle):
