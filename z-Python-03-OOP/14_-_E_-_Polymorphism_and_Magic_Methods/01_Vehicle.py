@@ -18,11 +18,13 @@ class Vehicle(ABC):
 
 class Car(Vehicle):
 
-	def drive(self):
-		pass
+	def drive(self, distance):
+		fuel_needed = distance * (self.fuel_consumption + 0.9)
+		if self.fuel_quantity >= fuel_needed:
+			self.fuel_quantity -= fuel_needed
 
-	def refuel(self):
-		pass
+	def refuel(self, fuel):
+		self.fuel_quantity += fuel
 
 
 class Truck(Vehicle):
