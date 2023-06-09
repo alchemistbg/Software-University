@@ -1,3 +1,6 @@
+from typing import List
+
+
 class Person:
 
 	def __init__(self, name: str, surname: str):
@@ -25,3 +28,7 @@ p4 = p2 + p3
 
 print(p0)
 print(p4)
+
+first_group = Group('__VIP__', [p0, p1, p2])
+second_group = Group('Special', [p3, p4])
+# third_group = first_group + second_group
