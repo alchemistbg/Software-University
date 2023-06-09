@@ -11,6 +11,12 @@ class Person:
 		return f"{self.name} {self.surname}"
 
 
+class Group:
+
+	def __init__(self, name, people: List[Person]):
+		self.name = name
+		self.people = people
+
 p0 = Person('Aliko', 'Dangote')
 p1 = Person('Bill', 'Gates')
 p2 = Person('Warren', 'Buffet')
