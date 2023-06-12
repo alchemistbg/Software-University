@@ -19,9 +19,10 @@ class Vehicle(ABC):
 
 
 class Car(Vehicle):
+	_AC_CONSUMPTION = 0.9
 
 	def drive(self, distance):
-		fuel_needed = distance * (self.fuel_consumption + 0.9)
+		fuel_needed = distance * (self.fuel_consumption + self._AC_CONSUMPTION)
 		if self.fuel_quantity >= fuel_needed:
 			self.fuel_quantity -= fuel_needed
 
@@ -30,9 +31,10 @@ class Car(Vehicle):
 
 
 class Truck(Vehicle):
+	_AC_CONSUMPTION = 1.6
 
 	def drive(self, distance):
-		fuel_needed = distance * (self.fuel_consumption + 1.6)
+		fuel_needed = distance * (self.fuel_consumption + self._AC_CONSUMPTION)
 		if self.fuel_quantity >= fuel_needed:
 			self.fuel_quantity -= fuel_needed
 
