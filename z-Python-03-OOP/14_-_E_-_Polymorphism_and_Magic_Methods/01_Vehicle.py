@@ -9,6 +9,11 @@ class Vehicle(ABC):
 		self.fuel_quantity = fuel_quantity
 		self.fuel_consumption = fuel_consumption
 
+	@property
+	@abstractmethod
+	def _AC_CONSUMPTION(self):
+		...
+
 	@abstractmethod
 	def drive(self, distance):
 		fuel_needed = distance * (self.fuel_consumption + self._AC_CONSUMPTION)
