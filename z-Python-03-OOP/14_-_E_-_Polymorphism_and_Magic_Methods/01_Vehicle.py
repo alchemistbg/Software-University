@@ -11,7 +11,9 @@ class Vehicle(ABC):
 
 	@abstractmethod
 	def drive(self, distance):
-		pass
+		fuel_needed = distance * (self.fuel_consumption + self._AC_CONSUMPTION)
+		if self.fuel_quantity >= fuel_needed:
+			self.fuel_quantity -= fuel_needed
 
 	@abstractmethod
 	def refuel(self, fuel):
@@ -22,9 +24,7 @@ class Car(Vehicle):
 	_AC_CONSUMPTION = 0.9
 
 	def drive(self, distance):
-		fuel_needed = distance * (self.fuel_consumption + self._AC_CONSUMPTION)
-		if self.fuel_quantity >= fuel_needed:
-			self.fuel_quantity -= fuel_needed
+		super().drive(distance)
 
 	def refuel(self, fuel):
 		self.fuel_quantity += fuel
@@ -34,9 +34,7 @@ class Truck(Vehicle):
 	_AC_CONSUMPTION = 1.6
 
 	def drive(self, distance):
-		fuel_needed = distance * (self.fuel_consumption + self._AC_CONSUMPTION)
-		if self.fuel_quantity >= fuel_needed:
-			self.fuel_quantity -= fuel_needed
+		super().drive(distance)
 
 	def refuel(self, fuel):
 		self.fuel_quantity += (fuel * 0.95)
