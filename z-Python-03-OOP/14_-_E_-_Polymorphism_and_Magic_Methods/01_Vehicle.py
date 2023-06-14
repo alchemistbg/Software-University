@@ -63,5 +63,35 @@ def test_vehicle_could_drive():
 	print(42 * '*')
 
 
+def test_vehicle_could_refuel():
+	print("Testing vehicle refueling:")
+	print(42 * '-')
+	c = Car(100, 5)
+	c.refuel(20)
+	assert c.fuel_quantity == 120, c.fuel_quantity
+	print('Car can refuel.')
+	t = Truck(100, 5)
+	t.refuel(20)
+	assert t.fuel_quantity == 119, t.fuel_quantity
+	print('Truck can refuel.')
+	print(42 * '*')
+
+
+def test_possibility_to_drive():
+	print("Testing vehicle's inability to drive:")
+	print(42 * '-')
+	c = Car(10, 5)
+	c.drive(20)
+	assert c.fuel_quantity == 10, c.fuel_quantity
+	print('Car is unable to drive.')
+	t = Truck(10, 5)
+	t.drive(20)
+	assert t.fuel_quantity == 10, t.fuel_quantity
+	print('Truck is unable to drive.')
+	print(42 * '*')
+
+
 test_vehicle_can_be_instantiated()
 test_vehicle_could_drive()
+test_vehicle_could_refuel()
+test_possibility_to_drive()
