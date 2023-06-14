@@ -21,35 +21,21 @@ class Vehicle(ABC):
 
 	@abstractmethod
 	def refuel(self, fuel):
-		pass
+		self.fuel_quantity += fuel
 
 
 class Car(Vehicle):
 	_AC_CONSUMPTION = 0.9
 
 	def refuel(self, fuel):
-		self.fuel_quantity += fuel
+		super().refuel(fuel)
 
 
 class Truck(Vehicle):
 	_AC_CONSUMPTION = 1.6
 
 	def refuel(self, fuel):
-		self.fuel_quantity += (fuel * 0.95)
-
-
-# Problem's author's test
-# car = Car(20, 5)
-# car.drive(3)
-# print(car.fuel_quantity)
-# car.refuel(10)
-# print(car.fuel_quantity)
-#
-# truck = Truck(100, 15)
-# truck.drive(5)
-# print(truck.fuel_quantity)
-# truck.refuel(50)
-# print(truck.fuel_quantity)
+		super().refuel(fuel * 0.95)
 
 
 # Lecturer's custom tests
