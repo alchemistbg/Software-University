@@ -14,7 +14,6 @@ class Vehicle(ABC):
 	def _AC_CONSUMPTION(self):
 		...
 
-	@abstractmethod
 	def drive(self, distance):
 		fuel_needed = distance * (self.fuel_consumption + self._AC_CONSUMPTION)
 		if self.fuel_quantity >= fuel_needed:
