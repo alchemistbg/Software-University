@@ -27,18 +27,12 @@ class Vehicle(ABC):
 class Car(Vehicle):
 	_AC_CONSUMPTION = 0.9
 
-	def drive(self, distance):
-		super().drive(distance)
-
 	def refuel(self, fuel):
 		self.fuel_quantity += fuel
 
 
 class Truck(Vehicle):
 	_AC_CONSUMPTION = 1.6
-
-	def drive(self, distance):
-		super().drive(distance)
 
 	def refuel(self, fuel):
 		self.fuel_quantity += (fuel * 0.95)
