@@ -8,6 +8,9 @@ class Person:
 		self.surname = surname
 
 	def __add__(self, other: 'Person'):
+		if not isinstance(other, self.__class__):
+			raise TypeError(f"Unsupported operand type for '+': "
+							f"'{self.__class__.__name__}' and '{other.__class__.__name__}'")
 		return Person(self.name, other.surname)
 
 	def __repr__(self):
