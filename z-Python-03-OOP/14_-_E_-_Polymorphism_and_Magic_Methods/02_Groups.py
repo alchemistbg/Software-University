@@ -39,8 +39,8 @@ class Group:
 		members = ", ".join((map(str, self.people)))
 		return f"Group {self.name} with members {members}"
 
-
-
+	def __getitem__(self, idx: int):
+		return f"Person {idx}: {self.people[idx]}"
 
 
 # Problem's author test
