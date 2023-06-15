@@ -31,6 +31,11 @@ class Group:
 		new_people = self.people + other.people
 		return Group(new_name, new_people)
 
+	def __len__(self):
+		return len(self.people)
+
+
+
 
 # Problem's author test
 p0 = Person('Aliko', 'Dangote')
