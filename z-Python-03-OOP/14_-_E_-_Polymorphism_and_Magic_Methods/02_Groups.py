@@ -23,6 +23,16 @@ class Group:
 		self.name = name
 		self.people = people
 
+	def __add__(self, other: 'Group'):
+		if not isinstance(other, self.__class__):
+			raise TypeError(f"Unsupported operand type for '+': "
+							f"'{self.__class__.__name__}' and '{other.__class__.__name__}'")
+		new_name = f'{self.name} {other.name}'
+		new_people = self.people + other.people
+		return Group(new_name, new_people)
+
+
+# Problem's author test
 p0 = Person('Aliko', 'Dangote')
 p1 = Person('Bill', 'Gates')
 p2 = Person('Warren', 'Buffet')
