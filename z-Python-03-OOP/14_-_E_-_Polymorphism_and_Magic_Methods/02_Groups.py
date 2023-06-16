@@ -73,9 +73,50 @@ def test_successfully_adding_people():
 	print("People can be added")
 
 
-print(p0)
-print(p4)
+def test_unsuccessfully_adding_people():
+	p1 = Person('Johny', 'Depp')
+	try:
+		p1 + 2
+	except TypeError:
+		print("Person can't be added to a number")
+	except Exception as e:
+		assert False, f'Expected TypeError, got {e.__class__.__name__}'
+	else:
+		assert False, 'Expected TypeError, got nothing'
 
-first_group = Group('__VIP__', [p0, p1, p2])
-second_group = Group('Special', [p3, p4])
-# third_group = first_group + second_group
+
+def test_successfully_adding_groups():
+	p1 = Person('Johny', 'Depp1')
+	p2 = Person('Johny', 'Depp2')
+	p3 = Person('Johny', 'Depp3')
+	p4 = Person('Johny', 'Depp4')
+	g1 = Group('G1', [p1, p2])
+	g2 = Group('G2', [p3, p4])
+	g3 = g1 + g2
+	assert len(g3.people) == 4, f"Expected 4, got {len(g3.people)}"
+	print("Groups can be added")
+
+
+# TODO
+# def test_successfully_adding_groups(): -> different types
+
+def test_get_group_length():
+	p1 = Person('P1', 'P2')
+	p2 = Person('P1', 'P2')
+	g = Group('G1', [p1, p2])
+	assert len(g) == 2, f"Expected 2, got {len(g)}"
+	print("Groups has len()")
+
+
+def test_get_group_repr():
+	p1 = Person('P1', 'P2')
+	p2 = Person('P1', 'P2')
+	g = Group('G1', [p1, p2])
+	print(g)
+
+
+test_successfully_adding_people()
+test_unsuccessfully_adding_people()
+test_successfully_adding_groups()
+test_get_group_length()
+test_get_group_repr()
