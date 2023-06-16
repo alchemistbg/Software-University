@@ -35,7 +35,7 @@ class Group:
 		return len(self.people)
 
 	# TODO - test for this methods
-	def __str__(self):
+	def __repr__(self):
 		members = ", ".join((map(str, self.people)))
 		return f"Group {self.name} with members {members}"
 
