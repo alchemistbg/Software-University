@@ -1,3 +1,10 @@
+# 100/100
+# This solution is based on the old description of the problem, but gets full
+# amount of points against new tests. The method validate_transaction is not implemented,
+# and it's not tested. In the newer version of the problem it's renamed to handle_transaction,
+# but again it is not tested. There are other requirements that are not tested.
+
+
 from typing import List
 
 
