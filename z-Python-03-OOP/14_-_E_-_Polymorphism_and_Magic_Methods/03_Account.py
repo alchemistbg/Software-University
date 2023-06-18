@@ -28,12 +28,18 @@ class Account:
 		return f"New balance: {self.balance}"
 
 	# This method is based on the old description of the problem
-	@staticmethod
-	def validate_transaction(account: 'Account', amount_to_add):
-		if account.balance + amount_to_add < 0:
+	# @staticmethod
+	# def validate_transaction(account: 'Account', amount_to_add):
+	# 	if account.balance + amount_to_add < 0:
+	# 		raise ValueError("sorry cannot go in debt!")
+	# 	account.add_transaction(amount_to_add)
+	# 	return account.balance
+
+	def handle_transaction(self, transaction_amount):
+		if self.balance + transaction_amount < 0:
 			raise ValueError("sorry cannot go in debt!")
-		account.add_transaction(amount_to_add)
-		return account.balance
+		self.add_transaction(transaction_amount)
+		return f"New balance: {self.balance}"
 
 	def __str__(self):
 		return f"Account of {self.owner} with starting amount: {self.amount}"
