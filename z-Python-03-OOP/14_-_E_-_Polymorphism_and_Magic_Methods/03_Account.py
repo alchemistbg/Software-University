@@ -1,8 +1,8 @@
 # 100/100
 # This solution is based on the old description of the problem, but gets full
 # amount of points against new tests. The method validate_transaction is not implemented,
-# and it's not tested. In the newer version of the problem it's renamed to handle_transaction,
-# but again it is not tested. There are other requirements that are not tested.
+# and it's not tested. In the newer version of the problem it's renamed to handle_transaction
+# and I think it is tested. There are other requirements that are not tested.
 
 
 from typing import List
@@ -50,9 +50,11 @@ class Account:
 	def __len__(self):
 		return len(self._transactions)
 
-	def __getitem__(self, key):
-		return self._transactions[key]
+	def __getitem__(self, idx):
+		return self._transactions[idx]
 
+	# This functionality could be implemented using only two comparison methods
+	# using @total_ordering class decorator from functools
 	def __eq__(self, other: 'Account'):
 		return self.balance == other.balance
 
@@ -73,10 +75,23 @@ class Account:
 
 	def __add__(self, other: 'Account'):
 		new_name = f'{self.owner}&{other.owner}'
+		new_amount = self.amount + other.amount
 		new_transactions = self._transactions + other._transactions
-		account = Account(new_name, 10)
+		account = Account(new_name, new_amount)
 		account._transactions = new_transactions[:]
 		return account
+
+
+a1 = Account("A", 10)
+a1.add_transaction(10)
+a1.add_transaction(20)
+a2 = Account("B", 10)
+a2.add_transaction(30)
+a3 = a1 + a2
+print(a3)
+print(a3._transactions)
+a3.add_transaction(100)
+print(a3._transactions)
 
 # acc = Account('bob', 10)
 # acc2 = Account('john')
