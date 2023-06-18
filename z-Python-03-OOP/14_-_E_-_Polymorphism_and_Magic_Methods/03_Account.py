@@ -15,14 +15,17 @@ class Account:
 		self.amount = amount
 		self._transactions: List[int] = []
 
-	def add_transaction(self, amount: int):
-		if not isinstance(amount, int):
-			raise ValueError("please use int for amount")
-		self._transactions.append(amount)
-
 	@property
 	def balance(self):
 		return self.amount + sum(self._transactions)
+
+	def add_transaction(self, transaction: int):
+		if not isinstance(transaction, int):
+			raise ValueError("please use int for amount")
+		if self.balance + transaction < 0:
+			raise ValueError("sorry cannot go in debt!")
+		self._transactions.append(transaction)
+		return f"New balance: {self.balance}"
 
 	# This method is based on the old description of the problem
 	@staticmethod
