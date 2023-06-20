@@ -1,3 +1,4 @@
+from typing import Union
 from abc import ABC, abstractmethod
 
 
@@ -10,11 +11,11 @@ class Animal(ABC):
 
 
 	@abstractmethod
-	def make_sound(self):
+	def make_sound(self) -> str:
 		...
 
 	@abstractmethod
-	def feed(self, food):
+	def feed(self, food) -> Union[None, str]:
 		...
 
 
