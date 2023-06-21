@@ -1,6 +1,6 @@
-# This solution is based on some naive approach. There is a lot of repeating code for example...
-# TODO
-# This solution os not yet tested in the judge system.
+# This solution is based on some naive approach. There is a lot of repeating code.
+# A shorter and cleaner solution TBA
+# 100/100
 
 
 from project.animals.birds import Owl
