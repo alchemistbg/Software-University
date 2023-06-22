@@ -8,7 +8,12 @@ class Animal(ABC):
 		self.weight = weight
 		self.food_eaten: int = 0
 
+	@property
+	@abstractmethod
+	def _FOOD_PREFERENCES(self):
+		...
 
+	@property
 	@abstractmethod
 	def make_sound(self):
 		...
