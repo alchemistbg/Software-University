@@ -15,11 +15,11 @@ class Animal(ABC):
 
 	@property
 	@abstractmethod
-	def make_sound(self):
+	def _WEIGHT_GAIN(self):
 		...
 
 	@abstractmethod
-	def feed(self, food):
+	def make_sound(self):
 		...
 
 
