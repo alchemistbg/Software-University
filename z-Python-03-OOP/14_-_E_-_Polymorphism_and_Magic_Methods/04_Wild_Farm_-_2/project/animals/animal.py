@@ -1,4 +1,5 @@
 from abc import ABC, abstractmethod
+from project.food import Food
 
 
 class Animal(ABC):
@@ -21,6 +22,13 @@ class Animal(ABC):
 	@abstractmethod
 	def make_sound(self):
 		...
+
+	def feed(self, food: 'Food'):
+		if self._FOOD_PREFERENCES and not isinstance(food, self._FOOD_PREFERENCES):
+			return f"{self.__class__.__name__} does not eat {food.__class__.__name__}!"
+
+		self.food_eaten += food.quantity
+		self.weight += food.quantity * self._WEIGHT_GAIN
 
 
 class Bird (Animal):
