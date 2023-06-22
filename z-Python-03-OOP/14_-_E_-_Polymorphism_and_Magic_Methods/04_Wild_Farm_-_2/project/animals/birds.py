@@ -1,25 +1,18 @@
 from .animal import Bird
+from project.food import Meat
 
 
 class Owl(Bird):
+	_FOOD_PREFERENCES = (Meat,)
+	_WEIGHT_GAIN = 0.25
 
 	def make_sound(self):
 		return "Hoot Hoot"
 
-	def feed(self, food):
-		food_type = food.__class__.__name__
-		animal_type = self.__class__.__name__
-		if food_type != 'Meat':
-			return f"{animal_type} does not eat {food_type}!"
-		self.food_eaten += food.quantity
-		self.weight += 0.25 * food.quantity
-
 
 class Hen(Bird):
+	_FOOD_PREFERENCES = None
+	_WEIGHT_GAIN = 0.35
 
 	def make_sound(self):
 		return "Cluck"
-
-	def feed(self, food):
-		self.food_eaten += food.quantity
-		self.weight += 0.35 * food.quantity
