@@ -1,3 +1,6 @@
+# 100/100
+
+
 from project.dog import Dog
 from project.cat import Cat
 from project.tomcat import Tomcat
