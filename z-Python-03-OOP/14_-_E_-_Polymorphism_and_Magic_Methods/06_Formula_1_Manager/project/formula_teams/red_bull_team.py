@@ -1,7 +1,7 @@
 from project.formula_teams.formula_team import FormulaTeam
 
 
-class MercedesTeam(FormulaTeam):
+class RedBullTeam(FormulaTeam):
 
     def __init__(self, budget: int):
         super().__init__(budget)
@@ -9,13 +9,13 @@ class MercedesTeam(FormulaTeam):
     def calculate_revenue_after_race(self, race_pos: int):
         revenue = 0
         if race_pos == 1:
-            revenue = 1100000
-        elif race_pos == 3:
-            revenue = 600000
-        elif race_pos == 5:
-            revenue = 100000
-        elif race_pos == 7:
-            revenue = 50000
-        revenue -= 200000
+            revenue = 1520000
+        elif race_pos == 2:
+            revenue = 820000
+        elif race_pos == 8:
+            revenue = 20000
+        elif race_pos == 10:
+            revenue = 10000
+        revenue -= 250000
         self.budget += revenue
         return f"The revenue after the race is {revenue}$. Current budget {self.budget}$"
