@@ -1,4 +1,4 @@
-from typing import List
+from typing import List, Union
 
 
 class BookNotFoundException(Exception):
@@ -11,10 +11,10 @@ class Book:
         self.author = author
         self.page = 0
 
-    def turn_page(self, page):
+    def turn_page(self, page: int) -> None:
         self.page = page
 
-    def __str__(self):
+    def __str__(self) -> str:
         return f"Book {self.title} by {self.author}"
 
 
@@ -23,7 +23,7 @@ class Library:
     def __init__(self, books: List[Book]):
         self.books = books
 
-    def find_book(self, book_title):
+    def find_book(self, book_title: str) -> Union[str, Book]:
         try:
             book_result = [b for b in self.books if b.title == book_title]
             if not book_result:
