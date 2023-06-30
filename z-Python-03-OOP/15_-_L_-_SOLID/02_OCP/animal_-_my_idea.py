@@ -8,7 +8,7 @@ class Animal(ABC):
     def _SOUND(self):
         pass
 
-    def make_sound(self):
+    def make_sound(self) -> str:
         return self._SOUND
 
 
