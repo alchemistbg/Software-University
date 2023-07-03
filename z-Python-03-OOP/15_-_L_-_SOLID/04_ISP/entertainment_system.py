@@ -1,46 +1,58 @@
-class EntertainmentDevice:
-    def connect_to_device_via_hdmi_cable(self, device): pass
-    def connect_to_device_via_rca_cable(self, device): pass
-    def connect_to_device_via_ethernet_cable(self, device): pass
-    def connect_device_to_power_outlet(self, device): pass
+class Connector:
+
+    def connect(self, device):
+        return f'Connected to {device.__class__.__name__}'
+
+    def disconnect(self, device):
+        ...
 
 
-class Television(EntertainmentDevice):
-    def connect_to_dvd(self, dvd_player):
-        self.connect_to_device_via_rca_cable(dvd_player)
-
-    def connect_to_game_console(self, game_console):
-        self.connect_to_device_via_hdmi_cable(game_console)
-
-    def plug_in_power(self):
-        self.connect_device_to_power_outlet(self)
+class HDMIConnector(Connector):
+    pass
 
 
-class dvd_player(EntertainmentDevice):
-    def connect_to_tv(self, television):
-        self.connect_to_device_via_hdmi_cable(television)
-
-    def plug_in_power(self):
-        self.connect_device_to_power_outlet(self)
+class RCAConnector(Connector):
+    pass
 
 
-class GameConsole(EntertainmentDevice):
-    def connect_to_tv(self, television):
-        self.connect_to_device_via_hdmi_cable(television)
-
-    def connect_to_router(self, router):
-        self.connect_to_device_via_ethernet_cable(router)
-
-    def plug_in_power(self):
-        self.connect_device_to_power_outlet(self)
+class EthernetConnector(Connector):
+    pass
 
 
-class Router(EntertainmentDevice):
-    def connect_to_tv(self, television):
-        self.connect_to_device_via_ethernet_cable(television)
+class PowerConnector(Connector):
+    pass
 
-    def connect_to_game_console(self, game_console):
-        self.connect_to_device_via_ethernet_cable(game_console)
 
-    def plug_in_power(self):
-        self.connect_device_to_power_outlet(self)
+class Television:
+
+    def __init__(self):
+        self.hdmi_connector = HDMIConnector()
+        self.rca_connector = RCAConnector()
+        self.power_connector = PowerConnector()
+
+
+class DVDPlayer:
+
+    def __init__(self):
+        self.hdmi_connector = HDMIConnector()
+        self.power_connector = PowerConnector()
+
+
+class GameConsole:
+
+    def __init__(self):
+        self.hdmi_connector = HDMIConnector()
+        self.ethernet_connector = EthernetConnector()
+        self.power_connector = PowerConnector()
+
+
+class Router:
+
+    def __init__(self):
+        self.ethernet_connector = EthernetConnector()
+        self.power_connector = PowerConnector()
+
+
+tv = Television()
+console = GameConsole()
+print(tv.hdmi_connector.connect(console))
