@@ -1,10 +1,10 @@
 class Connector:
 
-    def connect(self, device):
+    def connect(self, device) -> str:
         return f'Connected to {device.__class__.__name__}'
 
-    def disconnect(self, device):
-        ...
+    def disconnect(self, device) -> str:
+        return f'Disconnected from {device.__class__.__name__}'
 
 
 class HDMIConnector(Connector):
@@ -56,3 +56,4 @@ class Router:
 tv = Television()
 console = GameConsole()
 print(tv.hdmi_connector.connect(console))
+print(tv.hdmi_connector.disconnect(console))
