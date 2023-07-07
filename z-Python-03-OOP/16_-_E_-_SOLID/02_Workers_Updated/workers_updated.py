@@ -41,9 +41,6 @@ class Robot(WorkMixin):
     def work(self):
         print("I'm a robot. I'm working....")
 
-    def eat(self):
-        print("I don't need to eat....")
-
 
 class Manager(ABC):
 
@@ -77,6 +74,7 @@ class BreakManager(Manager):
 
 work_manager = WorkManager()
 break_manager = BreakManager()
+
 work_manager.set_worker(Worker())
 break_manager.set_worker(Worker())
 work_manager.manage()
