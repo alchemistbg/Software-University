@@ -1,5 +1,4 @@
 from datetime import datetime, timedelta
-
 import psutil
 
 
@@ -11,8 +10,8 @@ def generate_report(duration: timedelta):
 	end_time = begin_time + duration
 	now = datetime.now()
 	while now < end_time:
-		curr_measurement = (now, psutil.cpu_percent(interval = 0.1, percpu = True))
-		# curr_measurement = (now, psutil.cpu_percent(interval = 0.1))
+		# curr_measurement = (now, psutil.cpu_percent(interval = 0.1, percpu = True))
+		curr_measurement = (now, psutil.cpu_percent(interval = 0.1))
 		measurements.append(curr_measurement)
 		now = datetime.now()
 
