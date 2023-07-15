@@ -21,4 +21,5 @@ def possible_permutations(seq):
 				used[i] = False
 	return recurse(seq, idx = 0, perm = None, used = None)
 
+
 print(list(possible_permutations([1, 2, 3, 4])))
