@@ -15,35 +15,48 @@ class WorkerTests(unittest.TestCase):
 		self.assertEqual(self.worker.money, 0)
 
 	def test_if_worker_energy_is_incremented_after_rest_method_is_called(self):
+		expected = 101
+
 		self.worker.rest()
-		expected_result = 101
-		self.assertEqual(self.worker.energy, expected_result)
+		actual = self.worker.energy
+
+		self.assertEqual(expected, actual)
 
 	def test_if_error_is_raised_if_worker_tries_to_work_with_zero_energy(self):
 		self.worker.energy = 0
 		with self.assertRaises(Exception) as ex:
 			self.worker.work()
 
-		self.assertEqual(str(ex.exception), 'Not enough energy.')
+		self.assertEqual('Not enough energy.', str(ex.exception))
 
 	def test_if_error_is_raised_if_worker_tries_to_work_with_negative_energy(self):
 		self.worker.energy = -10
 		with self.assertRaises(Exception) as ex:
 			self.worker.work()
-		self.assertEqual(str(ex.exception), 'Not enough energy.')
+
+		self.assertEqual('Not enough energy.', str(ex.exception))
 
 	def test_if_workers_money_is_increased_correctly_by_salary_after_work_method_is_called(self):
+		expected = 1000
+
 		self.worker.work()
-		self.assertEqual(self.worker.money, 1000)
+		actual = self.worker.money
+
+		self.assertEqual(expected, actual)
 
 	def test_if_the_workers_energy_is_decreased_after_the_work_method_is_called(self):
+		expected = 99
+
 		self.worker.work()
-		self.assertEqual(self.worker.energy, 99)
+		actual = self.worker.energy
+
+		self.assertEqual(expected, actual)
 
 	def test_if_the_get_info_returns_proper_string_with_correct_values(self):
-		result = self.worker.get_info()
 		expected = 'John Doe has saved 0 money.'
-		self.assertEqual(result, expected)
+		actual = self.worker.get_info()
+		self.assertEqual(expected, actual)
+
 
 if __name__ == "__main__":
 	unittest.main()
