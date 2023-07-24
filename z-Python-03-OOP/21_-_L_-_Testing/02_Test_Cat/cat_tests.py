@@ -27,13 +27,13 @@ class CatTests(unittest.TestCase):
 		with self.assertRaises(Exception) as ex:
 			self.cat.eat()
 
-		self.assertEqual(str(ex.exception), 'Already fed.')
+		self.assertEqual('Already fed.', str(ex.exception))
 
 	def test_if_error_is_raised_if_sleep_method_is_called_when_fed_is_false(self):
 		with self.assertRaises(Exception) as ex:
 			self.cat.sleep()
 
-		self.assertEqual(str(ex.exception), 'Cannot sleep while hungry')
+		self.assertEqual('Cannot sleep while hungry', str(ex.exception))
 
 	def test_if_cat_is_not_sleepy_after_sleeping(self):
 		self.cat.eat()
