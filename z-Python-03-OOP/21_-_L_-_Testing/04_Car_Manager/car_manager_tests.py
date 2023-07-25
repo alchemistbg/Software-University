@@ -76,11 +76,15 @@ class CarTests(unittest.TestCase):
 
 	def test_refuel_if_value_is_valid(self):
 		self.car.refuel(42)
-		self.assertEqual(42, self.car.fuel_amount)
+		expected = 42
+		actual = self.car.fuel_amount
+		self.assertEqual(expected, actual)
 
 	def test_refuel_if_value_is_valid_and_bigger_than_capacity(self):
 		self.car.refuel(420)
-		self.assertEqual(50, self.car.fuel_amount)
+		expected = 50
+		actual = self.car.fuel_amount
+		self.assertEqual(expected, actual)
 
 	def test_drive_raises_error_if_needed_fuel_is_less_than_available(self):
 		self.car.fuel_amount = 42
@@ -91,9 +95,9 @@ class CarTests(unittest.TestCase):
 	def test_drive_if_needed_fuel_is_more_than_available(self):
 		self.car.fuel_amount = 420
 		self.car.drive(10)
-		actual = 419.5
-		result = self.car.fuel_amount
-		self.assertEqual(actual, result)
+		expected = 419.5
+		actual = self.car.fuel_amount
+		self.assertEqual(expected, actual)
 
 
 if __name__ == '__main__':
