@@ -1,0 +1,1 @@
+### Solution to '08. Clean up Wiki Bulgaria'.

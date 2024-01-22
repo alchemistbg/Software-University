@@ -1,0 +1,1 @@
+### Solution to '07. Clean up Wiki Elephant'.

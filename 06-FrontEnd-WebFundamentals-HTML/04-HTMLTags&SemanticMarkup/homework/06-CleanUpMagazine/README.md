@@ -1,0 +1,1 @@
+### Solution to '06. Clean up Magazine'.
