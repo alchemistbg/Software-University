@@ -1,0 +1,420 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <title>Blog - Home</title>
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Pacifico&text=0123456789" rel="stylesheet">
+    <style>
+        body {
+            margin: 0 auto;
+            max-width: 60rem;
+            font-family: 'Pacifico', 'Open Sans', sans-serif;
+            line-height: 1.4;
+            /* font-family: ; */
+            /* background-color: #5cdb95 */
+        }
+
+        main{
+            margin-left: 10px
+        }
+
+        header.site-header {
+            padding-left: 1em;
+            margin: 0;
+            padding: 1px;
+            background-color: #5cdb95
+        }
+
+        .site-header h1{
+            margin-top: 0em;
+            padding-left: 10px;
+        }
+
+        .site-header p{
+            margin-top: 0em;
+            padding-left: 10px;
+            /* height: 100px; */
+        }
+
+        /* div footer {
+            display: block;
+            float: bottom;
+        } */
+
+        /* div aside {
+            width: 30%;
+            float: right;
+        } */
+
+        /* div main {
+            width: 60%;
+            float: left;
+        } */
+
+        nav {
+            background-color: #05386b;
+            /* padding-top: 0.5em; */
+            padding-bottom: 0.5em;
+            padding-left: 0em;
+            margin-left: 0em;
+            overflow: hidden;            
+        }
+
+        nav ul {
+            padding-left: 10px
+        }
+
+        nav ul li {
+            padding-right: 1em;
+            display: inline-block;
+        }
+
+        nav ul li a {
+            color: #5cdb95;
+            text-decoration: none;
+            
+        }
+
+        nav ul li a:hover {
+            color: #edf5e1
+        }
+
+        /* table th, table td {
+            border: none
+        } */
+
+        table {
+            border: solid 2px #000;
+            border-radius: 0px 30px;
+            width: 100%;
+            /* border-collapse: collapse; */
+            text-align: left;
+            margin-bottom: 2em;
+        }
+
+        table th, table td {
+            /* border-radius: 10px; */
+            padding: 0.5em;
+            line-height: 1em;
+        }
+
+        table thead {
+            background-color: #DDD;
+        }
+
+        tbody tr:hover{
+            background-color: #888;
+            color: #FFF;
+            /* border-radius: 5px; */
+        }
+
+        #hovered:hover{            
+            background-color: #888;
+            color: #FFF;
+            border-radius: 5px;
+            margin-left: -20px;
+            padding-left: 20px;
+            text-align: justify;
+        }
+
+        caption {
+            text-align: left;
+            font-style: italic;
+            font-weight: bold;
+        }
+
+        .sticky{
+            position: fixed;
+            top: 0;
+            width: 60rem
+        }
+
+        .sticky + .content{
+            /* padding-top: 54.4px; */
+            padding-top: 62.4px;
+        }
+
+    </style>
+</head>
+
+<body>
+
+    <header class="site-header">
+        <h1>Blog</h1>
+        <p class="site-description">Web programming is COOL</p>
+    </header>
+
+    <nav class="main-navigation" id="navbar">
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">Blog</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Ideas</a></li>
+            <li><a href="#">Contacts</a></li>
+            <li><a href="#article-2">Article 2</a></li>
+            <li><a href="#html-table" class="href">HTML table</a></li>
+        </ul>
+    </nav>
+
+    <!-- <div class="content"> -->
+        <!-- <aside>
+            <ul>
+                <li>1</li>
+                <li>1</li>
+                <li>1</li>
+                <li>1</li>
+                <li>1</li>
+                <li>1</li>
+                <li>1</li>
+                <li>1</li>
+                <li>1</li>
+                <li>1</li>
+                <li>1</li>
+                <li>1</li>
+                <li>1</li>
+                <li>1</li>
+                <li>1</li>
+                <li>1</li>
+                <li>1</li>
+                <li>1</li>
+                <li>2</li>
+                <li>3</li>
+                <li>4</li>
+                <li>5</li>
+            </ul>
+        </aside> -->
+
+        <main class="content">
+            <article>
+                <header>
+                    <h2>Latest article</h2>
+                    <p>Posted by Blogger at <time datetime="14:56">14:56</time> on 19th of September</p>
+                </header>
+                <section>
+                    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Pariatur autem quae quaerat laudantium
+                    officiis eveniet ipsa illo dolorum quia obcaecati officia tempora velit reprehenderit eligendi,
+                    molestias nostrum esse sunt suscipit a numquam consequatur molestiae sit repellat modi. Eum minus
+                    sapiente dolorem impedit ducimus qui esse cumque, et quia delectus nesciunt temporibus incidunt
+                    excepturi labore cum distinctio corrupti optio magni neque consectetur nam laudantium eligendi
+                    odit. Voluptas praesentium iure est, assumenda perferendis explicabo iste earum id aut impedit
+                    illum laborum temporibus corrupti vitae, alias quae, architecto nulla aliquid labore aspernatur.
+                    Accusantium voluptatem numquam repudiandae quas illo blanditiis sunt expedita itaque labore.
+                    <a href="#" title="Hi" class="read-more">Read more</a>
+                </section>
+                <footer>
+                    <p>Category: Fun, Coding</p>
+                    <p>Tags: HTML, Semantics</p>
+                </footer>
+            </article>
+
+            <article id="article-2">
+                <header>
+                    <h2>Latest article</h2>
+                    <p>Posted by Blogger at 14:56 on 19th of September</p>
+                </header>
+                <section>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit iste rerum eveniet nobis saepe neque
+                    quos, perspiciatis, laboriosam molestias autem, aperiam praesentium culpa expedita sit. Est ipsam
+                    dolor, nam enim sapiente provident fuga tenetur quis ea ratione impedit numquam vero. Quia, alias!
+                    Dolor animi officiis perferendis quisquam repellendus quia eveniet, vel quidem, eaque ducimus
+                    magnam voluptas mollitia nulla a, alias esse qui. At odit corporis et officia doloremque recusandae
+                    earum tempora dolorum ipsum eaque! Esse exercitationem quod minus sit repellendus optio voluptates
+                    omnis? Porro, magni commodi. Non impedit modi earum magnam est pariatur provident dolore dolor
+                    totam, officia in quis.
+                    <a href="#" class="read-more">Read more</a>
+                </section>
+                <footer>
+                    <p>Category: Fun, Coding</p>
+                    <p>Tags: HTML, Semantics</p>
+                </footer>
+            </article>
+
+            <article>
+                <header>
+                    <h2>Latest article</h2>
+                    <p>Posted by Blogger at 14:56 on 19th of September</p>
+                </header>
+                <section>
+                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quam quidem maxime nostrum. Ratione earum
+                    non repellat, dicta, cumque officiis quod sint deleniti repellendus saepe inventore. Aliquam quo
+                    ullam possimus deserunt dicta dolorum velit facilis. Quia dicta dolores temporibus rem quam, harum
+                    voluptate saepe ab at ex commodi iusto laudantium accusamus, officiis doloribus facilis illo. Nisi
+                    officiis tempore distinctio impedit soluta, velit quos! Porro sint, velit at adipisci quia deserunt
+                    impedit neque ad, saepe ut commodi provident illo dignissimos tenetur, ducimus blanditiis nihil
+                    officia similique veritatis animi sunt veniam pariatur. Corporis recusandae facilis tempora aliquam
+                    placeat deleniti. Aliquid at laboriosam laudantium?
+                    <a href="#" class="read-more">Read more</a>
+                </section>
+                <footer>
+                    <p>Category: Fun, Coding</p>
+                    <p>Tags: HTML, Semantics</p>
+                </footer>
+            </article>
+            <article>
+                <header>
+                    <h2>Latest article</h2>
+                    <p>Posted by Blogger at 14:56 on 19th of September</p>
+                </header>
+                <section>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo velit quasi cupiditate harum modi?
+                    Placeat qui, delectus praesentium alias quae natus facilis rerum numquam eligendi vel? Hic,
+                    consequuntur veniam? Officiis molestiae eius reiciendis voluptatum vel repellat, ipsam accusamus
+                    fuga alias architecto, facere expedita iusto maiores quaerat aperiam iure eaque sit dicta impedit
+                    ipsa, minima temporibus libero. Ipsa qui saepe maiores modi facilis autem officiis tempore debitis
+                    voluptate incidunt? Optio, est alias, nobis soluta facilis error, earum et repellat cupiditate
+                    voluptates quos? Quod eaque eligendi labore vero ea. Culpa maxime natus suscipit eveniet dolore
+                    iure, vel tempore rerum modi optio ex.
+                    <a href="#" class="read-more">Read more</a>
+                </section>
+                <footer>
+                    <p>Category: Fun, Coding</p>
+                    <p>Tags: HTML, Semantics</p>
+                </footer>
+            </article>
+            <article id="article-5">
+                <header>
+                    <h2>Latest article</h2>
+                    <p>Posted by Blogger at 14:56 on 19th of September</p>
+                </header>
+                <section>
+                    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quod, nesciunt a! Dolore animi ducimus,
+                    reiciendis magnam adipisci unde possimus illum ut quia voluptas fugiat quam maxime commodi tempora
+                    enim quisquam, quidem excepturi molestias aliquid quae modi distinctio ea esse! Ducimus iure, nulla
+                    assumenda at quasi labore voluptatibus quos adipisci perspiciatis saepe necessitatibus ad molestiae
+                    cumque numquam consequuntur optio natus hic sint veniam. Doloremque, eum quisquam? Reiciendis
+                    tenetur, earum nobis quae sit est asperiores eos? Laboriosam laudantium dicta consequuntur fuga
+                    velit autem nulla unde illo quae placeat quibusdam vero dignissimos cupiditate sunt quaerat
+                    inventore dolorum debitis rem, ducimus est, consequatur voluptatibus.
+                    <a href="#" class="read-more">Read more</a>
+                </section>
+                <footer>
+                    <p>Category: Fun, Coding</p>
+                    <p>Tags: HTML, Semantics</p>
+                </footer>
+            </article>
+            <article id="html-table">
+                <header>
+                    <h2>
+                        HTML table example
+                    </h2>
+                </header>
+                <p id="hovered">Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam animi fuga accusamus
+                    sint nostrum ut ipsum explicabo vel cupiditate aut aliquam unde, ducimus assumenda numquam!
+                    Numquam, reprehenderit incidunt. Nam, dolor.</p>
+                <p>Quam, expedita quo repellat eligendi quod commodi incidunt perferendis ab fugiat autem pariatur,
+                    laboriosam impedit dolore doloremque recusandae architecto fugit sapiente nam magnam delectus
+                    aliquid maiores? Vel veniam aspernatur animi?</p>
+                <p>Rem eaque quas perspiciatis praesentium non facere? Eligendi aperiam cumque autem veniam nostrum
+                    architecto rem voluptatem, tempore consequuntur ullam culpa maxime magni quibusdam numquam
+                    necessitatibus, commodi dicta et, odio adipisci!</p>
+                <p>Fugiat ex ipsum vel laudantium! Quis id repellendus distinctio magni totam incidunt impedit, quam
+                    hic autem sunt nobis illo voluptatem, quo temporibus ab in soluta similique nesciunt rem sequi.
+                    Impedit.</p>
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Име</th>
+                            <th>Фамилия</th>
+                            <th>Години</th>
+                            <th>Пол</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Иван</td>
+                            <td>Иванов</td>
+                            <td>24</td>
+                            <td>Мъж</td>
+                        </tr>
+                        <tr>
+                            <td>Кирила</td>
+                            <td>Петрова</td>
+                            <td>28</td>
+                            <td>Жена</td>
+                        </tr>
+                        <tr>
+                            <td>Георги</td>
+                            <td>Димитров</td>
+                            <td>32</td>
+                            <td>Мъж</td>
+                        </tr>
+                    </tbody>
+                    <!-- <tfoot>
+                    </tfoot> -->
+                    <caption>Супер яка таблица</caption>
+                </table>
+            </article>
+        </main>
+    <!-- </div> -->
+
+    <!-- <div> -->
+        <footer>
+            All Rights reserved &copy; Blogger
+        </footer>
+    <!-- </div> -->
+
+    <script>
+        // Get the header
+        let header = document.getElementsByClassName("main-navigation")[0];
+
+        // Get the offset position of the navbar
+        let sticky = header.offsetTop;
+
+        // When the user scrolls the page, execute myFunction
+        window.onscroll = function() {
+            myFunction();
+        };
+
+        // Add the sticky class to the header when you reach its scroll position. Remove "sticky" when you leave the scroll position
+        function myFunction() {
+            if (window.pageYOffset > sticky) {
+                header.classList.add("sticky");
+            } else {
+                header.classList.remove("sticky");
+            }
+        } 
+    </script>
+
+    <!-- Code injected by live-server -->
+    <script type="text/javascript">
+        // <![CDATA[  <-- For SVG support
+        if ('WebSocket' in window) {
+            (function () {
+                function refreshCSS() {
+                    var sheets = [].slice.call(document.getElementsByTagName("link"));
+                    var head = document.getElementsByTagName("head")[0];
+                    for (var i = 0; i < sheets.length; ++i) {
+                        var elem = sheets[i];
+                        head.removeChild(elem);
+                        var rel = elem.rel;
+                        if (elem.href && typeof rel != "string" || rel.length == 0 || rel.toLowerCase() ==
+                            "stylesheet") {
+                            var url = elem.href.replace(/(&|\?)_cacheOverride=\d+/, '');
+                            elem.href = url + (url.indexOf('?') >= 0 ? '&' : '?') + '_cacheOverride=' + (new Date()
+                                .valueOf());
+                        }
+                        head.appendChild(elem);
+                    }
+                }
+                var protocol = window.location.protocol === 'http:' ? 'ws://' : 'wss://';
+                var address = protocol + window.location.host + window.location.pathname + '/ws';
+                var socket = new WebSocket(address);
+                socket.onmessage = function (msg) {
+                    if (msg.data == 'reload') window.location.reload();
+                    else if (msg.data == 'refreshcss') refreshCSS();
+                };
+                if (sessionStorage && !sessionStorage.getItem('IsThisFirstTime_Log_From_LiveServer')) {
+                    console.log('Live reload enabled.');
+                    sessionStorage.setItem('IsThisFirstTime_Log_From_LiveServer', true);
+                }
+            })();
+        } else {
+            console.error('Upgrade your browser. This Browser is NOT supported WebSocket for Live-Reloading.');
+        }
+        // ]]>
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,8 @@
+.pos-abs {
+    display: inline-block;
+    padding: 1em;
+    background: red;
+    position: fixed;
+    right: 10px;
+    bottom: 10px;
+}

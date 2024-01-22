@@ -1,0 +1,45 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    box-sizing: inherit;
+}
+
+*, *::before, *::after {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font: 16px/1.5 Verdana, sans-serif;
+}
+
+body {
+    margin: 0 auto;
+    width: 60rem;
+    /* padding: 2rem 5rem; */
+    border: 2px solid green;
+}
+
+ul li {
+    list-style: none;
+    /* display: inline-block; */
+    padding-right: 1rem;
+}
+
+a {
+    display: inline-block;
+    /* width: 20rem; */
+    text-decoration: none;
+    color: red;
+    background-image: linear-gradient(currentColor, currentColor);
+    background-position: 0 100%;
+    background-repeat: no-repeat;
+    background-size: 0 2px;
+    transition: background-size 0.2s;
+}
+
+a:hover {
+    background-size: 100% 2px;
+}
