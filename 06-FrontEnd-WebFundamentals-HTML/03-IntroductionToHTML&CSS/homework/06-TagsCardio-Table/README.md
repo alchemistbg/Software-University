@@ -1,0 +1,1 @@
+### Solution to '06. Tags Cardio - Table'.

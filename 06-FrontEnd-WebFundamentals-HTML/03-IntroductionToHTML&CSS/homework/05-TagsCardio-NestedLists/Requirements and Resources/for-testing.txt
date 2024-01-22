@@ -1,0 +1,7 @@
+- Check for the title
+- Check for <section>
+- Check for 2 articles inside the section
+- Check for <ul>
+- Check for 4 list items inside the ul
+- Check for ol
+- Check for 3 list items in the ol
