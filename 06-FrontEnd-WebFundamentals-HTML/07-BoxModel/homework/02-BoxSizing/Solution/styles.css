@@ -1,0 +1,26 @@
+html {
+    box-sizing: border-box;
+}
+
+body {
+}
+
+*, *:before, *::after {
+    box-sizing: inherit;
+    margin: 0;
+    padding: 0;
+}
+
+section {
+    width: 250px;
+    height: 250px;
+    border: 2px dashed rgb(0, 221, 136);
+    vertical-align: middle;
+}
+
+p {
+    width: 100%;
+    border: 2px solid rgb(0, 0, 221);
+    padding: 20px;
+    
+}

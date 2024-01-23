@@ -1,0 +1,94 @@
+html {
+    font: 16px/1.5 Verdana, sans-serif;
+}
+
+p {
+    padding: 1em 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: Georgia, serif;
+}
+
+h1 {
+    line-height: 3.0rem;
+    padding-top: 1em;
+    padding-bottom: 0.5em;
+}
+h2 {
+    line-height: 2.4rem;
+    padding-top: 1em;
+    padding-bottom: 0.5em;
+}
+h3 {
+    line-height: 1.9rem;
+    padding-top: 1em;
+    padding-bottom: 0.5em;
+}
+h4 {
+    line-height: 1.6rem;
+    padding-top: 1em;
+    padding-bottom: 0.5em;
+}
+h5 {
+    line-height: 1.3rem;
+    padding-top: 1em;
+    padding-bottom: 0.5em;
+}
+h6 {
+    line-height: 1.1rem;
+    padding-top: 1em;
+    padding-bottom: 0.5em;
+}
+
+ul {
+    padding-left: 3em;
+}
+
+body {
+    font: inherit;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    box-sizing: inherit;
+    background-color: rgb(238, 238, 238);
+}
+
+*, *:before, *:after {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    margin: 0 auto;
+    max-width: 60rem;
+}
+
+.site-container {
+    /* background-color: rgb(238, 238, 238); */
+    padding: 1rem;
+}
+
+.main-container article,
+.main-container aside {
+    display: inline-block;
+    border: 4px solid red;
+
+}
+
+.main-container article {
+    width: 70%;
+}
+
+.main-container aside {
+    vertical-align: top;
+    width: 29%;
+}
+
+img {
+    width: 70%;
+}

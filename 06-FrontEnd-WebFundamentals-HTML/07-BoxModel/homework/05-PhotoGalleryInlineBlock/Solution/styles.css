@@ -1,0 +1,36 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    box-sizing: inherit;
+    background-color: rgb(238, 238, 238);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+ul.gallery {
+    margin: 0 auto;
+    width: 65em;
+    border: 2px solid red;
+    list-style: none;
+}
+
+ul.gallery li {
+    padding: 0.5rem;
+    display: inline-block;
+    width: 33%;
+    height: auto;
+    vertical-align: middle;
+}
+
+ul.gallery li img {
+    padding: 1rem;
+    border: 4px solid black;
+    width: 100%;
+    height: auto;
+    background-color: white;
+}
