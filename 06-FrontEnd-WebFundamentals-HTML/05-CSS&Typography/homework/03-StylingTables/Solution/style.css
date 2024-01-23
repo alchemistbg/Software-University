@@ -1,0 +1,29 @@
+table, td, th {
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(221, 221, 221);
+    border-collapse: collapse;
+}
+
+table {
+    width: 100%;
+    table-layout: fixed;
+}
+
+table thead th {
+    text-align: left;
+    background-color:  rgb(221, 221, 221)
+}
+
+table thead td {
+    background-color: rgb(221, 221, 221);
+}
+
+table tr:nth-child(odd) td {
+    background-color: rgb(241, 241, 241);
+}
+
+table tr:hover {
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+}

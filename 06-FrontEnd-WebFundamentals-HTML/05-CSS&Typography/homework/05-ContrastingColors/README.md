@@ -1,0 +1,1 @@
+### Solution to '05. Contrasting Colors'

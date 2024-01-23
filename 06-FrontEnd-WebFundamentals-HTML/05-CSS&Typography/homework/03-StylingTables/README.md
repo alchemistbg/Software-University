@@ -1,0 +1,1 @@
+### Solution to '03. Styling Tables'
