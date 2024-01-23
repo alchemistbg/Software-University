@@ -1,0 +1,24 @@
+h1 {
+}
+
+h1:hover{
+    opacity: 0.5;
+    /* transition-delay: 0.5s; */
+    transition-duration: 0.5s;
+    transition-property: opacity;
+    /* transition-timing-function: cubic-bezier(0.0, 0.0, 0.165, 1); */
+    /* font-size: 40px; */
+    outline-color: aqua;
+    outline-width: 0.1rem;
+    outline-style: solid;
+}
+
+input[type='text'] {
+    /* background-color: aqua; */
+}
+
+input[type='text']:focus {
+    outline-color: aqua;
+    outline-width: 0.1rem;
+    outline-style: solid;
+}
