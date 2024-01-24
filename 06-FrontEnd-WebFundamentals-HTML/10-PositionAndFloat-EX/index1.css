@@ -1,0 +1,47 @@
+body {
+    padding: 2rem;
+    margin: 0rem;
+}
+
+.container {
+    background-color: black;
+    height: calc(100vh - 4rem);
+    position: relative;
+}
+
+.box {
+    width: 10rem;
+    height: 10rem;
+    background-color: red;
+    position: absolute;
+}
+
+.tl {
+    top: 0; left: 0;
+}
+
+.tr {
+    top: 0; right: 0;
+}
+
+.bl {
+    bottom: 0; left: 0;
+}
+
+.br {
+    bottom: 0; right: 0;
+}
+
+.innerbox {
+    width: 4rem;
+    height: 4rem;
+    background-color: green;
+    position: absolute;
+    top: 50%; left: 50%;
+    transform: translate(-50%, -50%);
+    transition: width 0.2s;
+}
+
+.innerbox:hover {
+    width: 6rem;
+}
