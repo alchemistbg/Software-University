@@ -1,0 +1,20 @@
+@import url('https://use.fontawesome.com/releases/v5.8.2/css/all.css');
+
+.viewport:nth-child(1) .card{
+    background-image: linear-gradient(to right, #185B9D, #42CCA1);
+}
+
+.viewport:nth-child(2) .card{
+    background-image: linear-gradient(to right, #A93575, #D28016);
+}
+
+.viewport .card{
+    /* display: block; */
+    position: absolute;
+}
+
+.viewport .card img {
+    position: absolute;
+    top:0;
+    left: 0;
+}

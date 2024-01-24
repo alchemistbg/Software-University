@@ -1,0 +1,160 @@
+html {
+    font: 16px/1.5 Verdana, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: Georgia, serif;
+    line-height: 1.2;
+    /* padding-bottom: 1rem; */
+}
+
+h1 { font-size: 3rem }
+h2 { font-size: 2.4rem }
+h3 { font-size: 2.0rem }
+h4 { font-size: 1.7em }
+h5 { font-size: 1.4rem }
+h6 { font-size: 1.2rem }
+
+p { padding-bottom: 1rem; }
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    box-sizing: border-box;
+}
+
+* {
+    box-sizing: inherit;
+}
+
+body {
+    padding: 2rem;
+}
+
+.site {
+    max-width: 60rem;
+    margin: 0 auto;
+}
+
+.site-header {
+    border-bottom: 4px solid #900;
+    padding-bottom: 1rem;
+    margin-bottom: 2rem;
+}
+
+.site-header a {
+    text-decoration: none;
+    color: #900;
+}
+
+.site-header nav {
+    width: 100%;
+    background-color: #900;
+}
+
+.site-header nav a {
+    color: white;
+    list-style: none;
+    display: block;
+    padding: 0.5rem;
+}
+
+.site-header nav li {
+    display: block;
+    position: relative;
+}
+
+.site-header nav > ul > li {
+    float: left;
+}
+
+.site-header nav > ul ul {
+    background-color: #900;
+    display: none;
+    position: absolute;
+    top: 100%; left: 0;
+    z-index: 1000;
+}
+
+.site-header nav > ul > li > ul > li ul{
+    top: 0; left: 100%;
+}
+
+.site-header nav li:hover > ul {
+    display: block;
+    width: 10rem;
+    float: left;
+}
+
+.site-header nav ul::after {
+    display: block;
+    height: 0 ;
+    content: '';
+    clear: both;
+}
+
+.site-header nav li:hover > a,
+.site-header nav a:focus,
+.site-header nav a:hover {
+    color: #fff;
+    background-color: #900;
+}
+
+.site-content{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.site-content main {
+    border: 2px solid green;
+    flex: 0 0 40rem;
+    margin-right: calc(2rem - 2px);
+}
+
+.site-content aside {
+    border: 2px solid green;
+    flex: 0 1 18rem;
+    display: flex;
+    flex-wrap: wrap;
+    /* flex-direction: column; */
+    /* justify-content: space-evenly; */
+    /* flex-direction: column; */
+}
+
+.site-content aside .latest-post {
+    border: 2px solid blue;
+    flex-grow: 1;
+}
+
+.site-content aside .archive {
+    border: 2px solid blue;
+    flex-grow: 1;
+}
+
+.site-content aside ul {
+    /* display: block; */
+}
+
+@media (max-width: 64rem){
+
+    .site-content main {
+        margin-right: 0rem;
+        flex: 1 1 40rem;
+    }
+    
+    .site-content aside{
+        padding-top: 1rem;
+        border-top: 2px solid #900;
+        flex: 1 1 40rem;
+        display: flex;
+    }
+
+    .site-content aside .latest-post {
+
+    }
+}
