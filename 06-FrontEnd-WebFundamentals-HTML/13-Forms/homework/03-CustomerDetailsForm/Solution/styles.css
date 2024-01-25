@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+html {
+    box-sizing: border-box;
+    font: 16px/1.2 'Montserrat', sans-serif;
+}
+
+*, *::before, *::after {
+    box-sizing: inherit;
+}
+
+body, input {
+    padding: 2rem;
+    font: inherit;
+}
+
+section {
+    max-width: 40vw;
+    margin: auto;
+}
+
+form {
+    border-radius: 0.5rem;
+    background: rgb(173, 216, 230);
+    padding: 2rem 3rem;
+}
+
+legend {
+    font-size: 2.5rem;
+    font-family: Georgia, serif;
+    margin: auto;
+    padding-bottom: 2rem;
+}
+
+fieldset {
+    border: none;
+}
+
+.fi-label {
+    display: inline-block;
+    width: 25%;
+}
+
+.fi-input{
+    width: 55%;
+}
+
+p {
+    padding-bottom: 0.7rem;
+}
+
+.fi-input {
+    padding: 0.5rem;
+}
+
+textarea {
+    vertical-align: top;
+}
+
+.send-btn {
+    display: flex;
+    justify-content: center;
+    padding-top: 0.5rem;
+    padding-top: 1rem;
+}
+
+.send-btn a {
+    text-decoration: none;
+    padding: 1rem 3rem;
+    border-radius: 0.5rem;
+    color: #fff;
+    background: rgb(35, 68, 101);
+}
+
+.checkbox {
+    padding-top: 1rem;
+}

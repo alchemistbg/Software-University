@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+@import url(https://use.fontawesome.com/releases/v5.9.0/css/all.css);
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+html {
+    box-sizing: border-box;
+    font: 16px/1.2 'Montserrat', sans-serif;
+    /* font-family: Montserat, sans-serif; */
+}
+
+body, input {
+    font: inherit;
+}
+
+body {
+    padding: 4rem;
+}
+
+*, *::before, *::after {
+    box-sizing: inherit;
+}
+
+section {
+    width: 20vw;
+    margin: auto;
+}
+
+fieldset {
+    /* border: none; */
+}
+
+.smb-wrapper {
+    display: flex;
+}
+
+.smb-wrapper span {
+    flex: 1 0 50%;
+    justify-content: space-evenly;
+    border-radius: 0.5em;
+    display: flex;
+}
+
+.smb-wrapper span input {
+    width: 100%;
+    border: none;
+    background: none;
+    text-align: left;
+}
+
+.fb-wrapper, .gb-wrapper {
+    padding: 1em;
+}
+
+.fb-wrapper {
+    border: rgb(59, 89, 152);
+    background: rgb(59, 89, 152);
+}
+
+.fb-wrapper i, .gb-wrapper i {
+    padding-right: 0.1em;
+    margin-right: 0.5em;
+}
+
+.fb-wrapper i{
+    background: rgb(255, 255, 255);
+    color: rgb(59, 89, 152);
+    width: 1em;
+    text-align: right;
+}
+
+.fb-wrapper a, .gb-wrapper a {    
+    text-decoration: none;
+}
+
+.fb-wrapper a {
+    color: rgb(255, 255, 255);
+}
+
+.gb-wrapper {
+    box-shadow: 0 0 3px rgba(0, 0, 0, 0.5);
+}
+
+.input-wrapper label, .input-wrapper input {
+    display: block;
+    width: 100%;
+}
+

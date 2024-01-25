@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="styles1.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css"
+        integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+    <title>Forms Demo - 1</title>
+</head>
+<body>
+    
+    <form action="#" method="GET">
+
+        <fieldset>
+            <legend>Contact Information</legend>
+
+            <p class="single-line">
+                <label for="field_fName">First Name</label>
+                <input type="text" name="fName" id="field_fName" placeholder="John" onfocus="placeholder=''" onblur="placeholder='John'">
+            </p>
+
+            <p class="single-line">
+                <label for="field_lName">Last Name</label>
+                <input type="text" name="lName" id="field_lName" placeholder="Doe">
+            </p class="single-line">
+
+            <p class="single-line">
+                <label for="field_email">Email</label>
+                <input type="email" name="email" id="field_email" required placeholder="john.doe@server.com">
+            </p>
+
+        </fieldset>
+
+        <fieldset>
+
+            <legend class="not-first">Feedback <i class="far fa-address-card"></i></legend>
+
+            <p class="single-line">
+                <label for="field_age">Age </label>
+                <select name="age" id="field_age">
+                    <option value="18">18 </option>
+                    <option value="19">19</option>
+                    <option value="20">20</option>
+                    <option value="21">21</option>
+                    <option value="22">22</option>
+                    <option value="23">23</option>
+                    <option value="24">24</option>
+                    <option value="25">25</option>
+                </select>
+            </p>
+
+        </fieldset>
+
+        <p class="submit">
+                <input type="submit" value="Submit">
+        </p>
+
+    </form>
+
+</body>
+</html>

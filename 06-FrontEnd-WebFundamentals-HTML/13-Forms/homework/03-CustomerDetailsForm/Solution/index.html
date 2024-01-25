@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Customer Details Form</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    
+    <section>
+        <form action="#" method="POST">
+
+            <fieldset>
+
+                <legend>Customer Details</legend>
+
+                <p>
+                    <label class="fi-label" for="field_fName">First Name</label> 
+                    <input class="fi-input" type="text" name="firstName" id="field_fName" placeholder="George" autofocus>
+                </p>
+    
+                <p>
+                    <label class="fi-label" for="field_lName">Last Name</label>
+                    <input class="fi-input" type="text" name="lastName" id="field_lName" placeholder="Davis">
+                </p>
+    
+                <p>
+                    <label class="fi-label" for="">Gender</label>
+                    <span>
+                        <input type="radio" name="gender" id="cb_male" value="Male">
+                        <label for="cb_male">Male</label>
+                        <input type="radio" name="gender" id="cb_female" value="Female">
+                        <label for="cb_female">Female</label>
+                    </span>
+                </p>
+    
+                <p>
+                    <label class="fi-label" for="field_email">Email</label>
+                    <input class="fi-input" type="email" name="email" id="field_email" placeholder="your@email.com">
+                </p>
+    
+                <p>
+                    <label class="fi-label" for="field_phone">Phone</label>
+                    <input class="fi-input" type="tel" name="phone" id="field_phone" placeholder="+35932261261">
+                </p>
+    
+                <p>
+                    <label class="fi-label" for="select_town">Town</label>
+                    <select class="fi-input town-list" name="town-data" id="select_town">
+                        <option value="Sofia">Sofia</option>
+                        <option value="Varna">Varna</option>
+                        <option value="Bourgas">Bourgas</option>
+                        <option value="Plovdiv">Plovdiv</option>
+                        <option value="Pleven">Stara Zagora</option>
+                    </select>
+                </p>
+    
+                <p>
+                    <label class="fi-label" for="field_age">Age</label>
+                    <input class="fi-input" type="number" min="18" max="70" name="age" id="field_age">
+                </p>
+    
+                <p>
+                    <label class="fi-label" for="list_languages">Language</label>
+                    <input class="fi-input" list="languages" name="" id="list_languages">
+                    <datalist id="languages">
+                        <option>C#</options>
+                        <option>JavaScript</options>
+                        <option>HTML</options>
+                        <option>Java</options>
+                        <option>PHP</options>
+                    </datalist>
+                </p>
+    
+                <p>
+                    <label class="fi-label" for="more-info">Message</label>
+                    <textarea class="fi-input" name=more-info"" id="more-info" cols="35" rows="5" placeholder="More information..."></textarea>
+                </p>
+    
+                <p class="checkbox">
+                    <input type="checkbox" name="tandc" id="tandc">
+                    <label for="tandc">I agree the Terms and Conditions</label>
+                </p>
+    
+                <p class="send-btn">
+                    <a href="#">Send</a>
+                    <!-- <input type="submit" value="Send"> -->
+                    <!-- <input type="reset" value="Reset"> -->
+                </p>
+    
+            </fieldset>
+        </form>
+    </section>
+
+</body>
+</html>
