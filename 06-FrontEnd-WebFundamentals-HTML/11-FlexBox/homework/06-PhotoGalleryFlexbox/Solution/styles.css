@@ -1,0 +1,44 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* margin: auto; */
+    padding: 5rem;
+    background-color: #eee;
+}
+
+.gallery {
+    padding: 5rem;
+}
+
+ul {
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+li {
+    flex: 0 0 25%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    list-style: none outside;
+    margin-bottom: 4rem;
+	padding: 2.5rem 1rem;
+	background: #FFF;
+	border: 0.8rem solid #111;
+	box-shadow: 0 0 3rem 0.1rem rgba(0,0,0,0.3), 0 0 1rem 0.2rem rgba(0,0,0,0.3) inset;
+    /* flex: 0 0 33%; */
+}
+
+li img {
+    box-shadow: 0 0 0 0.1rem rgba(0,0,0,0.2);
+}

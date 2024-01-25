@@ -1,0 +1,47 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    box-sizing: inherit;
+}
+
+span {
+    border: 1px solid #000;
+}
+
+.container {
+    display: flex;
+    max-width: 65vw;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.week {
+    width: 50vw;
+    flex-wrap: wrap;
+    display: flex;
+}
+
+.week span {
+    flex: 1 0 15%;
+    padding: 2rem 2rem 6rem 2rem;
+}
+
+.week span:nth-child(1), 
+.week span:nth-child(7) {
+    flex: 1 0 100%;
+    font-size: 16px;  
+}
+
+.notes {
+    width: 15vw;
+    display: flex;
+    flex-direction: column;
+}
+
+.notes span {
+    flex: 1 0 50%; 
+    padding: 0.5rem;    
+    font-size: 16px; 
+}

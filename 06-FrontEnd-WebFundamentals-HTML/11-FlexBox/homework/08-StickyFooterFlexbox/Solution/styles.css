@@ -1,0 +1,42 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    box-sizing: inherit;
+}
+
+*, *::before, *::after {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    background: rgb(238, 238, 238);
+}
+
+header {
+    border-bottom: 2px solid #000;
+}
+
+.site-title {
+    min-width: 20vw;
+    font-weight: bold;
+    font-size: 3rem;
+    text-transform: uppercase;
+    padding: 1rem 2rem;
+}
+
+main {
+    padding: 2rem;
+}
+
+footer {
+    margin-top: auto;
+    color: rgb(255, 255, 255);
+    background: rgb(102, 102, 102);
+    padding: 1rem 2rem;
+}

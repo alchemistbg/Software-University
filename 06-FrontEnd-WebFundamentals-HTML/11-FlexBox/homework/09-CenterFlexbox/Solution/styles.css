@@ -1,0 +1,25 @@
+body {
+    background: rgb(238, 238, 238);
+    display: flex;
+    height: 100vh;
+	align-items: center;
+	justify-content: center;
+}
+
+.card {
+    max-width: 25vw;
+    padding: 1rem;
+    background: rgb(255, 255, 255);
+    border-radius: 0.5rem;
+    box-shadow: 0 0 2rem rgba(0, 0, 0, 0.5);
+    /* box-shadow: 0 0 2rem 0.5rem rgba(0,0,0,0.2); */
+}
+
+.card h3 {
+    font-family: Georgia;
+}
+
+.card p {
+    font-family: Helvetica;
+    line-height: 1.5;
+}

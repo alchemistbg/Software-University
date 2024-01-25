@@ -1,0 +1,78 @@
+* {
+    box-sizing: border-box;
+}
+
+*, *::before, *::after {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    box-sizing: inherit;
+    font: 16px/1.5 Verdana, sans-serif;
+}
+
+h1 {
+    font-size: 2rem;
+    line-height: 1.2;
+}
+
+body {
+    margin: 0 auto;
+    padding: 2rem;
+    max-width: 60rem;
+}
+
+header {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+header nav {
+    flex: 1 0 100%;
+}
+
+header nav ul {
+    /* display: block; */
+}
+
+header ul li {
+    display: inline;
+    list-style: none;
+}
+
+section.search {
+    margin-left: auto;
+}
+
+.flex{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: flex-start;
+    align-items: stretch;
+    border: 2px solid black;
+}
+
+.box {
+    flex: 0 1 17rem;
+    border: 2px solid red;
+}
+
+
+.box:nth-child(2n),
+.box:nth-child(3n) {
+    /* margin-left: 1rem; */
+}
+
+.box.one {
+    /* height: 150px; */
+}
+
+.box.two {
+    /* height: 200px; */
+}
+
+.box.three {
+    /* height: 100px; */
+}
