@@ -1,0 +1,144 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    box-sizing: inherit;
+    background-color: rgb(222, 222, 222);
+}
+
+*, *::before, *::after {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-family: Verdana, sans-serif;
+    font-size: 12px;
+    line-height: 1.5;
+}
+
+body {
+    max-width: 60rem;
+    margin: 0 auto;
+}
+
+@media (max-width: 500px){
+    html {
+        font-size: 14;
+    }
+
+    body {
+        padding: 0.5em;
+    }
+}
+
+@media (min-width: 500px) and (max-width: 600px){
+    html {
+        font-size: 16px;
+    }
+
+    body {
+        padding: 1em;
+    }
+}
+
+@media (min-width: 600px) and (max-width: 800px){
+    html {
+        font-size: 18px;
+    }
+
+    body {
+        padding: 1em;
+    }
+}
+
+@media (min-width: 800px) and (max-width: 1300px){
+    html {
+        font-size: 21px;
+    }
+
+    body {
+        padding: 1em;
+    }
+}
+
+h1, h2, h3, h4, h5, h6, blockquote{
+    font-family: Georgia, serif;
+    font-weight: normal;
+}
+
+@media (min-width: 1300px) {
+    html {
+        font-size: 23px;
+    }
+
+    body {
+        padding: 1em;
+    }
+}
+
+h1 {font-size: 3rem}
+h2 {font-size: 2.4rem}
+h3 {font-size: 2.0rem}
+h4 {font-size: 1.7rem}
+h5 {font-size: 1.4rem}
+h6 {font-size: 1.2rem}
+
+p {
+    margin-bottom: 1rem;
+}
+
+.site-title{
+    font-weight: bold;
+    font-size: 4rem;
+    text-transform: uppercase;
+    display: inline-block;
+
+}
+
+section img {
+    padding: 0.5rem;
+    border: 2px solid rgb(0, 0 , 0);
+    background-color: rgb(255, 255, 255);
+}
+
+blockquote {
+    font-style: italic;
+    color: rgb(155, 155, 155);
+    padding-left: 2rem;
+    margin-left: 2rem;
+    margin-right: 2rem;
+    border-left: 4px solid rgb(155, 155, 155);
+}
+
+@media (min-width: 600px){
+    .img1 {
+        float: right;
+        margin-left: 2rem;
+    }
+    
+    .img2{
+        float: left;
+        margin-right: 2rem;
+    }
+
+    blockquote {
+        float: right;
+        width: 50%;
+    }
+}
+
+blockquote p:last-child {
+    float: right;
+    margin-bottom: 3rem;
+}
+
+blockquote:after,
+.img1:after,
+.img2:after {
+    display: block;
+    height: 0;
+    content: '';
+    clear: both;
+}

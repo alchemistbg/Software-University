@@ -1,0 +1,64 @@
+body {
+    background: red;
+    font-size: 24px;
+}
+
+::selection {
+    background-color: yellow;
+    color: aqua;
+}
+
+p::after {
+    display: block;
+    content: 'Viewport width is larger than 1200px'
+}
+
+@media (max-width: 600px) and (light-level: normal){
+    body {
+        background: green;
+        font-size: 24px;
+    }
+
+    p::after {
+        display: block;
+        content: 'Viewport width is lower than 600px'
+    }
+}
+
+@media (min-width: 600px) and (max-width: 1200px) {
+    body {
+        background: blue;
+        font-size: 24px;
+    }
+    
+    p::after {
+        display: block;
+        content: 'Viewport width is between 600px and 1200px'
+    }
+}
+
+/* @media (min-height: 600px) {
+    body {
+        background: blue;
+        font-size: 24px;
+        color: white;
+    }
+
+    p::after {
+        display: block;
+        content: 'Viewport height is bigger than 600px'
+    }
+}
+
+@media (min-aspect-ratio: 8/5) {
+    body {
+        background: green;
+        font-size: 24px;
+        color: white;
+    }
+
+    p::after {
+        display: block;
+        content: 'Aspect-ratio is bigger than 8/5'
+    }
+} */

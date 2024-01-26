@@ -1,0 +1,41 @@
+body {
+    background: red;
+}
+
+@media (min-width: 600px) {
+    body {
+        background: aqua;
+        font-size: 24px;
+    }
+
+    .mq-width p::after {
+        display: block;
+        content: 'Viewport width is bigger than 600px'
+    }
+}
+
+@media (min-height: 600px) {
+    body {
+        background: blue;
+        font-size: 24px;
+        color: white;
+    }
+
+    .mq-height p::after {
+        display: block;
+        content: 'Viewport height is bigger than 600px'
+    }
+}
+
+@media (min-aspect-ratio: 8/5) {
+    body {
+        background: green;
+        font-size: 24px;
+        color: white;
+    }
+
+    .mq-ar p::after {
+        display: block;
+        content: 'Aspect-ratio is bigger than 8/5'
+    }
+}

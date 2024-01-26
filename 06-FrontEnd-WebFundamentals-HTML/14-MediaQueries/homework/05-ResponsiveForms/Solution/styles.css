@@ -1,0 +1,43 @@
+@import url('https://use.fontawesome.com/releases/v5.8.1/css/all.css');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    max-width: 40rem;
+    margin: auto;
+    padding: 2rem;
+}
+
+form {
+    margin: auto;
+}
+
+form label {
+    width: 5rem;
+}
+
+.wrapper {
+    border: 1px solid #ccc;
+    display: flex;
+    justify-content: space-between;
+}
+
+.wrapper i {
+    flex: 1 0 1.1rem;
+    padding: 0 0.2em;
+    text-align: center;
+}
+
+.wrapper input {
+    flex: 1 0 18rem;
+}
+
+@media (min-width: 1024px) {
+    form p {
+        display: flex;
+    }
+}

@@ -1,0 +1,129 @@
+@import url('https://fonts.googleapis.com/css?family=PT+Sans:400,400i,700,700i&display=swap');
+@import url('https://use.fontawesome.com/releases/v5.8.1/css/all.css');
+
+:root {
+    --main-header-color: rgb(104, 52, 123);
+}
+
+/*
+* Reset
+*/
+
+html {
+    box-sizing: border-box;
+}
+
+* {
+    box-sizing: inherit;
+}
+
+*, *::before, *::after {
+    margin: 0;
+    padding: 0;
+}
+
+/*
+* Typography
+*/
+
+html {
+    font: 16px/1.5 'PT Sans', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: Georgia, serif;
+    font-weight: normal;
+}
+
+h1 {font-size: 3rem}
+h2 {font-size: 2.4rem}
+h3 {font-size: 2.0rem}
+h4 {font-size: 1.7rem}
+h5 {font-size: 1.4rem}
+h6 {font-size: 1.2rem}
+
+/*
+* 
+*/
+
+body {
+    max-width: 60vw;
+    margin: auto;
+    padding: 2rem;
+}
+
+table,
+table th, table td {
+    border: 1px solid #ccc;
+    border-collapse: collapse;
+}
+
+table {
+    width: 100%;
+}
+
+table th, table td {
+    /* border-spacing: 0px; */
+    border-collapse: collapse;
+    padding: 0.5rem;
+}
+
+table th {
+    text-align-last: left;
+    background: #000;
+    color: #fff;
+}
+
+@media (max-width: 600px){
+
+    table {
+        border: none;
+    }
+
+    table, thead, tbody, th, td, tr { 
+		display: block; 
+    }
+    
+    thead tr {
+        display: none;
+    }
+
+    tr {
+        border: 1px solid green;
+    }
+
+    tr:not(:last-child) {
+        border-bottom: 0;
+    }
+
+    td {
+        border: none;
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    td:before {
+        /* flex: 0 0 40%; */
+        font-weight: bold;
+        padding-right: 1rem;
+        text-align: right;
+    }
+
+    td span {
+        /* flex: 0 0 50%; */
+    }
+
+    td:nth-child(n):before {
+        content: 'First Name:';
+    }
+
+    td:nth-child(2n):before {
+        content: 'Last Name:';
+    }
+
+    td:nth-child(3n):before {
+        content: 'Job Title:';
+    }
+
+
+}
