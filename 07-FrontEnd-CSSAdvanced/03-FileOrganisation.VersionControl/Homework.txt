@@ -1,0 +1,5 @@
+Link to Jekyll Static Site Repo:
+https://github.com/alchemistbg/static-blog
+
+Link to Jekyll Static Site in GitHub Pages:
+https://alchemistbg.github.io/static-blog/
