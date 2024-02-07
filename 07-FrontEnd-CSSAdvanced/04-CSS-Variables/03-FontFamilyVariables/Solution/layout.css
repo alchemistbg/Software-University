@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css?family=PT+Sans|PT+Serif');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    /* box-sizing: border-box; */
+    font-size: 16px;
+    font-family: var(--font-family-PT-sans);
+}
+
+*, *::before, *::after {
+    /* box-sizing: inherit */
+}
+
+body {
+    max-width: 60%;
+    margin: 2rem auto;
+}
+
+h1, h2, h3, h4 {
+    font-family: var(--font-family-PT-serif);
+    padding-bottom: 1rem;
+}
+
+h1 {
+    text-align: center;
+    padding-bottom: 2rem;
+}
+
+p {
+    padding-bottom: 1.5rem;
+}
+
+section p:first-of-type {
+    text-align: center;
+}
