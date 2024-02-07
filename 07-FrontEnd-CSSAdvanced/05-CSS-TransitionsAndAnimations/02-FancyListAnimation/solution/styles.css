@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700&display=swap');
+@import url('https://use.fontawesome.com/releases/v5.8.1/css/all.css');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+html {
+    font: 16px/1.5 'Ubuntu', sans-serif;
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+ul li {
+	display: block;
+    list-style-type: none;
+    list-style-position: outside;
+    opacity: 0;
+    transform: translate(-2em, 0);
+    animation-name: menu-item-slide;
+    animation-duration: 0.5s;
+	animation-fill-mode: forwards;
+
+}
+
+ul li a {
+    font-size: 2rem;
+    line-height: 2;
+	display: block;
+    text-decoration: none;
+    color: #EC8421;
+}
+
+ul li span {
+    width: 60px;
+    text-align: center;
+}
+
+ul li:nth-child(1) { animation-delay: 0.2s; }
+ul li:nth-child(2) { animation-delay: 0.4s; }
+ul li:nth-child(3) { animation-delay: 0.6s; }
+ul li:nth-child(4) { animation-delay: 0.8s; }
+ul li:nth-child(5) { animation-delay: 1.0s; }
+ul li:nth-child(6) { animation-delay: 1.2s; }
+ul li:nth-child(7) { animation-delay: 1.4s; }
+
+@keyframes menu-item-slide {
+    from {
+
+    }
+
+    to {
+        opacity: 1;
+        transform: translate(0, 0);
+    }
+}

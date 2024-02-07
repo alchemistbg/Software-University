@@ -1,0 +1,37 @@
+body {
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.circle {
+    width: 10rem;
+    height: 10rem;
+    background: red;
+    border-radius: 50%;
+    animation-name: transform-circle;
+    animation-duration: 2s;
+    animation-timing-function: ease-out;
+    /* animation-timing-function: ease-in; */
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    /* animation-direction: reverse; */
+    animation-fill-mode: none;
+    /* animation-fill-mode: backwards; */
+    animation-play-state: running;
+}
+
+@keyframes transform-circle{
+    from {
+
+    }
+
+    to {
+        background: blue;
+        border-radius: 0%;
+    }
+}
