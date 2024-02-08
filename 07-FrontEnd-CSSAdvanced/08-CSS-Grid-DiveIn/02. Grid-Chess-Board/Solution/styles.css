@@ -1,0 +1,38 @@
+html {
+    box-sizing: border-box;
+}
+
+* {
+    box-sizing: inherit;
+}
+
+body {
+    margin: 0;
+    padding: 0;     
+}
+
+.container {
+    width: 80vw;
+    height: 100vh;
+    margin: auto;
+    display: grid;
+    justify-content: center;
+    align-content: center;
+    grid-template-columns: repeat(5, 100px);
+    grid-template-rows: repeat(5, 100px);
+    grid-gap: 10px;
+}
+
+.item {
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+.item:nth-child(2n-1) {
+    background: black;
+}
+
+.item:nth-child(2n) {
+    background: white;
+}
+
