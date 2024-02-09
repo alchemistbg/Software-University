@@ -1,0 +1,33 @@
+$breakpoints: (
+    "s":   (min-width, 360px),
+    "m":   (min-width, 500px),
+    "l":   (min-width, 650px),
+    "xl":  (min-width, 900px),
+    "xxl": (min-width, 1400px)
+)
+
+@mixin bp($point) {
+
+    @if $point == desktop {
+        @media (min-width: 1400) {
+            @content;
+        }
+    }
+    @else if $point == laptop {
+        @media (min-width: 1024px) {
+            @content;
+        }
+    }
+
+    @else if $point == mobile {
+        @media (max-width: 1023px) {
+            @content;
+        }
+    }
+
+    @else if $point == phone {
+        @media (max-width: 480px) {
+            @content;
+        }
+    }
+}

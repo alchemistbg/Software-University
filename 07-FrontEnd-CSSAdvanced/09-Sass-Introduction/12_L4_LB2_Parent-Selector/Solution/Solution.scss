@@ -1,0 +1,35 @@
+.content {
+  width: 60vw;
+  height: 60vh;
+  margin: auto;
+  
+  &-header, &-main, &-footer {
+    height: 30%;
+  }
+  &-header {
+    display: flex;
+    .logo{
+      background: yellow;
+	    width: 20%;
+	    height: 100%;
+    }
+    
+    .nav{
+	    display: flex;
+	    
+	    li {
+	      list-style: none outside;
+	      padding-right: 0.3rem;
+	    }
+    }
+    
+    background: red;
+  }
+  &-main{
+    background: green;
+  }
+  &-footer {
+    background: blue;
+  }
+  
+}

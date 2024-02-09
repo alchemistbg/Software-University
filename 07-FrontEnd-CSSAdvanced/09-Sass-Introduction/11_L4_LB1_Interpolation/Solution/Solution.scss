@@ -1,0 +1,18 @@
+.content {
+  width: 60vw;
+  height: 60vh;
+  margin: auto;
+  
+  &-header, &-main, &-footer {
+    height: 30%;
+  }
+  &-header {
+    background: red;
+  }
+  &-main{
+    background: green;
+  }
+  &-footer {
+    background: blue;
+  }
+}
