@@ -1,0 +1,1 @@
+### This folder contains homework files as they were uploaded to SoftUni site.
