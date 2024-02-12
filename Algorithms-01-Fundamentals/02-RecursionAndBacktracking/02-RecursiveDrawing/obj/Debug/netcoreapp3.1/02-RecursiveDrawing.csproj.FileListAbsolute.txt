@@ -1,0 +1,13 @@
+C:\_Workspace\SU\Algorithms-2020.11\01-Fundamentals\02-RecursionAndBacktracking\02-RecursiveDrawing\bin\Debug\netcoreapp3.1\02-RecursiveDrawing.exe
+C:\_Workspace\SU\Algorithms-2020.11\01-Fundamentals\02-RecursionAndBacktracking\02-RecursiveDrawing\bin\Debug\netcoreapp3.1\02-RecursiveDrawing.deps.json
+C:\_Workspace\SU\Algorithms-2020.11\01-Fundamentals\02-RecursionAndBacktracking\02-RecursiveDrawing\bin\Debug\netcoreapp3.1\02-RecursiveDrawing.runtimeconfig.json
+C:\_Workspace\SU\Algorithms-2020.11\01-Fundamentals\02-RecursionAndBacktracking\02-RecursiveDrawing\bin\Debug\netcoreapp3.1\02-RecursiveDrawing.runtimeconfig.dev.json
+C:\_Workspace\SU\Algorithms-2020.11\01-Fundamentals\02-RecursionAndBacktracking\02-RecursiveDrawing\bin\Debug\netcoreapp3.1\02-RecursiveDrawing.dll
+C:\_Workspace\SU\Algorithms-2020.11\01-Fundamentals\02-RecursionAndBacktracking\02-RecursiveDrawing\bin\Debug\netcoreapp3.1\02-RecursiveDrawing.pdb
+C:\_Workspace\SU\Algorithms-2020.11\01-Fundamentals\02-RecursionAndBacktracking\02-RecursiveDrawing\obj\Debug\netcoreapp3.1\02-RecursiveDrawing.csprojAssemblyReference.cache
+C:\_Workspace\SU\Algorithms-2020.11\01-Fundamentals\02-RecursionAndBacktracking\02-RecursiveDrawing\obj\Debug\netcoreapp3.1\02-RecursiveDrawing.AssemblyInfoInputs.cache
+C:\_Workspace\SU\Algorithms-2020.11\01-Fundamentals\02-RecursionAndBacktracking\02-RecursiveDrawing\obj\Debug\netcoreapp3.1\02-RecursiveDrawing.AssemblyInfo.cs
+C:\_Workspace\SU\Algorithms-2020.11\01-Fundamentals\02-RecursionAndBacktracking\02-RecursiveDrawing\obj\Debug\netcoreapp3.1\02-RecursiveDrawing.csproj.CoreCompileInputs.cache
+C:\_Workspace\SU\Algorithms-2020.11\01-Fundamentals\02-RecursionAndBacktracking\02-RecursiveDrawing\obj\Debug\netcoreapp3.1\02-RecursiveDrawing.dll
+C:\_Workspace\SU\Algorithms-2020.11\01-Fundamentals\02-RecursionAndBacktracking\02-RecursiveDrawing\obj\Debug\netcoreapp3.1\02-RecursiveDrawing.pdb
+C:\_Workspace\SU\Algorithms-2020.11\01-Fundamentals\02-RecursionAndBacktracking\02-RecursiveDrawing\obj\Debug\netcoreapp3.1\02-RecursiveDrawing.genruntimeconfig.cache

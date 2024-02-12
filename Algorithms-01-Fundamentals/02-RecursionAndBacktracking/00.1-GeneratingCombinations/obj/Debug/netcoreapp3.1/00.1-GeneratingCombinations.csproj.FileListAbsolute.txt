@@ -1,0 +1,13 @@
+C:\_Workspace\SU\Algorithms-2020.11\01-Fundamentals\02-RecursionAndBacktracking\00.1-GeneratingCombinations\bin\Debug\netcoreapp3.1\00.1-GeneratingCombinations.exe
+C:\_Workspace\SU\Algorithms-2020.11\01-Fundamentals\02-RecursionAndBacktracking\00.1-GeneratingCombinations\bin\Debug\netcoreapp3.1\00.1-GeneratingCombinations.deps.json
+C:\_Workspace\SU\Algorithms-2020.11\01-Fundamentals\02-RecursionAndBacktracking\00.1-GeneratingCombinations\bin\Debug\netcoreapp3.1\00.1-GeneratingCombinations.runtimeconfig.json
+C:\_Workspace\SU\Algorithms-2020.11\01-Fundamentals\02-RecursionAndBacktracking\00.1-GeneratingCombinations\bin\Debug\netcoreapp3.1\00.1-GeneratingCombinations.runtimeconfig.dev.json
+C:\_Workspace\SU\Algorithms-2020.11\01-Fundamentals\02-RecursionAndBacktracking\00.1-GeneratingCombinations\bin\Debug\netcoreapp3.1\00.1-GeneratingCombinations.dll
+C:\_Workspace\SU\Algorithms-2020.11\01-Fundamentals\02-RecursionAndBacktracking\00.1-GeneratingCombinations\bin\Debug\netcoreapp3.1\00.1-GeneratingCombinations.pdb
+C:\_Workspace\SU\Algorithms-2020.11\01-Fundamentals\02-RecursionAndBacktracking\00.1-GeneratingCombinations\obj\Debug\netcoreapp3.1\00.1-GeneratingCombinations.csprojAssemblyReference.cache
+C:\_Workspace\SU\Algorithms-2020.11\01-Fundamentals\02-RecursionAndBacktracking\00.1-GeneratingCombinations\obj\Debug\netcoreapp3.1\00.1-GeneratingCombinations.AssemblyInfoInputs.cache
+C:\_Workspace\SU\Algorithms-2020.11\01-Fundamentals\02-RecursionAndBacktracking\00.1-GeneratingCombinations\obj\Debug\netcoreapp3.1\00.1-GeneratingCombinations.AssemblyInfo.cs
+C:\_Workspace\SU\Algorithms-2020.11\01-Fundamentals\02-RecursionAndBacktracking\00.1-GeneratingCombinations\obj\Debug\netcoreapp3.1\00.1-GeneratingCombinations.csproj.CoreCompileInputs.cache
+C:\_Workspace\SU\Algorithms-2020.11\01-Fundamentals\02-RecursionAndBacktracking\00.1-GeneratingCombinations\obj\Debug\netcoreapp3.1\00.1-GeneratingCombinations.dll
+C:\_Workspace\SU\Algorithms-2020.11\01-Fundamentals\02-RecursionAndBacktracking\00.1-GeneratingCombinations\obj\Debug\netcoreapp3.1\00.1-GeneratingCombinations.pdb
+C:\_Workspace\SU\Algorithms-2020.11\01-Fundamentals\02-RecursionAndBacktracking\00.1-GeneratingCombinations\obj\Debug\netcoreapp3.1\00.1-GeneratingCombinations.genruntimeconfig.cache

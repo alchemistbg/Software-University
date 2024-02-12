@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = _04_RecursiveFactorial
+build_property.ProjectDir = C:\_Workspace\Software-University\Algorithms-01-Fundamentals\02-RecursionAndBacktracking\04-RecursiveFactorial\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

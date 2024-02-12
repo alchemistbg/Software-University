@@ -1,0 +1,13 @@
+C:\_Workspace\SU\Algorithms-2020.11\01-Fundamentals\02-RecursionAndBacktracking\05-FindAllPathsInALabyrinth\bin\Debug\netcoreapp3.1\05-FindAllPathsInALabyrinth.exe
+C:\_Workspace\SU\Algorithms-2020.11\01-Fundamentals\02-RecursionAndBacktracking\05-FindAllPathsInALabyrinth\bin\Debug\netcoreapp3.1\05-FindAllPathsInALabyrinth.deps.json
+C:\_Workspace\SU\Algorithms-2020.11\01-Fundamentals\02-RecursionAndBacktracking\05-FindAllPathsInALabyrinth\bin\Debug\netcoreapp3.1\05-FindAllPathsInALabyrinth.runtimeconfig.json
+C:\_Workspace\SU\Algorithms-2020.11\01-Fundamentals\02-RecursionAndBacktracking\05-FindAllPathsInALabyrinth\bin\Debug\netcoreapp3.1\05-FindAllPathsInALabyrinth.runtimeconfig.dev.json
+C:\_Workspace\SU\Algorithms-2020.11\01-Fundamentals\02-RecursionAndBacktracking\05-FindAllPathsInALabyrinth\bin\Debug\netcoreapp3.1\05-FindAllPathsInALabyrinth.dll
+C:\_Workspace\SU\Algorithms-2020.11\01-Fundamentals\02-RecursionAndBacktracking\05-FindAllPathsInALabyrinth\bin\Debug\netcoreapp3.1\05-FindAllPathsInALabyrinth.pdb
+C:\_Workspace\SU\Algorithms-2020.11\01-Fundamentals\02-RecursionAndBacktracking\05-FindAllPathsInALabyrinth\obj\Debug\netcoreapp3.1\05-FindAllPathsInALabyrinth.csprojAssemblyReference.cache
+C:\_Workspace\SU\Algorithms-2020.11\01-Fundamentals\02-RecursionAndBacktracking\05-FindAllPathsInALabyrinth\obj\Debug\netcoreapp3.1\05-FindAllPathsInALabyrinth.AssemblyInfoInputs.cache
+C:\_Workspace\SU\Algorithms-2020.11\01-Fundamentals\02-RecursionAndBacktracking\05-FindAllPathsInALabyrinth\obj\Debug\netcoreapp3.1\05-FindAllPathsInALabyrinth.AssemblyInfo.cs
+C:\_Workspace\SU\Algorithms-2020.11\01-Fundamentals\02-RecursionAndBacktracking\05-FindAllPathsInALabyrinth\obj\Debug\netcoreapp3.1\05-FindAllPathsInALabyrinth.csproj.CoreCompileInputs.cache
+C:\_Workspace\SU\Algorithms-2020.11\01-Fundamentals\02-RecursionAndBacktracking\05-FindAllPathsInALabyrinth\obj\Debug\netcoreapp3.1\05-FindAllPathsInALabyrinth.dll
+C:\_Workspace\SU\Algorithms-2020.11\01-Fundamentals\02-RecursionAndBacktracking\05-FindAllPathsInALabyrinth\obj\Debug\netcoreapp3.1\05-FindAllPathsInALabyrinth.pdb
+C:\_Workspace\SU\Algorithms-2020.11\01-Fundamentals\02-RecursionAndBacktracking\05-FindAllPathsInALabyrinth\obj\Debug\netcoreapp3.1\05-FindAllPathsInALabyrinth.genruntimeconfig.cache

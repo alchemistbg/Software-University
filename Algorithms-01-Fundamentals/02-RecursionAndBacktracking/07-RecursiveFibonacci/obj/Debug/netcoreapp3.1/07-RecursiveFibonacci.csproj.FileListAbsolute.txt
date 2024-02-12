@@ -1,0 +1,13 @@
+C:\_Workspace\SU\Algorithms-2020.11\01-Fundamentals\02-RecursionAndBacktracking\07-RecursiveFibonacci\bin\Debug\netcoreapp3.1\07-RecursiveFibonacci.exe
+C:\_Workspace\SU\Algorithms-2020.11\01-Fundamentals\02-RecursionAndBacktracking\07-RecursiveFibonacci\bin\Debug\netcoreapp3.1\07-RecursiveFibonacci.deps.json
+C:\_Workspace\SU\Algorithms-2020.11\01-Fundamentals\02-RecursionAndBacktracking\07-RecursiveFibonacci\bin\Debug\netcoreapp3.1\07-RecursiveFibonacci.runtimeconfig.json
+C:\_Workspace\SU\Algorithms-2020.11\01-Fundamentals\02-RecursionAndBacktracking\07-RecursiveFibonacci\bin\Debug\netcoreapp3.1\07-RecursiveFibonacci.runtimeconfig.dev.json
+C:\_Workspace\SU\Algorithms-2020.11\01-Fundamentals\02-RecursionAndBacktracking\07-RecursiveFibonacci\bin\Debug\netcoreapp3.1\07-RecursiveFibonacci.dll
+C:\_Workspace\SU\Algorithms-2020.11\01-Fundamentals\02-RecursionAndBacktracking\07-RecursiveFibonacci\bin\Debug\netcoreapp3.1\07-RecursiveFibonacci.pdb
+C:\_Workspace\SU\Algorithms-2020.11\01-Fundamentals\02-RecursionAndBacktracking\07-RecursiveFibonacci\obj\Debug\netcoreapp3.1\07-RecursiveFibonacci.AssemblyInfoInputs.cache
+C:\_Workspace\SU\Algorithms-2020.11\01-Fundamentals\02-RecursionAndBacktracking\07-RecursiveFibonacci\obj\Debug\netcoreapp3.1\07-RecursiveFibonacci.AssemblyInfo.cs
+C:\_Workspace\SU\Algorithms-2020.11\01-Fundamentals\02-RecursionAndBacktracking\07-RecursiveFibonacci\obj\Debug\netcoreapp3.1\07-RecursiveFibonacci.csproj.CoreCompileInputs.cache
+C:\_Workspace\SU\Algorithms-2020.11\01-Fundamentals\02-RecursionAndBacktracking\07-RecursiveFibonacci\obj\Debug\netcoreapp3.1\07-RecursiveFibonacci.dll
+C:\_Workspace\SU\Algorithms-2020.11\01-Fundamentals\02-RecursionAndBacktracking\07-RecursiveFibonacci\obj\Debug\netcoreapp3.1\07-RecursiveFibonacci.pdb
+C:\_Workspace\SU\Algorithms-2020.11\01-Fundamentals\02-RecursionAndBacktracking\07-RecursiveFibonacci\obj\Debug\netcoreapp3.1\07-RecursiveFibonacci.genruntimeconfig.cache
+C:\_Workspace\SU\Algorithms-2020.11\01-Fundamentals\02-RecursionAndBacktracking\07-RecursiveFibonacci\obj\Debug\netcoreapp3.1\07-RecursiveFibonacci.csprojAssemblyReference.cache

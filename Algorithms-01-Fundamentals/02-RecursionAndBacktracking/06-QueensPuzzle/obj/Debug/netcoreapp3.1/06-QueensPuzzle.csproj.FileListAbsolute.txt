@@ -1,0 +1,13 @@
+C:\_Workspace\SU\Algorithms-2020.11\01-Fundamentals\02-RecursionAndBacktracking\06-QueensPuzzle\obj\Debug\netcoreapp3.1\06-QueensPuzzle.csprojAssemblyReference.cache
+C:\_Workspace\SU\Algorithms-2020.11\01-Fundamentals\02-RecursionAndBacktracking\06-QueensPuzzle\obj\Debug\netcoreapp3.1\06-QueensPuzzle.AssemblyInfoInputs.cache
+C:\_Workspace\SU\Algorithms-2020.11\01-Fundamentals\02-RecursionAndBacktracking\06-QueensPuzzle\obj\Debug\netcoreapp3.1\06-QueensPuzzle.AssemblyInfo.cs
+C:\_Workspace\SU\Algorithms-2020.11\01-Fundamentals\02-RecursionAndBacktracking\06-QueensPuzzle\obj\Debug\netcoreapp3.1\06-QueensPuzzle.csproj.CoreCompileInputs.cache
+C:\_Workspace\SU\Algorithms-2020.11\01-Fundamentals\02-RecursionAndBacktracking\06-QueensPuzzle\bin\Debug\netcoreapp3.1\06-QueensPuzzle.exe
+C:\_Workspace\SU\Algorithms-2020.11\01-Fundamentals\02-RecursionAndBacktracking\06-QueensPuzzle\bin\Debug\netcoreapp3.1\06-QueensPuzzle.deps.json
+C:\_Workspace\SU\Algorithms-2020.11\01-Fundamentals\02-RecursionAndBacktracking\06-QueensPuzzle\bin\Debug\netcoreapp3.1\06-QueensPuzzle.runtimeconfig.json
+C:\_Workspace\SU\Algorithms-2020.11\01-Fundamentals\02-RecursionAndBacktracking\06-QueensPuzzle\bin\Debug\netcoreapp3.1\06-QueensPuzzle.runtimeconfig.dev.json
+C:\_Workspace\SU\Algorithms-2020.11\01-Fundamentals\02-RecursionAndBacktracking\06-QueensPuzzle\bin\Debug\netcoreapp3.1\06-QueensPuzzle.dll
+C:\_Workspace\SU\Algorithms-2020.11\01-Fundamentals\02-RecursionAndBacktracking\06-QueensPuzzle\bin\Debug\netcoreapp3.1\06-QueensPuzzle.pdb
+C:\_Workspace\SU\Algorithms-2020.11\01-Fundamentals\02-RecursionAndBacktracking\06-QueensPuzzle\obj\Debug\netcoreapp3.1\06-QueensPuzzle.dll
+C:\_Workspace\SU\Algorithms-2020.11\01-Fundamentals\02-RecursionAndBacktracking\06-QueensPuzzle\obj\Debug\netcoreapp3.1\06-QueensPuzzle.pdb
+C:\_Workspace\SU\Algorithms-2020.11\01-Fundamentals\02-RecursionAndBacktracking\06-QueensPuzzle\obj\Debug\netcoreapp3.1\06-QueensPuzzle.genruntimeconfig.cache

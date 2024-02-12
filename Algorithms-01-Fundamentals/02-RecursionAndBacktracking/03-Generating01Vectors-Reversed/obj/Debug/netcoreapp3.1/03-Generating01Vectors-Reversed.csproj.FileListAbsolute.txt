@@ -1,0 +1,13 @@
+C:\_Workspace\SU\Algorithms-2020.11\01-Fundamentals\02-RecursionAndBacktracking\03-Generating01Vectors-Reversed\bin\Debug\netcoreapp3.1\03-Generating01Vectors-Reversed.exe
+C:\_Workspace\SU\Algorithms-2020.11\01-Fundamentals\02-RecursionAndBacktracking\03-Generating01Vectors-Reversed\bin\Debug\netcoreapp3.1\03-Generating01Vectors-Reversed.deps.json
+C:\_Workspace\SU\Algorithms-2020.11\01-Fundamentals\02-RecursionAndBacktracking\03-Generating01Vectors-Reversed\bin\Debug\netcoreapp3.1\03-Generating01Vectors-Reversed.runtimeconfig.json
+C:\_Workspace\SU\Algorithms-2020.11\01-Fundamentals\02-RecursionAndBacktracking\03-Generating01Vectors-Reversed\bin\Debug\netcoreapp3.1\03-Generating01Vectors-Reversed.runtimeconfig.dev.json
+C:\_Workspace\SU\Algorithms-2020.11\01-Fundamentals\02-RecursionAndBacktracking\03-Generating01Vectors-Reversed\bin\Debug\netcoreapp3.1\03-Generating01Vectors-Reversed.dll
+C:\_Workspace\SU\Algorithms-2020.11\01-Fundamentals\02-RecursionAndBacktracking\03-Generating01Vectors-Reversed\bin\Debug\netcoreapp3.1\03-Generating01Vectors-Reversed.pdb
+C:\_Workspace\SU\Algorithms-2020.11\01-Fundamentals\02-RecursionAndBacktracking\03-Generating01Vectors-Reversed\obj\Debug\netcoreapp3.1\03-Generating01Vectors-Reversed.AssemblyInfoInputs.cache
+C:\_Workspace\SU\Algorithms-2020.11\01-Fundamentals\02-RecursionAndBacktracking\03-Generating01Vectors-Reversed\obj\Debug\netcoreapp3.1\03-Generating01Vectors-Reversed.AssemblyInfo.cs
+C:\_Workspace\SU\Algorithms-2020.11\01-Fundamentals\02-RecursionAndBacktracking\03-Generating01Vectors-Reversed\obj\Debug\netcoreapp3.1\03-Generating01Vectors-Reversed.csproj.CoreCompileInputs.cache
+C:\_Workspace\SU\Algorithms-2020.11\01-Fundamentals\02-RecursionAndBacktracking\03-Generating01Vectors-Reversed\obj\Debug\netcoreapp3.1\03-Generating01Vectors-Reversed.dll
+C:\_Workspace\SU\Algorithms-2020.11\01-Fundamentals\02-RecursionAndBacktracking\03-Generating01Vectors-Reversed\obj\Debug\netcoreapp3.1\03-Generating01Vectors-Reversed.pdb
+C:\_Workspace\SU\Algorithms-2020.11\01-Fundamentals\02-RecursionAndBacktracking\03-Generating01Vectors-Reversed\obj\Debug\netcoreapp3.1\03-Generating01Vectors-Reversed.genruntimeconfig.cache
+C:\_Workspace\SU\Algorithms-2020.11\01-Fundamentals\02-RecursionAndBacktracking\03-Generating01Vectors-Reversed\obj\Debug\netcoreapp3.1\03-Generating01Vectors-Reversed.csprojAssemblyReference.cache

@@ -1,0 +1,15 @@
+C:\_Workspace\Software-University\Algorithms-01-Fundamentals\02-RecursionAndBacktracking\02-RecursiveDrawing\bin\Debug\net8.0\02-RecursiveDrawing.exe
+C:\_Workspace\Software-University\Algorithms-01-Fundamentals\02-RecursionAndBacktracking\02-RecursiveDrawing\bin\Debug\net8.0\02-RecursiveDrawing.deps.json
+C:\_Workspace\Software-University\Algorithms-01-Fundamentals\02-RecursionAndBacktracking\02-RecursiveDrawing\bin\Debug\net8.0\02-RecursiveDrawing.runtimeconfig.json
+C:\_Workspace\Software-University\Algorithms-01-Fundamentals\02-RecursionAndBacktracking\02-RecursiveDrawing\bin\Debug\net8.0\02-RecursiveDrawing.dll
+C:\_Workspace\Software-University\Algorithms-01-Fundamentals\02-RecursionAndBacktracking\02-RecursiveDrawing\bin\Debug\net8.0\02-RecursiveDrawing.pdb
+C:\_Workspace\Software-University\Algorithms-01-Fundamentals\02-RecursionAndBacktracking\02-RecursiveDrawing\obj\Debug\net8.0\02-RecursiveDrawing.GeneratedMSBuildEditorConfig.editorconfig
+C:\_Workspace\Software-University\Algorithms-01-Fundamentals\02-RecursionAndBacktracking\02-RecursiveDrawing\obj\Debug\net8.0\02-RecursiveDrawing.AssemblyInfoInputs.cache
+C:\_Workspace\Software-University\Algorithms-01-Fundamentals\02-RecursionAndBacktracking\02-RecursiveDrawing\obj\Debug\net8.0\02-RecursiveDrawing.AssemblyInfo.cs
+C:\_Workspace\Software-University\Algorithms-01-Fundamentals\02-RecursionAndBacktracking\02-RecursiveDrawing\obj\Debug\net8.0\02-RecursiveDrawing.csproj.CoreCompileInputs.cache
+C:\_Workspace\Software-University\Algorithms-01-Fundamentals\02-RecursionAndBacktracking\02-RecursiveDrawing\obj\Debug\net8.0\02-RecursiveDrawing.sourcelink.json
+C:\_Workspace\Software-University\Algorithms-01-Fundamentals\02-RecursionAndBacktracking\02-RecursiveDrawing\obj\Debug\net8.0\02-RecursiveDrawing.dll
+C:\_Workspace\Software-University\Algorithms-01-Fundamentals\02-RecursionAndBacktracking\02-RecursiveDrawing\obj\Debug\net8.0\refint\02-RecursiveDrawing.dll
+C:\_Workspace\Software-University\Algorithms-01-Fundamentals\02-RecursionAndBacktracking\02-RecursiveDrawing\obj\Debug\net8.0\02-RecursiveDrawing.pdb
+C:\_Workspace\Software-University\Algorithms-01-Fundamentals\02-RecursionAndBacktracking\02-RecursiveDrawing\obj\Debug\net8.0\02-RecursiveDrawing.genruntimeconfig.cache
+C:\_Workspace\Software-University\Algorithms-01-Fundamentals\02-RecursionAndBacktracking\02-RecursiveDrawing\obj\Debug\net8.0\ref\02-RecursiveDrawing.dll

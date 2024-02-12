@@ -1,0 +1,15 @@
+C:\_Workspace\Software-University\Algorithms-01-Fundamentals\02-RecursionAndBacktracking\00.1-GeneratingCombinations\bin\Debug\net8.0\00.1-GeneratingCombinations.exe
+C:\_Workspace\Software-University\Algorithms-01-Fundamentals\02-RecursionAndBacktracking\00.1-GeneratingCombinations\bin\Debug\net8.0\00.1-GeneratingCombinations.deps.json
+C:\_Workspace\Software-University\Algorithms-01-Fundamentals\02-RecursionAndBacktracking\00.1-GeneratingCombinations\bin\Debug\net8.0\00.1-GeneratingCombinations.runtimeconfig.json
+C:\_Workspace\Software-University\Algorithms-01-Fundamentals\02-RecursionAndBacktracking\00.1-GeneratingCombinations\bin\Debug\net8.0\00.1-GeneratingCombinations.dll
+C:\_Workspace\Software-University\Algorithms-01-Fundamentals\02-RecursionAndBacktracking\00.1-GeneratingCombinations\bin\Debug\net8.0\00.1-GeneratingCombinations.pdb
+C:\_Workspace\Software-University\Algorithms-01-Fundamentals\02-RecursionAndBacktracking\00.1-GeneratingCombinations\obj\Debug\net8.0\00.1-GeneratingCombinations.GeneratedMSBuildEditorConfig.editorconfig
+C:\_Workspace\Software-University\Algorithms-01-Fundamentals\02-RecursionAndBacktracking\00.1-GeneratingCombinations\obj\Debug\net8.0\00.1-GeneratingCombinations.AssemblyInfoInputs.cache
+C:\_Workspace\Software-University\Algorithms-01-Fundamentals\02-RecursionAndBacktracking\00.1-GeneratingCombinations\obj\Debug\net8.0\00.1-GeneratingCombinations.AssemblyInfo.cs
+C:\_Workspace\Software-University\Algorithms-01-Fundamentals\02-RecursionAndBacktracking\00.1-GeneratingCombinations\obj\Debug\net8.0\00.1-GeneratingCombinations.csproj.CoreCompileInputs.cache
+C:\_Workspace\Software-University\Algorithms-01-Fundamentals\02-RecursionAndBacktracking\00.1-GeneratingCombinations\obj\Debug\net8.0\00.1-GeneratingCombinations.sourcelink.json
+C:\_Workspace\Software-University\Algorithms-01-Fundamentals\02-RecursionAndBacktracking\00.1-GeneratingCombinations\obj\Debug\net8.0\00.1-GeneratingCombinations.dll
+C:\_Workspace\Software-University\Algorithms-01-Fundamentals\02-RecursionAndBacktracking\00.1-GeneratingCombinations\obj\Debug\net8.0\refint\00.1-GeneratingCombinations.dll
+C:\_Workspace\Software-University\Algorithms-01-Fundamentals\02-RecursionAndBacktracking\00.1-GeneratingCombinations\obj\Debug\net8.0\00.1-GeneratingCombinations.pdb
+C:\_Workspace\Software-University\Algorithms-01-Fundamentals\02-RecursionAndBacktracking\00.1-GeneratingCombinations\obj\Debug\net8.0\00.1-GeneratingCombinations.genruntimeconfig.cache
+C:\_Workspace\Software-University\Algorithms-01-Fundamentals\02-RecursionAndBacktracking\00.1-GeneratingCombinations\obj\Debug\net8.0\ref\00.1-GeneratingCombinations.dll
