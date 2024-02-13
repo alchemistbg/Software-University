@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("03-Generating01Vectors-Reversed")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+da563b2dd76254bd194484088280653736ab3044")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a7b85fa99b1eebedbab71943be79ba03ae214896")]
 [assembly: System.Reflection.AssemblyProductAttribute("03-Generating01Vectors-Reversed")]
 [assembly: System.Reflection.AssemblyTitleAttribute("03-Generating01Vectors-Reversed")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
